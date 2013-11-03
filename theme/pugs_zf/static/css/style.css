@@ -1,5 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700);
+
 /* Misc */
-body { word-wrap:break-word; }
+body {
+	font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+	word-wrap:break-word; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+	/*font-family: "Verdana", serif;*/
+}
 
 ol li ul, ol li ol { 
 margin-bottom: 1.25em;
@@ -10,12 +20,16 @@ article { padding-left:1em; }
 
 /* Base.html - top navigation */
 .top-bar {
-background: #2BA6E3; /* Header color */
+background: #fff; /* Header color */
 height: 100%; 
 margin-bottom: 1em; 
 }
 
-.top-bar a { color: #fff } /* Sitename color */
+ul.top-nav {
+	margin: 1em;
+}
+
+/* .top-bar a { color: #fff } */ /* Sitename color */
 ul.button-group.navigation { margin-bottom: 1em; }
 
 
@@ -27,9 +41,9 @@ font-weight: bold;
 text-transform: uppercase;
 }
 
-.side-nav li a { color: #222}
+/*.side-nav li a { color: #222}*/
 .side-nav { padding: 0.5em 0; }
-
+.side-nav li a.button {text-align: left;}
 
 /* Index.html - posts */
 h3.article-title {

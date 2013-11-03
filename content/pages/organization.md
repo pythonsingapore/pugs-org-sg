@@ -1,9 +1,11 @@
 Title: Organization
 slug: org
 
-# Current Officers (term of office from 31 October 2013 to October 2015)
+## Current Officers
 
-## Executive committee:
+term of office: 31 October 2013 to October 2015
+
+### Executive committee:
 
 - Neo Lok Tuan (President)
 - Ivan Zimine (Vice-President)
@@ -11,7 +13,7 @@ slug: org
 - Michael Li (Secretary)
 
 
-## Ordinary committee members:
+### Ordinary committee members:
 
 - Martin Brochhaus
 - Chng Nai Yun
@@ -22,16 +24,18 @@ slug: org
 - Li Ming Tsai
 
 
-# Past Officers (term of office from 21 October 2011 to October 2013)
+## Past Officers 
 
-## Executive committee:
+term of office: 21 October 2011 to October 2013
+
+### Executive committee:
 
 - Liew Beng Keat (President)
 - Maurice Ling (Vice-President)
 - Ivan Zimine (Secretary)
 - Michael Li (Treasurer)
 
-## Ordinary committee members
+### Ordinary committee members
 
 - Calvin Cheng
 - Neo Lok Tuan
