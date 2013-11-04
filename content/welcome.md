@@ -1,5 +1,6 @@
 Title: Welcome to PUGS
 slug: welcome
+category: general
 date: 2013-11-01
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
