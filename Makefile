@@ -24,7 +24,7 @@ help:
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
-	@echo '   make github                      upload the web site via gh-pages   '
+	@echo '   make ghp                         upload the web site via gh-pages   '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -66,7 +66,7 @@ ssh_upload: publish
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
-github: publish
+ghp: publish
 	ghp-import $(OUTPUTDIR)
 	git push origin gh-pages
 
