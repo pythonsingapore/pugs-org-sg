@@ -50,6 +50,9 @@ LINKS = (
     ('Python.org', 'http://python.org/'),
 )
 
+STATIC_PATHS = [
+    'CNAME',
+]
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
