@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2013-11-29T00:00:00+08:00</updated><entry><title>December user meeting</title><link href="/2013-dec-meeting.html" rel="alternate"></link><updated>2013-11-29T00:00:00+08:00</updated><author><name>webmaster</name></author><id>tag:,2013-11-29:2013-dec-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on December 18th, 7-9pm at the new
+&lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On the menu:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;DevOps with Python (&lt;a href="http://www.ansibleworks.com/"&gt;ansible&lt;/a&gt;) by Rahul&lt;/li&gt;
+&lt;li&gt;Building interactive web based data visualizations on large
+datasets without writing any javascript! (&lt;a href="http://bokeh.pydata.org/"&gt;bokeh&lt;/a&gt;) by Hugo&lt;/li&gt;
+&lt;/ol&gt;</summary></entry></feed>
