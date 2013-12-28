@@ -9,10 +9,10 @@ To date, PUGS had organized 12 regular user meetings, 3 PyCON Asia-Pacific and 1
 ## Contact
 
 <address>
-Python User Group (Singapore)
-37 Sunshine Terrace, Bartley Rise
-Singapore 535712
-ROS Reference: 2060/2009
-ROS UEN: T09SS0122B
+Python User Group (Singapore)  
+37 Sunshine Terrace, Bartley Rise  
+Singapore 535712  
+ROS Reference: 2060/2009  
+ROS UEN: T09SS0122B  
 General enquiries: membership@pugs.org.sg
 </address>
