@@ -3,15 +3,18 @@
 /* Misc */
 body {
 	font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-	word-wrap:break-word; 
+	word-wrap:break-word;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-	/*font-family: "Verdana", serif;*/
 }
 
-ol li ul, ol li ol { 
+ul, ol, dl {
+list-style-position: inside;
+}
+
+ol li ul, ol li ol {
 margin-bottom: 1.25em;
 }
 
@@ -21,8 +24,8 @@ article { padding-left:1em; }
 /* Base.html - top navigation */
 .top-bar {
 background: #fff; /* Header color */
-height: 100%; 
-margin-bottom: 1em; 
+height: 100%;
+margin-bottom: 1em;
 }
 
 ul.top-nav {
@@ -47,7 +50,7 @@ text-transform: uppercase;
 
 /* Index.html - posts */
 h3.article-title {
-margin-bottom: 0em; 
+margin-bottom: 0em;
 color: #3A91CB;
 }
 
@@ -67,10 +70,10 @@ hr.gradient {
     height: 1px;
     margin-top: 3em;
     margin-bottom: 3em;
-    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
-    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
-    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
-    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
 }
 
 /* Syntax Highlighting */
