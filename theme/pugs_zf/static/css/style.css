@@ -10,12 +10,13 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
 
-ul, ol, dl {
-list-style-position: inside;
-}
+/*ul, ol {
+  list-style-position: outside;
+  margin-left: 2em;
+}*/
 
 ol li ul, ol li ol {
-margin-bottom: 1.25em;
+  margin-bottom: 1.25em;
 }
 
 article { padding-left:1em; }
@@ -23,9 +24,9 @@ article { padding-left:1em; }
 
 /* Base.html - top navigation */
 .top-bar {
-background: #fff; /* Header color */
-height: 100%;
-margin-bottom: 1em;
+  background: #fff; /* Header color */
+  height: 100%;
+  margin-bottom: 1em;
 }
 
 ul.top-nav {
@@ -38,10 +39,10 @@ ul.button-group.navigation { margin-bottom: 1em; }
 
 /* Base.html sidebar */
 h5.sidebar-title {
-border-bottom: 0.1em solid #eeeeee;
-margin-top: 1em;
-font-weight: bold;
-text-transform: uppercase;
+  border-bottom: 0.1em solid #eeeeee;
+  margin-top: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 /*.side-nav li a { color: #222}*/
@@ -50,8 +51,8 @@ text-transform: uppercase;
 
 /* Index.html - posts */
 h3.article-title {
-margin-bottom: 0em;
-color: #3A91CB;
+  margin-bottom: 0em;
+  color: #3A91CB;
 }
 
 
@@ -66,24 +67,24 @@ a.article-info { color: #aaa; }
 
 /* Index.html - line separator for posts */
 hr.gradient {
-    border: 0;
-    height: 1px;
-    margin-top: 3em;
-    margin-bottom: 3em;
-    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  border: 0;
+  height: 1px;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
 }
 
 /* Syntax Highlighting */
 .highlight > pre {
-word-wrap: normal;
-white-space: pre;
-margin-top: 1em;
-margin-bottom: 1em;
-border: 1px solid #ccc;
-background: #073642;
-padding: 1em;
-overflow: auto;
+  word-wrap: normal;
+  white-space: pre;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 1px solid #ccc;
+  background: #073642;
+  padding: 1em;
+  overflow: auto;
 }
