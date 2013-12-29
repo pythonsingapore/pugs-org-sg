@@ -1,8 +1,7 @@
 Python Users Group Singapore
 ============================
 
-This is source repository for [pugs.org.sg](pugs.org.sg). We use [pelican](http://docs.getpelican.com/) to build the site
-hosted on [GitHub pages](http://pages.github.com/).
+This is source repository for [pugs.org.sg](http://pugs.org.sg). We use [pelican](http://docs.getpelican.com/) to build the site which is hosted on [GitHub pages](http://pages.github.com/).
 
 
 How to contribute
