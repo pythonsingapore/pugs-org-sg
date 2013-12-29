@@ -2,75 +2,91 @@ Title: By Laws
 slug: bylaws
 
 <center>
-# BY-LAWS OF
-Python User Group (Singapore)
+<h3>BY-LAWS OF</h3>
+<h4>Python User Group (Singapore)</h4>
 </center>
 
 <center>
-# PART I – PRELIMINARY
+<h4>PART I – PRELIMINARY</h4>
 </center>
 
-## Authority
+<ul class="list-style-none legal">
 
-1. These by-laws are established by the management committee of Python User Group (Singapore) under the authority vested by Paragraph 8(j) of the Constitution of Python User Group (Singapore).
+<li><b>Authority</b>
+These by-laws are established by the management committee of Python User Group (Singapore) under the authority vested by Paragraph 8(j) of the Constitution of Python User Group (Singapore).
+</li>
+
+<li><b>Short Title</b>
+These by-laws may be cited as By-Laws of Python User Group (Singapore).
+</li>
 
 
-## Short Title
+<li><b>Interpretation</b>
+In these by-laws, unless the context otherwise requires – 
 
-2. These by-laws may be cited as By-Laws of Python User Group (Singapore).
+  <ul class="list-style-none">
+    <li>“committee” or “management committee” means the elected members under Paragraph 8(a) of the Constitution of Python User Group (Singapore) with duties spelt out under Paragraph 9 of Constitution of Python User Group (Singapore);</li>
 
-## Interpretation
-3. In these by-laws, unless the context otherwise requires – 
+    <li>“PUGS” means Python User Group (Singapore);</li>
 
-  “committee” or “management committee” means the elected members under Paragraph 8(a) of the Constitution of Python User Group (Singapore) with duties spelt out under Paragraph 9 of Constitution of Python User Group (Singapore);
-
-  “PUGS” means Python User Group (Singapore);
-
-  “Python” means the Python programming language managed by Python Software Foundation incorporated in the State of Delaware, United States of America.
+    <li>“Python” means the Python programming language managed by Python Software Foundation incorporated in the State of Delaware, United States of America.</li>
+  </ul>
+</li>
 
 
 <center>
-# PART II – MEMBERSHIP CRITERIA
+<h4>PART II – MEMBERSHIP CRITERIA</h4>
 </center>
 
-## Associate Membership
-
-4. All persons subscribing to the objects of Python User Group (Singapore) 
+<li><b>Associate Membership</b>
+  All persons subscribing to the objects of Python User Group (Singapore) 
   specified under Paragraph 3 of Constitution of Python User Group (Singapore)
   shall be admitted as “associate members” upon –
-
-  a. completion of the required current membership form(s); and
-  b. deemed fit and approved by the committee or its designate
-
-## Ordinary Membership
-
-5. (1) The following are the criteria for admission as “ordinary member” –
-
-  a. subscription to the objects of Python User Group (Singapore) specified under Paragraph 3 of Constitution of Python User Group (Singapore); and
-  b. completion of the required current membership form(s); and
-  c. attended at least 2 PUGS meeting in a given calendar year, or currently developing in Python and furbished such details to the committee; and
-  d. deemed fit and approved by the committee or its designate.
-
-  (2) Ordinary member may use the nominal letters of “MPUGS”.
+  <ul class="list-style-none">
+    <li>completion of the required current membership form(s); and</li>
+    <li>deemed fit and approved by the committee or its designate</li>
+  </ul>
+</li>
 
 
-## Senior Membership
+<li><b>Ordinary Membership</b>
+(1) The following are the criteria for admission as “ordinary member” –
 
-6. (1) Ordinary members may be admitted as “senior member” upon deemed fit and approved by the committee or its designate and fulfilling at least 4 of the following criteria –
+  <ul class="list-style-latin">
+    <li>subscription to the objects of Python User Group (Singapore) specified under Paragraph 3 of Constitution of Python User Group (Singapore); and</li>
+    <li>completion of the required current membership form(s); and</li>
+    <li>attended at least 2 PUGS meeting in a given calendar year, or currently developing in Python and furbished such details to the committee; and</li>
+    <li>deemed fit and approved by the committee or its designate.</li>
+  </ul>
 
-  a. ordinary member of PUGS for at least 3 years;
-  b. part of the organizing committee for PyCon Asia-Pacific or a regional Python conference;
-  c. reviewer for Python books or articles, or significant contributions in terms of libraries, modules, etc., to the community ;
-  d. published at least 5 articles in Python or made 5 presentations in a regional or international Python conference;
-  e. endorsed by 3 members of Python community who qualifies as ordinary members;
-  f. conducted 2 workshops in Python or its technologies.
+(2) Ordinary member may use the nominal letters of “MPUGS”.
+</li>
 
-  (2) Senior member may use the nominal letters of “SrMPUGS”.
+<li><b>Senior Membership</b>
+(1) Ordinary members may be admitted as “senior member” upon deemed fit and approved by the committee or its designate and fulfilling at least 4 of the following criteria –
 
-## Fellows
-7. (1) Being a Senior Member for 2 years and fulfillment of the following criteria is required for admission as “fellow” upon deemed fit and approved by the committee or its designate –
+  <ul class="list-style-latin">
+    <li>ordinary member of PUGS for at least 3 years;</li>
+    <li>part of the organizing committee for PyCon Asia-Pacific or a regional Python conference;</li>
+    <li>reviewer for Python books or articles, or significant contributions in terms of libraries, modules, etc., to the community ;</li>
+    <li>published at least 5 articles in Python or made 5 presentations in a regional or international Python conference;</li>
+    <li>endorsed by 3 members of Python community who qualifies as ordinary members;</li>
+    <li>conducted 2 workshops in Python or its technologies.</li>
+  </ul>
 
-  a. endorsed by 10 ordinary members, or 5 senior members, or 3 fellows of PUGS;
-  b. outstanding contributions at a global level, as deemed by the committee or designated evaluation panel, in computing and information technology using Python.
+(2) Senior member may use the nominal letters of “SrMPUGS”.
+</li>
 
-  (2) Fellow may use the nominal letters of “FMPUGS”.
+<li><b>Fellows</b>
+(1) Being a Senior Member for 2 years and fulfillment of the following criteria is required for admission as “fellow” upon deemed fit and approved by the committee or its designate –
+
+  <ul class="list-style-latin">
+    <li>endorsed by 10 ordinary members, or 5 senior members, or 3 fellows of
+        PUGS;</li>
+    <li>outstanding contributions at a global level, as deemed by the committee or designated evaluation panel, in computing and information technology using Python.</li>
+  </ul>
+
+(2) Fellow may use the nominal letters of “FMPUGS”.
+</li>
+
+</ul>

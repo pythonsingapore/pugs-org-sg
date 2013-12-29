@@ -4,6 +4,7 @@
 body {
 	font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 	word-wrap:break-word;
+  counter-reset: clause;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,7 +20,7 @@ ol li ul, ol li ol {
   margin-bottom: 1.25em;
 }
 
-article { padding-left:1em; }
+article { padding-left:1rem; }
 
 
 /* Base.html - top navigation */
@@ -88,3 +89,37 @@ hr.gradient {
   padding: 1em;
   overflow: auto;
 }
+
+/* custom lists with continuous numbering for by-laws et al */
+
+.list-style-none {
+  list-style-type: none;
+}
+
+.list-style-latin {
+  list-style-type: lower-latin;
+}
+
+ul.legal>li {
+  position: relative;
+  padding-top: 1.75em;
+  padding-bottom: 1.5em;
+}
+
+ul.legal>li:before {
+  counter-increment: clause;
+  content: counter(clause, decimal) ". ";
+}
+
+ul.legal>li>b {
+  position:absolute;
+  top: 0;  /* becase of padding-top */
+  left: 0;
+}
+
+ul.legal>li ul li {
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+  margin-left: 1em;
+}
+
