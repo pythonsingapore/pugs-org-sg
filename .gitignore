@@ -1,5 +1,7 @@
 *.pid
 *.pyc
 *.swp
+*.sublime-workspace
+*.sublime-project
 output/
 deploy_remote.sh
