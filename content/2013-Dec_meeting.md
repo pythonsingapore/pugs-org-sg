@@ -1,7 +1,8 @@
 Title: December user meeting
 slug: 2013-dec-meeting
-category: meetings
+author: Ivan
 date: 2013-11-29
+category: meetings
 
 Next user meeting will be held on December 18th, 7-9pm at the new
 [hackerspace.sg](http://hackerspace.sg).

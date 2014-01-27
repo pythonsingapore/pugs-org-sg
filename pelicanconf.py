@@ -7,15 +7,15 @@ SITENAME = u'Python User Group Singapore'
 SITEURL = ''
 
 # default text in the footer
-COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2013, Python User Group Singapore'
+COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2014, Python User Group Singapore'
 
 DEFAULT_LANG = u'en'
 TIMEZONE = 'Asia/Singapore'
 
 THEME = 'theme/pugs_zf'
 
-AUTHOR_SAVE_AS = False
-AUTHORS_SAVE_AS = False
+AUTHOR_SAVE_AS = 'author/{slug}.html'
+AUTHORS_SAVE_AS = 'author/{slug}.html'
 
 DISPLAY_PAGES_ON_MENU = False  # see MENUITEMS
 DEFAULT_PAGINATION = False
