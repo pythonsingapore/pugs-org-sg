@@ -2,7 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2014-01-27T00:00:00+08:00</updated><entry><title>February user meeting</title><link href="/2014-feb-meeting.html" rel="alternate"></link><updated>2014-01-27T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-01-27:2014-feb-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on February 19th, 7:30-9pm at the
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We'll have &lt;a href="https://github.com/faassen"&gt;Martijn Faassen&lt;/a&gt; presenting on
-&lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; micro web framework.&lt;/p&gt;</summary></entry><entry><title>December user meeting</title><link href="/2013-dec-meeting.html" rel="alternate"></link><updated>2013-11-29T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2013-11-29:2013-dec-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on December 18th, 7-9pm at the new
+&lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; micro web framework.&lt;/p&gt;
+&lt;p&gt;"Morepath is an Python WSGI microframework. It uses routing, but the routing
+is to models. Morepath is model-driven and flexible, which makes it
+expressive." (&lt;a href="http://morepath.readthedocs.org/en/latest/"&gt;docs&lt;/a&gt;)&lt;/p&gt;</summary></entry><entry><title>December user meeting</title><link href="/2013-dec-meeting.html" rel="alternate"></link><updated>2013-11-29T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2013-11-29:2013-dec-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on December 18th, 7-9pm at the new
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;On the menu:&lt;/p&gt;
 &lt;ol&gt;
