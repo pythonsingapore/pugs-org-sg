@@ -10,3 +10,6 @@ Next user meeting will be held on February 19th, 7:30-9pm at the
 We'll have [Martijn Faassen](https://github.com/faassen) presenting on
 [MorePath](https://github.com/morepath/morepath) micro web framework.
 
+"Morepath is an Python WSGI microframework. It uses routing, but the routing
+is to models. Morepath is model-driven and flexible, which makes it
+expressive." ([docs](http://morepath.readthedocs.org/en/latest/))
