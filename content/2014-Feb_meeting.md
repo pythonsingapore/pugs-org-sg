@@ -7,7 +7,7 @@ category: meetings
 Next user meeting will be held on February 19th, 7:30-9pm at the
 [hackerspace.sg](http://hackerspace.sg).
 
-We'll have [Martijn Faassen](https://github.com/faassen) presenting on
+We'll have [Martijn Faassen](http://startifact.com/) presenting on
 [MorePath](https://github.com/morepath/morepath) micro web framework.
 
 "Morepath is an Python WSGI microframework. It uses routing, but the routing
