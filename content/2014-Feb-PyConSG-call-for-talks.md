@@ -1,8 +1,9 @@
 Title: Call for proposals for PyConSG 2014
-slug: 2014-PyConsG-call-for-talks
-author: Ivan
-date: 2014-02-17
-category: pycon, conference
+Slug: 2014-PyConsG-call-for-talks
+Author: Ivan
+Date: 2014-02-17
+Category: conference
+Tags: pyconsg
 
 On behalf of the organizing committee of PyCon SG 2014,
 we are pleased to invite members of the community to submit talks

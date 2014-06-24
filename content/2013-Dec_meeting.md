@@ -1,9 +1,10 @@
 Title: December user meeting
-slug: 2013-dec-meeting
-author: Ivan
-date: 2013-11-29
-updated: 2013-12-21
-category: meetings
+Slug: 2013-dec-meeting
+Author: Ivan
+Date: 2013-11-29
+Updated: 2013-12-21
+Category: meetings
+Tags: devops, scipy
 
 Next user meeting will be held on December 18th, 7-9pm at the new
 [hackerspace.sg](http://hackerspace.sg).

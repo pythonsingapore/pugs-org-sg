@@ -1,8 +1,9 @@
 Title: February user meeting
-slug: 2014-feb-meeting
-author: Ivan
-date: 2014-01-27
-category: meetings
+Slug: 2014-feb-meeting
+Author: Ivan
+Date: 2014-01-27
+Category: meetings
+Tags: webdev
 
 Next user meeting will be held on February 19th, 7:30-9pm at the
 [hackerspace.sg](http://hackerspace.sg).

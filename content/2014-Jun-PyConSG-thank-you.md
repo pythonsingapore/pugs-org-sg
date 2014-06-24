@@ -1,8 +1,9 @@
 Title: Thank You for Attending PyCon SG 2014
-slug: 2014-PyConsG-Thank-You
-author: Ivan
-date: 2014-06-24
-category: pycon, conference
+Slug: 2014-pyconsg-thank-you
+Author: Ivan
+Date: 2014-06-24
+Category: conference
+Tags: pyconsg
 
 
 ![PyConSG 2014 attendees]({filename}/img/2014-pyconsg-crowd.jpg)
