@@ -53,6 +53,7 @@ LINKS = (
 
 STATIC_PATHS = [
     'CNAME',
+    'img'
 ]
 
 # Uncomment following line if you want document-relative URLs when developing
