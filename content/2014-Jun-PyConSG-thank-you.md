@@ -6,7 +6,8 @@ Category: conference
 Tags: pyconsg
 
 
-![PyConSG 2014 attendees]({filename}/img/2014-pyconsg-crowd.jpg)
+[![PyConSG 2014 attendees]({filename}/img/2014-pyconsg-crowd.jpg)](
+https://www.flickr.com/photos/mbrochh/14465517992/)
 
 
 On behalf of all the PyCon organizing committee members, I would like to thank
