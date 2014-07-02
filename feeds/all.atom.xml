@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-06-24T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
-you for taking time off to attend PyCon Singapore 2014 which was held at
-&lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June. &lt;/p&gt;
+all attendees for taking time off to attend PyCon Singapore 2014 which was held at
+&lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June.&lt;/p&gt;
 &lt;p&gt;We organized this conference for the Python developer and student community in
 Singapore and we are very grateful for your support.&lt;/p&gt;
-&lt;p&gt;You feedback regarding the conference will be critical in order for the
+&lt;p&gt;Your feedback regarding the conference will be critical in order for the
 organizing committee to make PyCon SG 2015 even better than this year's
 conference. A short &lt;a href="https://docs.google.com/forms/d/1A5NoxhvrD2mnrT47b88LKjng63v3kZfT6smDOSc5rAk/viewform"&gt;feedback form&lt;/a&gt;
 is available online which shall not take more than five minutes to
@@ -28,8 +28,8 @@ their keynotes.&lt;/p&gt;
 committee for all their hard work in the past year to make this conference a
 reality. In the coming weeks, we will be holding a meeting to elect the
 organizing committee for PyCon SG 2015. If you are interested in joining the
-PyCon 2015 committee, you may let know on the feedback form above.&lt;/p&gt;
-&lt;p&gt;Sincerely,&lt;br /&gt;
+PyCon 2015 committee, you may let us know on the feedback form above.&lt;/p&gt;
+&lt;p&gt;Sincerely,
 Victor Neo&lt;/p&gt;
 &lt;p&gt;Chairman, PyCon Singapore 2014&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2014</title><link href="/2014-PyConsG-call-for-talks.html" rel="alternate"></link><updated>2014-02-17T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-02-17:2014-PyConsG-call-for-talks.html</id><summary type="html">&lt;p&gt;On behalf of the organizing committee of PyCon SG 2014,
 we are pleased to invite members of the community to submit talks
