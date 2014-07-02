@@ -11,13 +11,13 @@ https://www.flickr.com/photos/mbrochh/14465517992/)
 
 
 On behalf of all the PyCon organizing committee members, I would like to thank
-you for taking time off to attend PyCon Singapore 2014 which was held at
-[Singapore Polytechnic](http://www.sp.edu.sg/) from 18th June to 20th June. 
+all attendees for taking time off to attend PyCon Singapore 2014 which was held at
+[Singapore Polytechnic](http://www.sp.edu.sg/) from 18th June to 20th June.
 
 We organized this conference for the Python developer and student community in
 Singapore and we are very grateful for your support.
 
-You feedback regarding the conference will be critical in order for the
+Your feedback regarding the conference will be critical in order for the
 organizing committee to make PyCon SG 2015 even better than this year's
 conference. A short [feedback form](
 https://docs.google.com/forms/d/1A5NoxhvrD2mnrT47b88LKjng63v3kZfT6smDOSc5rAk/viewform)
@@ -44,10 +44,10 @@ Finally, as the chair of this conference, I would like to thank the organizing
 committee for all their hard work in the past year to make this conference a
 reality. In the coming weeks, we will be holding a meeting to elect the
 organizing committee for PyCon SG 2015. If you are interested in joining the
-PyCon 2015 committee, you may let know on the feedback form above.
+PyCon 2015 committee, you may let us know on the feedback form above.
 
 
-Sincerely,  
+Sincerely,
 Victor Neo
 
 Chairman, PyCon Singapore 2014
