@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-06-24T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-07-21T00:00:00+08:00</updated><entry><title>July user meeting</title><link href="/2014-jul-meeting.html" rel="alternate"></link><updated>2014-07-21T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-07-21:2014-jul-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on July 31th, 7-9pm at
+&lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Talks:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;New stuff in &lt;a href="http://ipython.org/notebook.html"&gt;IPython notebook&lt;/a&gt;: d3-based
+   visualisation and interactive widgets by Ivan.&lt;/li&gt;
+&lt;li&gt;Data mining, NLP and graph analysis with
+   &lt;a href="http://www.clips.ua.ac.be/pages/pattern"&gt;pattern&lt;/a&gt; by Rahul.&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="ipython"></category><category term="nlp"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 all attendees for taking time off to attend PyCon Singapore 2014 which was held at
 &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June.&lt;/p&gt;
