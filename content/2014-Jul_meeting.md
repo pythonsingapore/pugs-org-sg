@@ -1,12 +1,17 @@
-Title: July user meeting
-Slug: 2014-jul-meeting
+Title: July events
+Slug: 2014-jul-meetings
 Author: Ivan
 Date: 2014-07-21
 Category: meetings
-Tags: ipython, nlp
+Tags: analytics, visualisation
 
-Next user meeting will be held on July 31th, 7-9pm at
-[hackerspace.sg](http://hackerspace.sg).
+[PyLadies SG](http://www.meetup.com/PyLadies-SG/events/193896182/) are
+organizing "Introduction to Python" tutorial on July 26th, 1-4pm at
+[HSG](http://hackerspace.sg).
+
+
+Next regular PUGS meeting will be held on July 31th, 7-9pm at
+[HSG](http://hackerspace.sg).
 
 Talks:
 

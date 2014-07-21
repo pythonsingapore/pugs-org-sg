@@ -4,7 +4,7 @@ Author: Ivan
 Date: 2013-11-29
 Updated: 2013-12-21
 Category: meetings
-Tags: devops, scipy
+Tags: devops, visualisation
 
 Next user meeting will be held on December 18th, 7-9pm at the new
 [hackerspace.sg](http://hackerspace.sg).
