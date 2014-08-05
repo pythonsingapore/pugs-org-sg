@@ -6,10 +6,13 @@ organizing "Introduction to Python" tutorial on July 26th, 1-4pm at
 &lt;a href="http://hackerspace.sg"&gt;HSG&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Talks:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;New stuff in &lt;a href="http://ipython.org/notebook.html"&gt;IPython notebook&lt;/a&gt;: d3-based
-   visualisation and interactive widgets by Ivan.&lt;/li&gt;
+&lt;li&gt;New stuff in &lt;a href="http://ipython.org/notebook.html"&gt;IPython notebook&lt;/a&gt;: widgets
+   and alternative visualization by Ivan (&lt;a href="https://github.com/vanzaj/pytalks/tree/master/20140731_PUGS_ipython"&gt;src&lt;/a&gt;,
+&lt;a href="http://bit.ly/1zPoNHW"&gt;html&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Data mining, NLP and graph analysis with
-   &lt;a href="http://www.clips.ua.ac.be/pages/pattern"&gt;pattern&lt;/a&gt; by Rahul.&lt;/li&gt;
+   &lt;a href="http://www.clips.ua.ac.be/pages/pattern"&gt;pattern&lt;/a&gt; by Rahul
+(&lt;a href="https://github.com/rahulg/ipython-notebooks"&gt;src&lt;/a&gt;,
+&lt;a href="http://bit.ly/1ontws2"&gt;html&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;</summary><category term="analytics"></category><category term="visualisation"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 all attendees for taking time off to attend PyCon Singapore 2014 which was held at
