@@ -15,10 +15,11 @@ Next regular PUGS meeting will be held on July 31th, 7-9pm at
 
 Talks:
 
-1. New stuff in [IPython notebook](http://ipython.org/notebook.html): d3-based
-   visualisation and interactive widgets by Ivan.
+1. New stuff in [IPython notebook](http://ipython.org/notebook.html): widgets
+   and alternative visualization by Ivan ([src](https://github.com/vanzaj/pytalks/tree/master/20140731_PUGS_ipython),
+[html](http://bit.ly/1zPoNHW))
 2. Data mining, NLP and graph analysis with
-   [pattern](http://www.clips.ua.ac.be/pages/pattern) by Rahul.
-
-
+   [pattern](http://www.clips.ua.ac.be/pages/pattern) by Rahul
+([src](https://github.com/rahulg/ipython-notebooks),
+[html](http://bit.ly/1ontws2))
 
