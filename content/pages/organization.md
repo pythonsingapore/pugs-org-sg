@@ -1,5 +1,5 @@
 Title: Organization
-slug: org
+Slug: org
 
 ## Current Officers
 

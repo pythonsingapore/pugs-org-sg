@@ -1,5 +1,5 @@
 Title: By Laws
-slug: bylaws
+Slug: bylaws
 
 <center>
 <h3>BY-LAWS OF</h3>

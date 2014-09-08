@@ -46,7 +46,7 @@ MENUITEMS = [
 
 LINKS = (
     ('Mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
-    ('PUGS on FB', 'https://www.facebook.com/pythonsg'),
+    ('PUGS on FB', 'https://www.facebook.com/groups/pythonsg/'),
     ('PyCon.SG', 'http://pycon.sg/'),
     ('Python.org', 'http://python.org/'),
 )

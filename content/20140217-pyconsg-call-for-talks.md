@@ -1,5 +1,5 @@
 Title: Call for proposals for PyConSG 2014
-Slug: 2014-PyConsG-call-for-talks
+Slug: 2014-pyconsg-call-for-talks
 Author: Ivan
 Date: 2014-02-17
 Category: conference
