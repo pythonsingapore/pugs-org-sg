@@ -3,5 +3,6 @@
 *.swp
 *.sublime-workspace
 *.sublime-project
+cache/
 output/
 deploy_remote.sh
