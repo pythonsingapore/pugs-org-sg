@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/ivan.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 13 Dec 2014 00:00:00 +0800</lastBuildDate><item><title>January events</title><link>/2014-dec-announce.html</link><description>&lt;p&gt;First &lt;a href="https://facebook.com/groups/pydatasg/"&gt;PyData SG&lt;/a&gt; meetup will
-happen on January 15, 2015 from 7 to 9:30pm at Spire Global, 
-Red Dot Traffic building (#04-07, 28 Maxwell Rd, 
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/ivan.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 17 Jan 2015 00:00:00 +0800</lastBuildDate><item><title>February user meeting</title><link>/2015-feb-meeting.html</link><description>&lt;p&gt;Next regular user meeting is scheduled for February 26 at 7pm at &lt;a href="https://www.paypal.com/sg/"&gt;PayPal
+Singapore&lt;/a&gt;, 5 Temasek Blvd, #09-01 Suntec Tower
+Five, 038985.  Our friendly hosts have graciously offered to provide pizzas and
+drinks! &lt;/p&gt;
+&lt;p&gt;Speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Faassen - &lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; and React.&lt;/li&gt;
+&lt;li&gt;(speaker tbc.)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Sat, 17 Jan 2015 00:00:00 +0800</pubDate><guid>tag:,2015-01-17:2015-feb-meeting.html</guid><category>webdev</category></item><item><title>January events</title><link>/2014-dec-announce.html</link><description>&lt;p&gt;First &lt;a href="https://facebook.com/groups/pydatasg/"&gt;PyData SG&lt;/a&gt; meetup will
+happen on January 15, 2015 from 7 to 9:30pm at &lt;a href="http://www.spire.com/"&gt;Spire
+Global&lt;/a&gt;, Red Dot Traffic building (#04-07, 28 Maxwell Rd, 
 &lt;a href="https://goo.gl/maps/Xhpl6"&gt;map&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Five talks (10-20 min each) are already lined up:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Thia Kai Xin: Optimization models&lt;/li&gt;
-&lt;li&gt;Eugene Teo: Spyre&lt;/li&gt;
-&lt;li&gt;Martin Andrews: Theano (&amp;amp; GPUs)&lt;/li&gt;
-&lt;li&gt;Asankhaya Sharma: Software security analytics&lt;/li&gt;
-&lt;li&gt;Shubham Goyal/Girish Kumar:&lt;/li&gt;
+&lt;li&gt;Thia Kai Xin: Optimization models (&lt;a href="http://nbviewer.ipython.org/gist/thiakx/73c328f00aac0fbf6075"&gt;nbviewer&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Martin Andrews: Theano (&amp;amp; GPUs) (&lt;a href="http://redcatlabs.com/2015-01-15_Presentation-PyDataSG/"&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Asankhaya Sharma: Software security analytics (&lt;a href="http://asankhaya.github.io/ppt/PyDataSing.pptx"&gt;pptx&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Shubham Goyal/Girish Kumar: Introduction to scikit-learn (&lt;a href="https://github.com/shubhamgoyal/PyData1"&gt;github&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Eugene Teo: Spyre (&lt;a href="http://nbviewer.ipython.org/github/eugeneteo/pydatasg-spyre/blob/master/slides/pydatasg-spyre.ipynb"&gt;nbviewer&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.facebook.com/events/994351117258134/"&gt;Event page on FB&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Sat, 13 Dec 2014 00:00:00 +0800</pubDate><guid>tag:,2014-12-13:2014-dec-announce.html</guid><category>analytics</category><category>pydata</category></item><item><title>September user meeting</title><link>/2014-sep-meeting.html</link><description>&lt;p&gt;[postfactum]&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/events/994351117258134/"&gt;Event page on FB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Updated 2015-01-15: Added links to presentations.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Sat, 13 Dec 2014 00:00:00 +0800</pubDate><guid>tag:,2014-12-13:2014-dec-announce.html</guid><category>analytics</category><category>pydata</category></item><item><title>September user meeting</title><link>/2014-sep-meeting.html</link><description>&lt;p&gt;[postfactum]&lt;/p&gt;
 &lt;p&gt;An irregular&lt;sup&gt;†&lt;/sup&gt; user meeting was held on September 4th, 7:30-9pm at 
 &lt;a href="http://hackerspace.sg"&gt;HSG&lt;/a&gt; as usual.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/gaqzi"&gt;Björn&lt;/a&gt; talked about Reusable Django Apps among other
