@@ -13,5 +13,5 @@ drinks!
 Speakers:
 
 - Martijn Faassen - [MorePath](https://github.com/morepath/morepath) and React.
-- (speaker tbc.)
+- Kokhong Cheng - virtualenv in the enterprise environment
 
