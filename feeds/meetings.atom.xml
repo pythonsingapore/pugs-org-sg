@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2015-01-17T00:00:00+08:00</updated><entry><title>February user meeting</title><link href="/2015-feb-meeting.html" rel="alternate"></link><updated>2015-01-17T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-01-17:2015-feb-meeting.html</id><summary type="html">&lt;p&gt;Next regular user meeting is scheduled for February 26 at 7pm at &lt;a href="https://www.paypal.com/sg/"&gt;PayPal
-Singapore&lt;/a&gt;, 5 Temasek Blvd, #09-01 Suntec Tower
-Five, 038985.  Our friendly hosts have graciously offered to provide pizzas and
-drinks! &lt;/p&gt;
+Singapore&lt;/a&gt; (UPDATE: at Millenia Office), 1 Temasek
+Avenue, Millenia Tower, #14-01.  Our friendly hosts have graciously offered to
+provide pizzas and drinks! &lt;/p&gt;
 &lt;p&gt;Speakers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Martijn Faassen - &lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; and React.&lt;/li&gt;
