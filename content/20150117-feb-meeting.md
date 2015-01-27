@@ -6,9 +6,9 @@ Category: meetings
 Tags: webdev
 
 Next regular user meeting is scheduled for February 26 at 7pm at [PayPal
-Singapore](https://www.paypal.com/sg/), 5 Temasek Blvd, #09-01 Suntec Tower
-Five, 038985.  Our friendly hosts have graciously offered to provide pizzas and
-drinks! 
+Singapore](https://www.paypal.com/sg/) (UPDATE: at Millenia Office), 1 Temasek
+Avenue, Millenia Tower, #14-01.  Our friendly hosts have graciously offered to
+provide pizzas and drinks! 
 
 Speakers:
 
