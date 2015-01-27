@@ -3,7 +3,7 @@ Slug: 2015-feb-meeting
 Author: Ivan
 Date: 2015-01-17
 Category: meetings
-Tags: webdev
+Tags: webdev, devops
 
 Next regular user meeting is scheduled for February 26 at 7pm at [PayPal
 Singapore](https://www.paypal.com/sg/) (UPDATE: at Millenia Office), 1 Temasek
