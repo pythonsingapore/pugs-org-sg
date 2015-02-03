@@ -45,10 +45,10 @@ MENUITEMS = [
 ]
 
 LINKS = (
-    ('Mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
-    ('PUGS on FB', 'https://www.facebook.com/groups/pythonsg/'),
-    ('PyCon.SG', 'http://pycon.sg/'),
-    ('Python.org', 'http://python.org/'),
+    ('PUGS mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
+    ('PUGS on Facebook', 'https://www.facebook.com/groups/pythonsg/'),
+    ('pycon.sg', 'http://pycon.sg/'),
+    ('Learn more', '/pages/learning.html'),
 )
 
 STATIC_PATHS = [

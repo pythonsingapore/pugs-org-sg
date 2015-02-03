@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width" />
 
   <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+  <meta name="description" content="Python User Group Singapore">
 
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
@@ -41,7 +42,7 @@
     </ul>
 
     {% if LINKS %}
-    <h5 class="sidebar-title">External links</h5>
+    <h5 class="sidebar-title">Links</h5>
     <ul class="side-nav">
     {% for name, link in LINKS %}
       <li><a href="{{ link }}">{{ name }}</a></li>
