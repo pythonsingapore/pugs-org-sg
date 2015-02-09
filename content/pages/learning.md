@@ -1,7 +1,7 @@
 Title: Learning resources
 Slug: learning
 
-There is a lot of information about Python online.
+There is a lot of information about Python programming online.
 Official Python [documentation](https://www.python.org/doc/) and 
 [wiki](https://wiki.python.org/moin/) are good places to start, but there are
 also many other useful resources.
@@ -45,7 +45,8 @@ also many other useful resources.
 
 ## For teachers and educators
 
-* [Python in Education](https://www.python.org/community/sigs/current/edu-sig/)
+* [Python in Education](https://www.python.org/community/sigs/current/edu-sig/):
+  special interest group
 * [Learn to code with me](http://learntocodewith.me/getting-started/): if unsure
   where to start 
 * [Invent with Python](http://inventwithpython.com/): teaching through 
