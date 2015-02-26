@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/ivan.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 17 Jan 2015 00:00:00 +0800</lastBuildDate><item><title>February user meeting</title><link>/2015-feb-meeting.html</link><description>&lt;p&gt;Next regular user meeting is scheduled for February 26 at 7pm at &lt;a href="https://www.paypal.com/sg/"&gt;PayPal
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/ivan.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 26 Feb 2015 00:00:00 +0800</lastBuildDate><item><title>Call for proposals for PyConSG 2015</title><link>/2015-pyconsg-call-for-talks.html</link><description>&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
+of the global Python community to submit talk proposals and tutorial proposals
+for our conference happening at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt;
+from 17-19 June 2015.&lt;/p&gt;
+&lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Andrew Godwin (Django core developer, creator of South)&lt;/li&gt;
+&lt;li&gt;Jessica McKellar (OpenHatch, Twisted, Python Software Foundation) &lt;/li&gt;
+&lt;li&gt;Lynn Root (Spotify, PyLadies, Python Software Foundation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also have some awesome talks lined up, given by developers of the local
+community, on everything from web development, to infrastructure, to API
+development. However, we still have many slots available and would really love
+to hear from you!&lt;/p&gt;
+&lt;p&gt;Whether you're a seasoned pro, or a beginner who has an interesting story to
+tell, we welcome all proposals for technical talks of about 30-40 minutes.&lt;/p&gt;
+&lt;p&gt;To submit a talk, please register at &lt;a href="https://pycon.sg/proposals/"&gt;https://pycon.sg/proposals/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The closing date for proposals is 30th April 2015, but we'd appreciate it if you
+can submit your idea earlier.&lt;/p&gt;
+&lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
+&lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
+mention that for the first time we will grant a 25% rebate on the conference
+ticket for speakers.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Thu, 26 Feb 2015 00:00:00 +0800</pubDate><guid>tag:,2015-02-26:2015-pyconsg-call-for-talks.html</guid><category>pyconsg</category></item><item><title>February user meeting</title><link>/2015-feb-meeting.html</link><description>&lt;p&gt;Next regular user meeting is scheduled for February 26 at 7pm at &lt;a href="https://www.paypal.com/sg/"&gt;PayPal
 Singapore&lt;/a&gt; (UPDATE: at Millenia Office), 1 Temasek
 Avenue, Millenia Tower, #14-01.  Our friendly hosts have graciously offered to
 provide pizzas and drinks! &lt;/p&gt;
 &lt;p&gt;Speakers:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Martijn Faassen - &lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; and React.&lt;/li&gt;
+&lt;li&gt;Martijn Faassen - &lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; and
+  &lt;a href="https://facebook.github.io/react/index.html"&gt;React&lt;/a&gt;.&lt;br /&gt;
+  Update: the central theme of my talk is going to be hypermedia, 
+  in both APIs and UIs. Morepath was designed to let you build hypermedia APIs 
+  (aka REST APIs), and I'll go into some of the whys and hows and future 
+  directions.&lt;/li&gt;
 &lt;li&gt;Kokhong Cheng - virtualenv in the enterprise environment&lt;/li&gt;
 &lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Sat, 17 Jan 2015 00:00:00 +0800</pubDate><guid>tag:,2015-01-17:2015-feb-meeting.html</guid><category>webdev</category><category>devops</category></item><item><title>January events</title><link>/2014-dec-announce.html</link><description>&lt;p&gt;First &lt;a href="https://facebook.com/groups/pydatasg/"&gt;PyData SG&lt;/a&gt; meetup will
 happen on January 15, 2015 from 7 to 9:30pm at &lt;a href="http://www.spire.com/"&gt;Spire

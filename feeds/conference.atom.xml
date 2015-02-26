@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/conference.atom.xml" rel="self"></link><id>/</id><updated>2014-06-24T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/conference.atom.xml" rel="self"></link><id>/</id><updated>2015-02-26T00:00:00+08:00</updated><entry><title>Call for proposals for PyConSG 2015</title><link href="/2015-pyconsg-call-for-talks.html" rel="alternate"></link><updated>2015-02-26T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-02-26:2015-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
+of the global Python community to submit talk proposals and tutorial proposals
+for our conference happening at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt;
+from 17-19 June 2015.&lt;/p&gt;
+&lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Andrew Godwin (Django core developer, creator of South)&lt;/li&gt;
+&lt;li&gt;Jessica McKellar (OpenHatch, Twisted, Python Software Foundation) &lt;/li&gt;
+&lt;li&gt;Lynn Root (Spotify, PyLadies, Python Software Foundation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also have some awesome talks lined up, given by developers of the local
+community, on everything from web development, to infrastructure, to API
+development. However, we still have many slots available and would really love
+to hear from you!&lt;/p&gt;
+&lt;p&gt;Whether you're a seasoned pro, or a beginner who has an interesting story to
+tell, we welcome all proposals for technical talks of about 30-40 minutes.&lt;/p&gt;
+&lt;p&gt;To submit a talk, please register at &lt;a href="https://pycon.sg/proposals/"&gt;https://pycon.sg/proposals/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The closing date for proposals is 30th April 2015, but we'd appreciate it if you
+can submit your idea earlier.&lt;/p&gt;
+&lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
+&lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
+mention that for the first time we will grant a 25% rebate on the conference
+ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 all attendees for taking time off to attend PyCon Singapore 2014 which was held at
 &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June.&lt;/p&gt;
