@@ -12,11 +12,13 @@ provide pizzas and drinks!
 
 Speakers:
 
+- Kokhong Cheng - virtualenv in the enterprise environment
+  ([video](http://youtu.be/-XgYrGzzfFI)).
+
 - Martijn Faassen - [MorePath](https://github.com/morepath/morepath) and
   [React](https://facebook.github.io/react/index.html).  
   Update: the central theme of my talk is going to be hypermedia, 
   in both APIs and UIs. Morepath was designed to let you build hypermedia APIs 
   (aka REST APIs), and I'll go into some of the whys and hows and future 
-  directions.
-- Kokhong Cheng - virtualenv in the enterprise environment
+  directions ([video](http://youtu.be/eWd7zlM77oo)).
 
