@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/bjorn.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 09 Mar 2015 00:00:00 +0800</lastBuildDate><item><title>March user meeting</title><link>/2015-march-meeting.html</link><description>&lt;p&gt;Another month, another meetup!
+This time it'll be on the 26th of March at the &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;' office.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; 87B Amoy Street #03/04, Singapore 069906, Singapore&lt;/p&gt;
+&lt;p&gt;If you want to attend then please &lt;a href="http://meetu.ps/2H2kv1"&gt;sign up on our meetup
+page&lt;/a&gt;, as there is limited space please only mark yourself as
+attending if you are. And if you can't make it at a later time please
+change your status so people on wait list can come.&lt;/p&gt;
+&lt;p&gt;We're still looking for one more 10-15 minute talk, if you're
+interested please contact us!&lt;/p&gt;
+&lt;p&gt;PyCon Singapore is going to be June 17th to 19th and the call for
+proposals is up on the website, if you have something to share then
+&lt;a href="https://pycon.sg/proposals/"&gt;please sign up!&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;"Getting started with testing using Pytest and Mock" by Gabe Hollombe.&lt;/p&gt;
+&lt;p&gt;Pytest is a great alternative testing framework to unittest from the
+standard library. It often lets you get the same tests written with
+far fewer lines of code, and it has a cool dependency injection system
+to help you share common test dependencies while keeping your tests
+understandable. I'll tell you all about how to get basic unit testing
+done, and I'll show you how to use Voidspace's Mock library to test
+collaborations between your objects, too.&lt;/p&gt;
+&lt;p&gt;Gabe is a full-stack senior engineer at Neo Innovation, with a thirst
+for knowledge and a passion for sharing what he's learned. He's had
+the pleasure of speaking on four different continents about
+JavaScript, Ruby, Vim, and HTML5 Game development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;you…?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;"Five Python tips" by Martin Brochhaus&lt;/p&gt;
+&lt;p&gt;We are hoping to repeat this talk with different speakers at the end
+of each meetup. Martin will make the start and give quick
+introductions to five Python tools that will make your life easier:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Virtualenv / pyenv&lt;/li&gt;
+&lt;li&gt;Tox&lt;/li&gt;
+&lt;li&gt;pip-tools&lt;/li&gt;
+&lt;li&gt;the @property decorator&lt;/li&gt;
+&lt;li&gt;Fabric&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Martin is the founder of Bitmazk Pte. Ltd., a Singapore based web
+development agency specialized on creating web apps with Python and
+Django. He is also part of the organizing committee for PyCon
+Singapore and an active member of Python User Group Singapore.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alfred from PyCon APAC will talk about the upcoming &lt;a href="https://tw.pycon.org/2015apac/en/"&gt;APAC conference in Taiwan&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Would you like to speak at this or a future meetups?&lt;/h2&gt;
+&lt;p&gt;You could share about your technology stack, how you solved a problem,
+your new library, or your opinions on best practices, so that people
+can get to know how awesome you are!&lt;/p&gt;
+&lt;p&gt;5 Python tips is a small segment at the end of meetup where you can
+share some things that make your Python life easier. A newly
+discovered core module, a library or some command line tool that makes
+your life better and/or easier.&lt;/p&gt;
+&lt;p&gt;So don't be shy! Step forward and share your knowledge!&lt;/p&gt;
+&lt;p&gt;For speaking please contact Björn, &lt;a href="http://twitter.com/gaqzi"&gt;@gaqzi&lt;/a&gt; or &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#98;&amp;#97;&amp;#64;&amp;#115;&amp;#97;&amp;#110;&amp;#105;&amp;#116;&amp;#97;&amp;#114;&amp;#105;&amp;#117;&amp;#109;&amp;#46;&amp;#115;&amp;#101;"&gt;&amp;#98;&amp;#97;&amp;#64;&amp;#115;&amp;#97;&amp;#110;&amp;#105;&amp;#116;&amp;#97;&amp;#114;&amp;#105;&amp;#117;&amp;#109;&amp;#46;&amp;#115;&amp;#101;&lt;/a&gt;, or
+Victor &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#105;&amp;#99;&amp;#121;&amp;#105;&amp;#115;&amp;#97;&amp;#109;&amp;#117;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#105;&amp;#99;&amp;#121;&amp;#105;&amp;#115;&amp;#97;&amp;#109;&amp;#117;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See you all soon!&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;A big thanks to our venue sponsor&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.thoughtworks.com"&gt;&lt;img alt="ThoughtWorks" src="/img/tw-logo.png" /&gt;&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Björn</dc:creator><pubDate>Mon, 09 Mar 2015 00:00:00 +0800</pubDate><guid>tag:,2015-03-09:2015-march-meeting.html</guid><category>webdev</category><category>devops</category></item></channel></rss>
