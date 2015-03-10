@@ -1,7 +1,7 @@
 Title: March user meeting
 Slug: 2015-march-meeting
 Author: Björn
-DATE: 2015-03-09
+Date: 2015-03-09
 Category: meetings
 Tags: webdev, devops
 
@@ -24,49 +24,47 @@ PyCon Singapore is going to be June 17th to 19th and the call for
 proposals is up on the website, if you have something to share then
 [please sign up!][cfp]
 
-[cpf]: https://pycon.sg/proposals/
+[cfp]: https://pycon.sg/proposals/
 
 ## Talks
 
 1. "Getting started with testing using Pytest and Mock" by Gabe Hollombe.
 
-Pytest is a great alternative testing framework to unittest from the
-standard library. It often lets you get the same tests written with
-far fewer lines of code, and it has a cool dependency injection system
-to help you share common test dependencies while keeping your tests
-understandable. I'll tell you all about how to get basic unit testing
-done, and I'll show you how to use Voidspace's Mock library to test
-collaborations between your objects, too.
+    Pytest is a great alternative testing framework to unittest from the
+    standard library. It often lets you get the same tests written with
+    far fewer lines of code, and it has a cool dependency injection system
+    to help you share common test dependencies while keeping your tests
+    understandable. I'll tell you all about how to get basic unit testing
+    done, and I'll show you how to use Voidspace's Mock library to test
+    collaborations between your objects, too.
 
-Gabe is a full-stack senior engineer at Neo Innovation, with a thirst
-for knowledge and a passion for sharing what he's learned. He's had
-the pleasure of speaking on four different continents about
-JavaScript, Ruby, Vim, and HTML5 Game development.
-
+    Gabe is a full-stack senior engineer at Neo Innovation, with a thirst
+    for knowledge and a passion for sharing what he's learned. He's had
+    the pleasure of speaking on four different continents about
+    JavaScript, Ruby, Vim, and HTML5 Game development.
 
 2. you…?
 
 3. "Five Python tips" by Martin Brochhaus
 
-We are hoping to repeat this talk with different speakers at the end
-of each meetup. Martin will make the start and give quick
-introductions to five Python tools that will make your life easier:
+    We are hoping to repeat this talk with different speakers at the end
+    of each meetup. Martin will make the start and give quick
+    introductions to five Python tools that will make your life easier:
 
-* Virtualenv / pyenv
-* Tox
-* pip-tools
-* the @property decorator
-* Fabric
+    * Virtualenv / pyenv
+    * Tox
+    * pip-tools
+    * the @property decorator
+    * Fabric
 
-Martin is the founder of Bitmazk Pte. Ltd., a Singapore based web
-development agency specialized on creating web apps with Python and
-Django. He is also part of the organizing committee for PyCon
-Singapore and an active member of Python User Group Singapore.
+    Martin is the founder of Bitmazk Pte. Ltd., a Singapore based web
+    development agency specialized on creating web apps with Python and
+    Django. He is also part of the organizing committee for PyCon
+    Singapore and an active member of Python User Group Singapore.
 
 4. Alfred from PyCon APAC will talk about the upcoming [APAC conference in Taiwan][apac].
 
 [apac]: https://tw.pycon.org/2015apac/en/
-<hr>
 
 ## Would you like to speak at this or a future meetups?
 
@@ -89,14 +87,10 @@ See you all soon!
 
 [@gaqzi]: http://twitter.com/gaqzi
 
-## Job Postings
-
-Are you looking for Pythonista? Do you have a job posting?
-Email us a blurb (< 50 words) + link and we'll put it here.
-
 <hr>
 
-A big thanks to our venue sponsor [ThoughtWorks]!
+A big thanks to our venue sponsor
 
-![ThoughtWorks](/img/tw-logo.png)
+[![ThoughtWorks]({filename}/img/tw-logo.png)][ThoughtWorks].
+
 [ThoughtWorks]: http://www.thoughtworks.com
