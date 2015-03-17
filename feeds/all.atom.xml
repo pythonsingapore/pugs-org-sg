@@ -28,7 +28,11 @@ the pleasure of speaking on four different continents about
 JavaScript, Ruby, Vim, and HTML5 Game development.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;you…?&lt;/p&gt;
+&lt;p&gt;"Developing real time applications in Django with Websockets" by Gerald Goh.&lt;/p&gt;
+&lt;p&gt;I'll be showing how to build a simple real time chat application in Django
+using &lt;a href="http://swampdragon.net/"&gt;swampdragon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gerald is a full stack developer at Apvera Pte. Ltd., a security analytics
+startup.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;"Five Python tips" by Martin Brochhaus&lt;/p&gt;
@@ -44,11 +48,20 @@ introductions to five Python tools that will make your life easier:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Martin is the founder of Bitmazk Pte. Ltd., a Singapore based web
 development agency specialized on creating web apps with Python and
-Django. He is also part of the organizing committee for PyCon
-Singapore and an active member of Python User Group Singapore.&lt;/p&gt;
+Django. He is also part of the organizing committee for PyCon&lt;/p&gt;
+&lt;p&gt;Singapore and an active member of Python User Group Singapore.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Alfred from PyCon APAC will talk about the upcoming &lt;a href="https://tw.pycon.org/2015apac/en/"&gt;APAC conference in Taiwan&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;"How to learn and be productive with Python3 in a week" by Chris.&lt;/p&gt;
+&lt;p&gt;Chris will talk about how you can go from knowing nothing of Python to being productive in a week.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Python syntax and environment setup (  IDE, virtualenv )&lt;/li&gt;
+&lt;li&gt;Data types&lt;/li&gt;
+&lt;li&gt;How to use libraries&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Would you like to speak at this or a future meetups?&lt;/h2&gt;
