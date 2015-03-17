@@ -2,7 +2,7 @@ Title: Learning resources
 Slug: learning
 
 There is a lot of information about Python programming online.
-Official Python [documentation](https://www.python.org/doc/) and 
+Official Python [documentation](https://www.python.org/doc/) and
 [wiki](https://wiki.python.org/moin/) are good places to start, but there are
 also many other useful resources.
 
@@ -27,6 +27,9 @@ also many other useful resources.
   exercises for intermediate programmers
 * [software-carpentry](http://software-carpentry.org/lessons.html): shell,
   version control, databases, analytics, ...
+* [A Byte of Python](http://www.swaroopch.com/notes/python/) and 
+  [Python for you and me](http://pymbook.readthedocs.org/en/latest/): more free
+  books
 
 ## For developers new to Python
 
@@ -48,8 +51,8 @@ also many other useful resources.
 * [Python in Education](https://www.python.org/community/sigs/current/edu-sig/):
   special interest group
 * [Learn to code with me](http://learntocodewith.me/getting-started/): if unsure
-  where to start 
-* [Invent with Python](http://inventwithpython.com/): teaching through 
+  where to start
+* [Invent with Python](http://inventwithpython.com/): teaching through
   programming games
 * [Python Books](http://pythonbooks.revolunet.com/): collection of free books
   and guides on specific topics

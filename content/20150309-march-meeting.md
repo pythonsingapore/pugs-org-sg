@@ -43,7 +43,13 @@ proposals is up on the website, if you have something to share then
     the pleasure of speaking on four different continents about
     JavaScript, Ruby, Vim, and HTML5 Game development.
 
-2. you…?
+2. "Developing real time applications in Django with Websockets" by Gerald Goh.
+
+    I'll be showing how to build a simple real time chat application in Django
+    using [swampdragon](http://swampdragon.net/).
+
+    Gerald is a full stack developer at Apvera Pte. Ltd., a security analytics
+    startup.
 
 3. "Five Python tips" by Martin Brochhaus
 
@@ -60,11 +66,21 @@ proposals is up on the website, if you have something to share then
     Martin is the founder of Bitmazk Pte. Ltd., a Singapore based web
     development agency specialized on creating web apps with Python and
     Django. He is also part of the organizing committee for PyCon
+
     Singapore and an active member of Python User Group Singapore.
 
 4. Alfred from PyCon APAC will talk about the upcoming [APAC conference in Taiwan][apac].
 
 [apac]: https://tw.pycon.org/2015apac/en/
+
+5.  "How to learn and be productive with Python3 in a week" by Chris.
+
+    Chris will talk about how you can go from knowing nothing of Python to being productive in a week.
+
+    * Basic Python syntax and environment setup (  IDE, virtualenv )
+    * Data types
+    * How to use libraries
+
 
 ## Would you like to speak at this or a future meetups?
 
