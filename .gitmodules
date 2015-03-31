@@ -1,0 +1,3 @@
+[submodule "plugins/pin_to_top"]
+	path = plugins/pin_to_top
+	url = https://github.com/Shaked/pin_to_top.git

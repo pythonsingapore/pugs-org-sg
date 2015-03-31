@@ -12,6 +12,9 @@ COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2015, Python User Group Singapore'
 DEFAULT_LANG = u'en'
 TIMEZONE = 'Asia/Singapore'
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['pin_to_top']
+
 THEME = 'theme/pugs_zf'
 
 AUTHOR_SAVE_AS = 'author/{slug}.html'

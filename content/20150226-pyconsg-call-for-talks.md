@@ -4,6 +4,7 @@ Author: Ivan
 Date: 2015-02-26
 Category: conference
 Tags: pyconsg
+Pin: true
 
 The organizing committee for [PyCon Singapore 2015](https://pycon.sg/) would like to invite members
 of the global Python community to submit talk proposals and tutorial proposals
@@ -13,7 +14,7 @@ from 17-19 June 2015.
 Once again we've got the support of great keynote speakers:
 
 * Andrew Godwin (Django core developer, creator of South)
-* Jessica McKellar (OpenHatch, Twisted, Python Software Foundation) 
+* Jessica McKellar (OpenHatch, Twisted, Python Software Foundation)
 * Lynn Root (Spotify, PyLadies, Python Software Foundation)
 
 We also have some awesome talks lined up, given by developers of the local
