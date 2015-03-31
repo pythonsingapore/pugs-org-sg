@@ -28,7 +28,7 @@ proposals is up on the website, if you have something to share then
 
 ## Talks
 
-1. "Getting started with testing using Pytest and Mock" by Gabe Hollombe.
+1. "Getting started with testing using Pytest and Mock" by Gabe Hollombe ([video](http://youtu.be/k99HSHQDsi4)).
 
     Pytest is a great alternative testing framework to unittest from the
     standard library. It often lets you get the same tests written with
@@ -43,7 +43,7 @@ proposals is up on the website, if you have something to share then
     the pleasure of speaking on four different continents about
     JavaScript, Ruby, Vim, and HTML5 Game development.
 
-2. "Developing real time applications in Django with Websockets" by Gerald Goh.
+2. "Developing real time applications in Django with Websockets" by Gerald Goh ([video](http://youtu.be/yRynX4N3rog)).
 
     I'll be showing how to build a simple real time chat application in Django
     using [swampdragon](http://swampdragon.net/).
@@ -51,7 +51,7 @@ proposals is up on the website, if you have something to share then
     Gerald is a full stack developer at Apvera Pte. Ltd., a security analytics
     startup.
 
-3. "Five Python tips" by Martin Brochhaus
+3. "Five Python tips" by Martin Brochhaus ([video](http://youtu.be/zGA_ByAxFW8), [slides](http://mbrochh.github.io/three-python-tips/))
 
     We are hoping to repeat this talk with different speakers at the end
     of each meetup. Martin will make the start and give quick
@@ -73,7 +73,7 @@ proposals is up on the website, if you have something to share then
 
 [apac]: https://tw.pycon.org/2015apac/en/
 
-5.  "How to learn and be productive with Python3 in a week" by Chris.
+5.  "How to learn and be productive with Python3 in a week" by Chris ([video](http://youtu.be/2IietZ8cVIc)).
 
     Chris will talk about how you can go from knowing nothing of Python to being productive in a week.
 
