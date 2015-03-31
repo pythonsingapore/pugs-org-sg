@@ -38,18 +38,18 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-MENUITEMS = [
+MENUITEMS = (
     ('About', '/pages/about.html'),
     ('Bylaws', '/pages/bylaws.html'),
     ('Organization', '/pages/org.html'),
-]
+    ('Learning', '/pages/learning.html'),
+)
 
 LINKS = (
     ('PyConSG', 'http://pycon.sg/'),
     ('Mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
     ('Facebook group', 'https://www.facebook.com/groups/pythonsg/'),
     ('Meetup group', 'http://www.meetup.com/Singapore-Python-User-Group/'),
-    ('Learning', '/pages/learning.html'),
 )
 
 STATIC_PATHS = [
@@ -58,5 +58,5 @@ STATIC_PATHS = [
 ]
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 GOOGLE_ANALYTICS = 'UA-46193746-3'
