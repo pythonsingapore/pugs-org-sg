@@ -2,13 +2,13 @@
 
 /* Misc */
 body {
-	font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-	word-wrap:break-word;
+  font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  word-wrap:break-word;
   counter-reset: clause;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 /*ul, ol {
@@ -22,6 +22,9 @@ ol li ul, ol li ol {
 
 article { padding-left:1rem; }
 
+article h1 { font-size: 1.6875rem; }
+article h2 { font-size: 1.375rem; }
+article h3 { font-size: 1.125rem; }
 
 /* Base.html - top navigation */
 .top-bar {
@@ -31,7 +34,7 @@ article { padding-left:1rem; }
 }
 
 ul.top-nav {
-	margin: 1em;
+  margin: 1em;
 }
 
 /* .top-bar a { color: #fff } */ /* Sitename color */
@@ -51,7 +54,8 @@ h5.sidebar-title {
 .side-nav li a.button {text-align: left;}
 
 /* Index.html - posts */
-h3.article-title {
+.article-title {
+  font-size: 2rem;
   margin-bottom: 0em;
   color: #3A91CB;
 }

@@ -14,7 +14,7 @@ proposals is up on the website, if you have something to share then
 &lt;h2&gt;Talks&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;"Getting started with testing using Pytest and Mock" by Gabe Hollombe.&lt;/p&gt;
+&lt;p&gt;"Getting started with testing using Pytest and Mock" by Gabe Hollombe (&lt;a href="http://youtu.be/k99HSHQDsi4"&gt;video&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Pytest is a great alternative testing framework to unittest from the
 standard library. It often lets you get the same tests written with
 far fewer lines of code, and it has a cool dependency injection system
@@ -28,14 +28,14 @@ the pleasure of speaking on four different continents about
 JavaScript, Ruby, Vim, and HTML5 Game development.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;"Developing real time applications in Django with Websockets" by Gerald Goh.&lt;/p&gt;
+&lt;p&gt;"Developing real time applications in Django with Websockets" by Gerald Goh (&lt;a href="http://youtu.be/yRynX4N3rog"&gt;video&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;I'll be showing how to build a simple real time chat application in Django
 using &lt;a href="http://swampdragon.net/"&gt;swampdragon&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Gerald is a full stack developer at Apvera Pte. Ltd., a security analytics
 startup.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;"Five Python tips" by Martin Brochhaus&lt;/p&gt;
+&lt;p&gt;"Five Python tips" by Martin Brochhaus (&lt;a href="http://youtu.be/zGA_ByAxFW8"&gt;video&lt;/a&gt;, &lt;a href="http://mbrochh.github.io/three-python-tips/"&gt;slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;We are hoping to repeat this talk with different speakers at the end
 of each meetup. Martin will make the start and give quick
 introductions to five Python tools that will make your life easier:&lt;/p&gt;
@@ -55,7 +55,7 @@ Django. He is also part of the organizing committee for PyCon&lt;/p&gt;
 &lt;p&gt;Alfred from PyCon APAC will talk about the upcoming &lt;a href="https://tw.pycon.org/2015apac/en/"&gt;APAC conference in Taiwan&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;"How to learn and be productive with Python3 in a week" by Chris.&lt;/p&gt;
+&lt;p&gt;"How to learn and be productive with Python3 in a week" by Chris (&lt;a href="http://youtu.be/2IietZ8cVIc"&gt;video&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Chris will talk about how you can go from knowing nothing of Python to being productive in a week.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Basic Python syntax and environment setup (  IDE, virtualenv )&lt;/li&gt;
