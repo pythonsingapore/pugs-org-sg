@@ -3,7 +3,7 @@ Slug: 2015-march-meeting
 Author: Björn
 Date: 2015-03-09
 Category: meetings
-Tags: webdev, devops
+Tags: webdev, dev-practice, motm
 
 Another month, another meetup!
 This time it'll be on the 26th of March at the [ThoughtWorks]' office.
