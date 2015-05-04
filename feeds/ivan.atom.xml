@@ -3,9 +3,8 @@
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Talks&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;"Why should you do behavior/test driven development" by Björn Andersson&lt;/li&gt;
-&lt;li&gt;"How I built a SFTP service using Paramiko" by Steve&lt;/li&gt;
-&lt;li&gt;"Python tips / Module of the month" by ...you?&lt;/li&gt;
+&lt;li&gt;"How I built a SFTP service using Paramiko" by Steve (&lt;a href="https://github.com/lonetwin/paramiko_talk"&gt;slides on github&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=bOPa6Sj3XAQ"&gt;video&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;"Python tips: Packing and Unpacking" by Shubham (&lt;a href="http://nbviewer.ipython.org/github/shubhamgoyal/Python-User-Group-Singapore-PUGS-Talks/blob/master/April%202015%20Meetup/Python%20Tips%20and%20Tricks.ipynb"&gt;notebook&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=E3Y74_JhuJk"&gt;video&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;</summary><category term="dev-practice"></category><category term="motm"></category></entry><entry><title>Call for proposals for PyConSG 2015</title><link href="/2015-pyconsg-call-for-talks.html" rel="alternate"></link><updated>2015-02-26T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-02-26:2015-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
 of the global Python community to submit talk proposals and tutorial proposals
 for our conference happening at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt;
