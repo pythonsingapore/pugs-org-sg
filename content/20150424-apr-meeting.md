@@ -10,6 +10,5 @@ Next user meeting will be held on the 30th of April from 7pm to 9pm at the
 
 ## Talks
 
-1. "Why should you do behavior/test driven development" by Björn Andersson
-2. "How I built a SFTP service using Paramiko" by Steve
-3. "Python tips / Module of the month" by ...you?
+1. "How I built a SFTP service using Paramiko" by Steve ([slides on github](https://github.com/lonetwin/paramiko_talk), [video](https://www.youtube.com/watch?v=bOPa6Sj3XAQ)).
+2. "Python tips: Packing and Unpacking" by Shubham ([notebook](http://nbviewer.ipython.org/github/shubhamgoyal/Python-User-Group-Singapore-PUGS-Talks/blob/master/April%202015%20Meetup/Python%20Tips%20and%20Tricks.ipynb), [video](https://www.youtube.com/watch?v=E3Y74_JhuJk))
