@@ -27,7 +27,7 @@ also many other useful resources.
   exercises for intermediate programmers
 * [software-carpentry](http://software-carpentry.org/lessons.html): shell,
   version control, databases, analytics, ...
-* [A Byte of Python](http://www.swaroopch.com/notes/python/) and 
+* [A Byte of Python](http://www.swaroopch.com/notes/python/) and
   [Python for you and me](http://pymbook.readthedocs.org/en/latest/): more free
   books
 
@@ -52,11 +52,13 @@ also many other useful resources.
   special interest group
 * [Learn to code with me](http://learntocodewith.me/getting-started/): if unsure
   where to start
+* [Python Tutor](http://pythontutor.com/): online visualization of code execution
+  with one click "share session" option to allow immediate instructor-student interaction.
 * [Invent with Python](http://inventwithpython.com/): teaching through
   programming games
 * [Python Books](http://pythonbooks.revolunet.com/): collection of free books
   and guides on specific topics
 * [Raspberry Pi](http://www.raspberrypi.org/): tons of educational materials
 * [Reeborg's World](http://reeborg.ca/index_en.html): robo-turtles
-* [Teaching with the IPython Notebook](http://nbviewer.ipython.org/gist/jiffyclub/5165431): 
+* [Teaching with the IPython Notebook](http://nbviewer.ipython.org/gist/jiffyclub/5165431):
   nothing's wrong with IDLE except that evolution happens everywhere...
