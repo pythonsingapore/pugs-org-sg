@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2015-04-24T00:00:00+08:00</updated><entry><title>April user meeting</title><link href="/2015-apr-meeting.html" rel="alternate"></link><updated>2015-04-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-04-24:2015-apr-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 30th of April from 7pm to 9pm at the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2015-06-22T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><updated>2015-06-22T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-06-22:2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
+everyone for their support for PyCon Singapore 2015 which was held
+at &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 17th June to 19th June.&lt;/p&gt;
+&lt;p&gt;This marks the 6th conference to be organized by the Python User Group
+Community in Singapore and we hope that your feedback and support will help us
+improve and take the conference to the next level in the coming years. A short
+&lt;a href="https://docs.google.com/forms/d/1NOurBthP6AeRhYq2xH9uOirGAaQPH6tNvRJoISnZkXU/viewform?c=0&amp;amp;w=1"&gt;feedback form&lt;/a&gt;
+is available online which will not take you more than five minutes
+to complete.&lt;/p&gt;
+&lt;p&gt;Thanks to the efforts of Ivan and Mr Gi, along with the support of the Ministry of
+Education Singapore, the first EDU Summit was successfully held on the first
+day of the conference. The summit brought together Computing and Computer
+Science educators from O-levels to tertiary institutions to share their
+teaching experiences and upcoming changes to the computing curriculum for O and
+A levels.&lt;/p&gt;
+&lt;p&gt;We will be updating this blog post with links to slide decks once we receive
+them from the speakers. Keep a lookout for them either via this blog post or
+our Twitter account. Our friends from engineers.sg have also recorded videos of
+talks during this conference and these videos will also be viewable online once
+they are available.&lt;/p&gt;
+&lt;p&gt;PyCon SG 2015 would not have been possible without the tremendous support we
+have received from our sponsors and volunteers. I would like to thank our
+sponsors, &lt;a href="http://www.sp.edu.sg"&gt;Singapore Polytechnic&lt;/a&gt;,
+&lt;a href="https://www.braintreepayments.com/"&gt;Braintree&lt;/a&gt;,
+&lt;a href="http://neo.com"&gt;Neo&lt;/a&gt;,
+&lt;a href="https://bitmazk.com"&gt;Bitmazk&lt;/a&gt;,
+&lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt;,
+&lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;,
+&lt;a href="https://www.python.org/psf/"&gt;Python Software Foundation&lt;/a&gt;
+and &lt;a href="http://mysql.com"&gt;MySQL&lt;/a&gt; for supporting the community and making this
+conference possible. Student helpers and their teacher, Mr Gi, from
+&lt;a href="http://www.dhs.sg/"&gt;Dunman High School&lt;/a&gt; played a huge role in ensuring that
+the conference ran smoothly. Special thanks go out to our keynote speakers
+Andrew Godwin, Jessica McKellar and Lynn Root for their inspirational keynotes.&lt;/p&gt;
+&lt;p&gt;Last but not least, as the chair of this conference, I would like to thank the
+organizing committee for all their hard work in the past year to make this
+conference a reality. We will soon be opening a call for volunteers for
+PyCon SG 2016; if you are interested in helping out with the conference (no
+technical chops required), look out for our next meeting!&lt;/p&gt;
+&lt;p&gt;Sincerely, Victor Neo&lt;/p&gt;
+&lt;p&gt;Chairman, PyCon Singapore 2015&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>April user meeting</title><link href="/2015-apr-meeting.html" rel="alternate"></link><updated>2015-04-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-04-24:2015-apr-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 30th of April from 7pm to 9pm at the
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Talks&lt;/h2&gt;
 &lt;ol&gt;
