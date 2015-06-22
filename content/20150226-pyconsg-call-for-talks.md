@@ -4,7 +4,6 @@ Author: Ivan
 Date: 2015-02-26
 Category: conference
 Tags: pyconsg
-Pin: true
 
 The organizing committee for [PyCon Singapore 2015](https://pycon.sg/) would like to invite members
 of the global Python community to submit talk proposals and tutorial proposals
