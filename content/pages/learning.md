@@ -44,6 +44,8 @@ also many other useful resources.
 * [Full Stack Python](http://www.fullstackpython.com/): web development in depth
 * [awesome-python](https://github.com/vinta/awesome-python): curated list of
   Python libraries and projects
+* [Python Cookbook, 3d ed](http://chimera.labs.oreilly.com/books/1230000000393/index.html): free online version (intermediate -- advanced level)
+* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html): collectively created book (intermediate -- advanced level)
 
 
 ## For teachers and educators
@@ -61,4 +63,4 @@ also many other useful resources.
 * [Raspberry Pi](http://www.raspberrypi.org/): tons of educational materials
 * [Reeborg's World](http://reeborg.ca/index_en.html): robo-turtles
 * [Teaching with the IPython Notebook](http://nbviewer.ipython.org/gist/jiffyclub/5165431):
-  nothing's wrong with IDLE except that evolution happens everywhere...
+  nothing's wrong with IDLE except that evolution happens ...
