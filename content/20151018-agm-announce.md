@@ -13,7 +13,7 @@ You are cordially invited to take part in our elections or to volunteer for a
 spot on the committee!
 
 Date/time: 28th October 2015 19:00  
-Venue: Paypal Office 5 Temasek Blvd, #09-01 Suntec Tower Five, Singapore 038985
+Venue: Paypal Office 5 Temasek Blvd, Suntec Tower Five, Level 7, Singapore 038985
 
 Agenda:
 
