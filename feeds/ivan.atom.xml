@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2015-06-22T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><updated>2015-06-22T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-06-22:2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2015-11-20T00:00:00+08:00</updated><entry><title>November meeting</title><link href="/2015-nov-meeting.html" rel="alternate"></link><updated>2015-11-20T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-11-20:2015-nov-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the 
+PayPal office (5 Temasek Blvd, Suntec Tower Five, Level 7, 038985, &lt;a href="http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=5+Temasek+Blvd%2C+Suntec+Tower+Five%2C+Level+7%2C+038985%2C+sg"&gt;map&lt;/a&gt;).
+RSVP at the &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/226392762/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce the new PUGS committee members and a word of appreciation for the
+    old exco, Victor and his team&lt;/li&gt;
+&lt;li&gt;Discuss PUGS events for the upcoming year (people are welcome to come over and
+    request for training and stuff)&lt;/li&gt;
+&lt;li&gt;Discuss PyConSG 2016 conference content and committee&lt;/li&gt;
+&lt;li&gt;Impromptu lightning talks&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><updated>2015-06-22T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-06-22:2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 everyone for their support for PyCon Singapore 2015 which was held
 at &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 17th June to 19th June.&lt;/p&gt;
