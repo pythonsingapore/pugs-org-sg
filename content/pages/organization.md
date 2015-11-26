@@ -3,6 +3,30 @@ Slug: org
 
 ## Current Officers
 
+term of office: 31 October 2015 to October 2017
+
+### Executive committee:
+
+- Ivan Zimine (President)
+- Li Ming Tsai (Vice-President)
+- Michael Li  (Treasurer)
+- Laurence Putra Franslay (Secretary)
+
+
+### Ordinary committee members:
+
+- Victor Neo
+- Michał J. Gajda
+- Shipeng
+- Maximilian Jackson
+- Martin Alexander Brochhaus
+- Max Ong
+- Martin Andrews
+- Gi Soong Chee
+
+
+## Past Officers 
+
 term of office: 31 October 2013 to October 2015
 
 ### Executive committee:
@@ -23,8 +47,7 @@ term of office: 31 October 2013 to October 2015
 - Laurence Putra Franslay
 - Li Ming Tsai
 
-
-## Past Officers 
+********
 
 term of office: 21 October 2011 to October 2013
 
