@@ -7,7 +7,8 @@ purpose of running PyCon Asia-Pacific. PUGS was registered on 9 June 2009, with
 the Registry of Societies, Ministry of Home Affairs, Republic of Singapore; and
 gazette on 10 June 2009 vide Notification Number 1733.
 
-To date, PUGS had organized over 15 regular user meetings, 3 PyCon Asia-Pacific and 2 PyCon Singapore conferences.
+To date, PUGS had organized 3 PyCon-APAC (2010 -- 2012) and
+3 PyCon SG (2013 -- 2015) conferences.
 
 ## Contact
 
