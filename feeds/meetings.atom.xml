@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2015-11-20T00:00:00+08:00</updated><entry><title>November meeting</title><link href="/2015-nov-meeting.html" rel="alternate"></link><updated>2015-11-20T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-11-20:2015-nov-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2015-11-20T00:00:00+08:00</updated><entry><title>November meeting</title><link href="/2015-nov-meeting.html" rel="alternate"></link><updated>2015-11-20T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-11-20:2015-nov-meeting.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the
 PayPal office (5 Temasek Blvd, Suntec Tower Five, Level 7, 038985, &lt;a href="http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=5+Temasek+Blvd%2C+Suntec+Tower+Five%2C+Level+7%2C+038985%2C+sg"&gt;map&lt;/a&gt;).
 RSVP at the &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/226392762/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
@@ -10,7 +10,26 @@ RSVP at the &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events
     request for training and stuff)&lt;/li&gt;
 &lt;li&gt;Discuss PyConSG 2016 conference content and committee&lt;/li&gt;
 &lt;li&gt;Impromptu lightning talks&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Notification of PUGS AGM 2015</title><link href="/2015-oct-agm-announce.html" rel="alternate"></link><updated>2015-10-18T00:00:00+08:00</updated><author><name>Michael</name></author><id>tag:,2015-10-18:2015-oct-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;Post meeting update:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2015 nov topics" src="/img/2015-nov-meetup-topics.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to those who attended our PUGS Meetup last Friday!  It was a fruitful
+information session and with suggestions from the community for content ranging
+from suggested topics for courses and talks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python 101 and Python 102 courses (preferably on the weekend)&lt;/li&gt;
+&lt;li&gt;Web Programming in Python in various Web Frameworks e.g.Django, Flask&lt;/li&gt;
+&lt;li&gt;Rasberry Pi&lt;/li&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Data Analytics and Data Manipulation in Python&lt;/li&gt;
+&lt;li&gt;How to get hired with Python&lt;/li&gt;
+&lt;li&gt;Comparison of Languages e.g. Java vs Scala vs Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There was popular demand for our meetups to be once a month to maintain
+consistency and community involvement. In addition, we have a couple of
+volunteers for the PyCon next year. We will be arranging for the PyCon Committee
+to meet up soon.  We will start planning out the Python 101 and 102 course and
+use the other interested topics as content for subsequent meetups.&lt;/p&gt;</summary></entry><entry><title>Notification of PUGS AGM 2015</title><link href="/2015-oct-agm-announce.html" rel="alternate"></link><updated>2015-10-18T00:00:00+08:00</updated><author><name>Michael</name></author><id>tag:,2015-10-18:2015-oct-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting on the 28th October 2015.
 You are cordially invited to take part in our elections or to volunteer for a
 spot on the committee!&lt;/p&gt;
