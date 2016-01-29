@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/ivan.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 20 Nov 2015 00:00:00 +0800</lastBuildDate><item><title>November meeting</title><link>/2015-nov-meeting.html</link><description>&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/ivan.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 29 Jan 2016 00:00:00 +0800</lastBuildDate><item><title>Call for proposals for PyConSG 2016</title><link>/2016-pyconsg-call-for-talks.html</link><description>&lt;p&gt;&lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2016&lt;/a&gt; is happening again! Mark your calendars
+for June 23 to 25.&lt;/p&gt;
+&lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniel and Audrey Greenfeld (&lt;a href="https://www.twoscoopspress.com"&gt;Two Scoops of Django&lt;/a&gt;, &lt;a href="https://www.djangopackages.com/"&gt;Django Packages&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dr. Yves J. Hilpisch (&lt;a href="http://tpq.io/"&gt;The Python Quants&lt;/a&gt;, &lt;a href="http://python-for-finance.com/"&gt;Python for Finance (O'Reilly 2014)&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also have some awesome talks lined up, given by developers of the local
+community on subjects like web development, devops, CS education, and data
+analytics. However, we still have many slots available.  Whether you're a
+seasoned pro, or a beginner who has an interesting story to tell, we welcome all
+proposals for technical talks of about 30 minutes.&lt;/p&gt;
+&lt;p&gt;To submit a talk, please register at &lt;a href="https://pycon.sg/proposals/"&gt;https://pycon.sg/proposals/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The closing date for proposals is 30th April 2016, but we'd appreciate it if you
+can submit your idea earlier.&lt;/p&gt;
+&lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
+&lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
+mention that for the first time we will grant a 25% rebate on the conference
+ticket for speakers.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Fri, 29 Jan 2016 00:00:00 +0800</pubDate><guid>tag:,2016-01-29:2016-pyconsg-call-for-talks.html</guid><category>pyconsg</category></item><item><title>November meeting</title><link>/2015-nov-meeting.html</link><description>&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the
 PayPal office (5 Temasek Blvd, Suntec Tower Five, Level 7, 038985, &lt;a href="http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=5+Temasek+Blvd%2C+Suntec+Tower+Five%2C+Level+7%2C+038985%2C+sg"&gt;map&lt;/a&gt;).
 RSVP at the &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/226392762/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
