@@ -1,5 +1,5 @@
-Title: December user meeting
-Slug: 2013-dec-meeting
+Title: Dec 2013 meetup
+Slug: 2013-dec-meetup
 Author: Ivan
 Date: 2013-11-29
 Updated: 2013-12-21

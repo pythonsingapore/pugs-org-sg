@@ -1,5 +1,5 @@
-Title: November meeting
-Slug: 2015-nov-meeting
+Title: Nov 2015 meetup
+Slug: 2015-nov-meetup
 Author: Ivan
 Date: 2015-11-20
 Category: meetings

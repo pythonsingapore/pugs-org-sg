@@ -1,5 +1,5 @@
-Title: February user meeting
-Slug: 2015-feb-meeting
+Title: Feb 2015 meetup
+Slug: 2015-feb-meetup
 Author: Ivan
 Date: 2015-01-17
 Category: meetings

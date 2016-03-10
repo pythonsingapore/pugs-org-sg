@@ -1,4 +1,4 @@
-Title: January events
+Title: Jan 2015 events
 Slug: 2014-dec-announce
 Author: Ivan
 Date: 2014-12-13

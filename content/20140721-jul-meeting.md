@@ -1,4 +1,4 @@
-Title: July events
+Title: July 2014 events
 Slug: 2014-jul-meetings
 Author: Ivan
 Date: 2014-07-21

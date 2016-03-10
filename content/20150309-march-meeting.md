@@ -1,5 +1,5 @@
-Title: March user meeting
-Slug: 2015-march-meeting
+Title: Mar 2015 meetup
+Slug: 2015-march-meetup
 Author: Björn
 Date: 2015-03-09
 Category: meetings

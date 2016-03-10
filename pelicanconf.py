@@ -7,7 +7,7 @@ SITENAME = u'Python User Group Singapore'
 SITEURL = ''
 
 # default text in the footer
-COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2015, Python User Group Singapore'
+COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2016, Python User Group Singapore'
 
 DEFAULT_LANG = u'en'
 TIMEZONE = 'Asia/Singapore'
@@ -50,9 +50,11 @@ MENUITEMS = (
 
 LINKS = (
     ('PyConSG', 'http://pycon.sg/'),
-    ('Mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
-    ('Facebook group', 'https://www.facebook.com/groups/pythonsg/'),
-    ('Meetup group', 'http://www.meetup.com/Singapore-Python-User-Group/'),
+    ('PUGS mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
+    ('PUGS on Facebook', 'https://www.facebook.com/groups/pythonsg/'),
+    ('PUGS on Meetup', 'http://www.meetup.com/Singapore-Python-User-Group/'),
+    ('PyData group', 'https://www.facebook.com/groups/pydatasg/'),
+    ('PyLadies SG', 'http://pyladies.sg/'),
 )
 
 STATIC_PATHS = [

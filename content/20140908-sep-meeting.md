@@ -1,4 +1,4 @@
-Title: September user meeting
+Title: Sep 2014 meetup
 Slug: 2014-sep-meeting
 Author: Ivan
 Date: 2014-09-08
