@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2016-03-10T00:00:00+08:00</updated><entry><title>Mar 2016 meetup</title><link href="/2016-mar-meetup.html" rel="alternate"></link><updated>2016-03-10T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2016-03-10:2016-mar-meetup.html</id><summary type="html">&lt;p&gt;Incredible turnout at yesterday's meetup.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2016-04-01T00:00:00+08:00</updated><entry><title>Apr 2016 meetups</title><link href="/2016-apr-meetup.html" rel="alternate"></link><updated>2016-04-01T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2016-04-01:2016-apr-meetup.html</id><summary type="html">&lt;p&gt;April PyData meetup is on April 12. The topic is &lt;a href="http://www.meetup.com/PyData-SG/events/227687774/"&gt;Sentiment Analysis using
+Stanford's CoreNLP&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;PUGS meeting is on April 18th. RSVP &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/229604322/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reinforcement learning using Python by Joe Le Truc &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Synopsis&lt;/em&gt;: coming soon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python for RPi Sense HAT by Paul Lorett B. Amazona&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Synopsis&lt;/em&gt;:  The Sense HAT is an add-on board for Raspberry Pi, made
+especially for the Astro Pi mission -- went to the International Space
+Station in December 2015. The Sense HAT has an 8×8 RGB LED matrix, a
+five-button joystick and includes a number of sensors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="machine learning"></category><category term="hardware"></category></entry><entry><title>Mar 2016 meetup</title><link href="/2016-mar-meetup.html" rel="alternate"></link><updated>2016-03-10T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2016-03-10:2016-mar-meetup.html</id><summary type="html">&lt;p&gt;Incredible turnout at yesterday's meetup.
 Some pictures are &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/photos/26801990/"&gt;here&lt;/a&gt;.
 Big thanks to &lt;a href="http://www.redhat.com/en/global/singapore"&gt;Red Hat Singapore&lt;/a&gt; for hosting us.
 Another big thanks to semi-anonymous pizza sponsors.&lt;/p&gt;
