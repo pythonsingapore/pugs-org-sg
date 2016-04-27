@@ -4,7 +4,6 @@ Author: Ivan
 Date: 2016-01-29
 Category: conference
 Tags: pyconsg
-Pin: true
 
 
 [PyCon Singapore 2016](https://pycon.sg/) is happening again! Mark your calendars
