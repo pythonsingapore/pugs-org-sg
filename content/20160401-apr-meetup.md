@@ -11,16 +11,21 @@ Stanford's CoreNLP](http://www.meetup.com/PyData-SG/events/227687774/).
 PUGS meeting is on April 18th at [PayPal](https://maps.google.com/maps?f=q&hl=en&q=5+Temasek+Blvd%2C+%2309-01+Suntec+Tower+Five%2C+038985%2C+Singapore%2C+sg)
 (5 Temasek Blvd, #09-01 Suntec Tower Five, 038985, Singapore). RSVP [here](http://www.meetup.com/Singapore-Python-User-Group/events/229604322/).
 
+Big thanks to PayPal for the venue, pizzas and drinks!
+
+
 ## Talks
 
-1. Reinforcement learning using Python by Joe Le Truc 
+1. Reinforcement learning using Python by Joe Le Truc
 
     *Synopsis*: Reinforcement learning is at the heart of modern AI techniques.
     In this talk, I will survey the the main ideas of reinforcement learning and
     introduce ‘Smartcab’ -- simulation of a self-driving car from the
     not-so-distant future. The application is developed using Python and the
-    Pygame framework. 
+    Pygame framework.
 
+    [slides](https://docs.google.com/presentation/d/1fJPmHzDFc9SYykhgZIRH-ZovdRat6cHJOBNG4CzTA60/edit#slide=id.p),
+    [video](https://engineers.sg/video/reinforcement-learning-using-python-python-sg--678)
 
 2. Python for RPi Sense HAT by Paul Lorett B. Amazona
 
@@ -29,3 +34,5 @@ PUGS meeting is on April 18th at [PayPal](https://maps.google.com/maps?f=q&hl=en
     Station in December 2015. The Sense HAT has an 8×8 RGB LED matrix, a
     five-button joystick and includes a number of sensors.
 
+    [github repo](https://github.com/whatevergeek/PUGS-SenseHAT-Demo),
+    [video](https://engineers.sg/video/python-for-rpi-sense-hat-python-sg--677)
