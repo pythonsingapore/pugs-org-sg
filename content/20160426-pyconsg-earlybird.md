@@ -4,7 +4,6 @@ Author: Max
 Date: 2016-04-26
 Category: conference
 Tags: pyconsg
-Pin: true
 
 Join us for our 4th annual [Python conference](https://pycon.sg), organized by
 the Python User Group Singapore: by the community, for the community.
