@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/michael.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 18 Oct 2015 00:00:00 +0800</lastBuildDate><item><title>Notification of PUGS AGM 2015</title><link>/2015-oct-agm-announce.html</link><description>&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Sun, 18 Oct 2015 00:00:00 +0800</lastBuildDate><item><title>Notification of PUGS AGM 2015</title><link>/2015-oct-agm-announce.html</link><description>&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting on the 28th October 2015.
 You are cordially invited to take part in our elections or to volunteer for a
 spot on the committee!&lt;/p&gt;
@@ -27,4 +27,4 @@ position; You may do so by proxy, with written approval.&lt;/p&gt;
 for general enquiries.  We look forward to your participation!&lt;/p&gt;
 &lt;p&gt;Best Regards,&lt;br /&gt;
 Michael Li&lt;br /&gt;
-Secretary, Python User Group (Singapore)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael</dc:creator><pubDate>Sun, 18 Oct 2015 00:00:00 +0800</pubDate><guid>tag:,2015-10-18:2015-oct-agm-announce.html</guid></item></channel></rss>
+Secretary, Python User Group (Singapore)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael</dc:creator><pubDate>Sun, 18 Oct 2015 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2015-10-18:2015-oct-agm-announce.html</guid></item></channel></rss>

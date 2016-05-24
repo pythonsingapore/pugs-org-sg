@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2016-04-01T00:00:00+08:00</updated><entry><title>Apr 2016 meetups</title><link href="/2016-apr-meetup.html" rel="alternate"></link><updated>2016-04-01T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2016-04-01:2016-apr-meetup.html</id><summary type="html">&lt;p&gt;April PyData meetup is on April 12. The topic is &lt;a href="http://www.meetup.com/PyData-SG/events/227687774/"&gt;Sentiment Analysis using
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2016-05-24T00:00:00+08:00</updated><entry><title>May 2016 meetups</title><link href="/2016-may-meetup.html" rel="alternate"></link><published>2016-05-24T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-05-24:2016-may-meetup.html</id><summary type="html">&lt;p&gt;PyData meetup happened on May 10. The topic was "Using Luigi and Scikit-Learn to
+create a Machine Learning Pipeline which trains a model and predict through a Rest API" by Atreya Biswas
+(&lt;a href="http://www.meetup.com/PyData-SG/events/227687789/"&gt;meetup page&lt;/a&gt;,
+&lt;a href="https://engineers.sg/video/a-machine-learning-data-pipeline-pydata-sg--723"&gt;video&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;PUGS meeting is on May 25th at &lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt;,
+71 Ayer Rajah Crescent, #03-14 Singapore 139951, Singapore (
+&lt;a href="https://www.google.com/maps/place/71+Ayer+Rajah+Crescent,+Singapore+139951/@1.2967417,103.7844749,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4fd6a29643:0x1cbb8a56dd8c9ccf!8m2!3d1.2967417!4d103.7866636?hl=en"&gt;map&lt;/a&gt;
+).&lt;/p&gt;
+&lt;p&gt;RSVP &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/230569164/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Big thanks to &lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt; for the venue, pizzas and drinks!&lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Writing a Serverless Python Microservice with AWS Lambda by David Chua&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Synopsis:&lt;/em&gt; Want to run a Serverless Microservice? What is Serverless? In this short
+little introduction I'll demonstrate how to get a quick python microservice
+out from scratch into the cloud and never have to worry about infrastructure
+scaling ever again. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bio&lt;/em&gt;: David is a former Rubyist with strong inclination towards the
+infrastructure/backend side whom has joined the Dark Side about 2 months ago.
+He is looking forward to learning and contributing to the amazing PUGS
+community. In a former life, he run a digital consultancy but now works for &lt;a href="https://99.co"&gt;https://99.co&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Update on &lt;a href="https://pycon.sg"&gt;PyConSG&lt;/a&gt; which is happening next month!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="cloud"></category><category term="devops"></category></entry><entry><title>Apr 2016 meetups</title><link href="/2016-apr-meetup.html" rel="alternate"></link><published>2016-04-01T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-04-01:2016-apr-meetup.html</id><summary type="html">&lt;p&gt;April PyData meetup is on April 12. The topic is &lt;a href="http://www.meetup.com/PyData-SG/events/227687774/"&gt;Sentiment Analysis using
 Stanford's CoreNLP&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;PUGS meeting is on April 18th at &lt;a href="https://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=5+Temasek+Blvd%2C+%2309-01+Suntec+Tower+Five%2C+038985%2C+Singapore%2C+sg"&gt;PayPal&lt;/a&gt;
 (5 Temasek Blvd, #09-01 Suntec Tower Five, 038985, Singapore). RSVP &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/229604322/"&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -25,7 +51,7 @@ five-button joystick and includes a number of sensors.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/whatevergeek/PUGS-SenseHAT-Demo"&gt;github repo&lt;/a&gt;,
 &lt;a href="https://engineers.sg/video/python-for-rpi-sense-hat-python-sg--677"&gt;video&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary><category term="machine learning"></category><category term="hardware"></category></entry><entry><title>Mar 2016 meetup</title><link href="/2016-mar-meetup.html" rel="alternate"></link><updated>2016-03-10T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2016-03-10:2016-mar-meetup.html</id><summary type="html">&lt;p&gt;Incredible turnout at yesterday's meetup.
+&lt;/ol&gt;</summary><category term="machine learning"></category><category term="hardware"></category></entry><entry><title>Mar 2016 meetup</title><link href="/2016-mar-meetup.html" rel="alternate"></link><published>2016-03-10T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-03-10:2016-mar-meetup.html</id><summary type="html">&lt;p&gt;Incredible turnout at yesterday's meetup.
 Some pictures are &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/photos/26801990/"&gt;here&lt;/a&gt;.
 Big thanks to &lt;a href="http://www.redhat.com/en/global/singapore"&gt;Red Hat Singapore&lt;/a&gt; for hosting us.
 Another big thanks to semi-anonymous pizza sponsors.&lt;/p&gt;
@@ -45,7 +71,7 @@ Another big thanks to semi-anonymous pizza sponsors.&lt;/p&gt;
    an existing Django project without too much pain. His boilerplate repo is
    &lt;a href="https://github.com/mbrochh/django-reactjs-boilerplate"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary><category term="dev-practice"></category><category term="webdev"></category><category term="community"></category></entry><entry><title>Call for proposals for PyConSG 2016</title><link href="/2016-pyconsg-call-for-talks.html" rel="alternate"></link><updated>2016-01-29T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2016-01-29:2016-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;&lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2016&lt;/a&gt; is happening again! Mark your calendars
+&lt;/ol&gt;</summary><category term="dev-practice"></category><category term="webdev"></category><category term="community"></category></entry><entry><title>Call for proposals for PyConSG 2016</title><link href="/2016-pyconsg-call-for-talks.html" rel="alternate"></link><published>2016-01-29T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-01-29:2016-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;&lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2016&lt;/a&gt; is happening again! Mark your calendars
 for June 23 to 25.&lt;/p&gt;
 &lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
 &lt;ul&gt;
@@ -63,7 +89,7 @@ can submit your idea earlier.&lt;/p&gt;
 &lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
 &lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
 mention that for the first time we will grant a 25% rebate on the conference
-ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Nov 2015 meetup</title><link href="/2015-nov-meetup.html" rel="alternate"></link><updated>2015-11-20T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-11-20:2015-nov-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the
+ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Nov 2015 meetup</title><link href="/2015-nov-meetup.html" rel="alternate"></link><published>2015-11-20T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-11-20:2015-nov-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 27th of November from 7pm to 9pm at the
 PayPal office (5 Temasek Blvd, Suntec Tower Five, Level 7, 038985, &lt;a href="http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=5+Temasek+Blvd%2C+Suntec+Tower+Five%2C+Level+7%2C+038985%2C+sg"&gt;map&lt;/a&gt;).
 RSVP at the &lt;a href="http://www.meetup.com/Singapore-Python-User-Group/events/226392762/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
@@ -93,7 +119,7 @@ from suggested topics for courses and talks:&lt;/p&gt;
 consistency and community involvement. In addition, we have a couple of
 volunteers for the PyCon next year. We will be arranging for the PyCon Committee
 to meet up soon.  We will start planning out the Python 101 and 102 course and
-use the other interested topics as content for subsequent meetups.&lt;/p&gt;</summary></entry><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><updated>2015-06-22T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-06-22:2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+use the other interested topics as content for subsequent meetups.&lt;/p&gt;</summary></entry><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><published>2015-06-22T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-06-22:2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 everyone for their support for PyCon Singapore 2015 which was held
 at &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 17th June to 19th June.&lt;/p&gt;
@@ -134,13 +160,13 @@ conference a reality. We will soon be opening a call for volunteers for
 PyCon SG 2016; if you are interested in helping out with the conference (no
 technical chops required), look out for our next meeting!&lt;/p&gt;
 &lt;p&gt;Sincerely, Victor Neo&lt;/p&gt;
-&lt;p&gt;Chairman, PyCon Singapore 2015&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Apr 2015 meetup</title><link href="/2015-apr-meetup.html" rel="alternate"></link><updated>2015-04-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-04-24:2015-apr-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 30th of April from 7pm to 9pm at the
+&lt;p&gt;Chairman, PyCon Singapore 2015&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Apr 2015 meetup</title><link href="/2015-apr-meetup.html" rel="alternate"></link><published>2015-04-24T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-04-24:2015-apr-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on the 30th of April from 7pm to 9pm at the
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Talks&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;"How I built a SFTP service using Paramiko" by Steve (&lt;a href="https://github.com/lonetwin/paramiko_talk"&gt;slides on github&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=bOPa6Sj3XAQ"&gt;video&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;"Python tips: Packing and Unpacking" by Shubham (&lt;a href="http://nbviewer.ipython.org/github/shubhamgoyal/Python-User-Group-Singapore-PUGS-Talks/blob/master/April%202015%20Meetup/Python%20Tips%20and%20Tricks.ipynb"&gt;notebook&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=E3Y74_JhuJk"&gt;video&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="dev-practice"></category><category term="motm"></category></entry><entry><title>Call for proposals for PyConSG 2015</title><link href="/2015-pyconsg-call-for-talks.html" rel="alternate"></link><updated>2015-02-26T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-02-26:2015-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
+&lt;/ol&gt;</summary><category term="dev-practice"></category><category term="motm"></category></entry><entry><title>Call for proposals for PyConSG 2015</title><link href="/2015-pyconsg-call-for-talks.html" rel="alternate"></link><published>2015-02-26T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-02-26:2015-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
 of the global Python community to submit talk proposals and tutorial proposals
 for our conference happening at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt;
 from 17-19 June 2015.&lt;/p&gt;
@@ -162,7 +188,7 @@ can submit your idea earlier.&lt;/p&gt;
 &lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
 &lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
 mention that for the first time we will grant a 25% rebate on the conference
-ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Feb 2015 meetup</title><link href="/2015-feb-meetup.html" rel="alternate"></link><updated>2015-01-17T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2015-01-17:2015-feb-meetup.html</id><summary type="html">&lt;p&gt;Next regular user meeting is scheduled for February 26 at 7pm at &lt;a href="https://www.paypal.com/sg/"&gt;PayPal
+ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Feb 2015 meetup</title><link href="/2015-feb-meetup.html" rel="alternate"></link><published>2015-01-17T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-01-17:2015-feb-meetup.html</id><summary type="html">&lt;p&gt;Next regular user meeting is scheduled for February 26 at 7pm at &lt;a href="https://www.paypal.com/sg/"&gt;PayPal
 Singapore&lt;/a&gt; (UPDATE: at Millenia Office), 1 Temasek
 Avenue, Millenia Tower, #14-01.  Our friendly hosts have graciously offered to
 provide pizzas and drinks! &lt;/p&gt;
@@ -180,7 +206,7 @@ provide pizzas and drinks! &lt;/p&gt;
   (aka REST APIs), and I'll go into some of the whys and hows and future 
   directions (&lt;a href="http://youtu.be/eWd7zlM77oo"&gt;video&lt;/a&gt;).&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="webdev"></category><category term="devops"></category></entry><entry><title>Jan 2015 events</title><link href="/2014-dec-announce.html" rel="alternate"></link><updated>2014-12-13T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-12-13:2014-dec-announce.html</id><summary type="html">&lt;p&gt;First &lt;a href="https://facebook.com/groups/pydatasg/"&gt;PyData SG&lt;/a&gt; meetup will
+&lt;/ul&gt;</summary><category term="webdev"></category><category term="devops"></category></entry><entry><title>Jan 2015 events</title><link href="/2014-dec-announce.html" rel="alternate"></link><published>2014-12-13T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-12-13:2014-dec-announce.html</id><summary type="html">&lt;p&gt;First &lt;a href="https://facebook.com/groups/pydatasg/"&gt;PyData SG&lt;/a&gt; meetup will
 happen on January 15, 2015 from 7 to 9:30pm at &lt;a href="http://www.spire.com/"&gt;Spire
 Global&lt;/a&gt;, Red Dot Traffic building (#04-07, 28 Maxwell Rd, 
 &lt;a href="https://goo.gl/maps/Xhpl6"&gt;map&lt;/a&gt;).&lt;/p&gt;
@@ -193,14 +219,14 @@ Global&lt;/a&gt;, Red Dot Traffic building (#04-07, 28 Maxwell Rd,
 &lt;li&gt;Eugene Teo: Spyre (&lt;a href="http://nbviewer.ipython.org/github/eugeneteo/pydatasg-spyre/blob/master/slides/pydatasg-spyre.ipynb"&gt;nbviewer&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://www.facebook.com/events/994351117258134/"&gt;Event page on FB&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Updated 2015-01-15: Added links to presentations.&lt;/p&gt;</summary><category term="analytics"></category><category term="pydata"></category></entry><entry><title>Sep 2014 meetup</title><link href="/2014-sep-meeting.html" rel="alternate"></link><updated>2014-09-08T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-09-08:2014-sep-meeting.html</id><summary type="html">&lt;p&gt;[postfactum]&lt;/p&gt;
+&lt;p&gt;Updated 2015-01-15: Added links to presentations.&lt;/p&gt;</summary><category term="analytics"></category><category term="pydata"></category></entry><entry><title>Sep 2014 meetup</title><link href="/2014-sep-meeting.html" rel="alternate"></link><published>2014-09-08T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-09-08:2014-sep-meeting.html</id><summary type="html">&lt;p&gt;[postfactum]&lt;/p&gt;
 &lt;p&gt;An irregular&lt;sup&gt;†&lt;/sup&gt; user meeting was held on September 4th, 7:30-9pm at 
 &lt;a href="http://hackerspace.sg"&gt;HSG&lt;/a&gt; as usual.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/gaqzi"&gt;Björn&lt;/a&gt; talked about Reusable Django Apps among other
 things (&lt;a href="https://speakerdeck.com/gaqzi/reusable-django-apps"&gt;slides&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;───&lt;br/&gt;
 &lt;sup&gt;†&lt;/sup&gt; Thanks to PayPal for pizza and beers. Hopefully this irregularity
-will become part of our regular user meetings... &lt;/p&gt;</summary><category term="webdev"></category></entry><entry><title>July 2014 events</title><link href="/2014-jul-meetings.html" rel="alternate"></link><updated>2014-07-21T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-07-21:2014-jul-meetings.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.meetup.com/PyLadies-SG/events/193896182/"&gt;PyLadies SG&lt;/a&gt; are
+will become part of our regular user meetings... &lt;/p&gt;</summary><category term="webdev"></category></entry><entry><title>July 2014 events</title><link href="/2014-jul-meetings.html" rel="alternate"></link><published>2014-07-21T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-07-21:2014-jul-meetings.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.meetup.com/PyLadies-SG/events/193896182/"&gt;PyLadies SG&lt;/a&gt; are
 organizing "Introduction to Python" tutorial on July 26th, 1-4pm at
 &lt;a href="http://hackerspace.sg"&gt;HSG&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Next regular PUGS meeting will be held on July 31th, 7-9pm at
@@ -214,7 +240,7 @@ organizing "Introduction to Python" tutorial on July 26th, 1-4pm at
    &lt;a href="http://www.clips.ua.ac.be/pages/pattern"&gt;pattern&lt;/a&gt; by Rahul
 (&lt;a href="https://github.com/rahulg/ipython-notebooks"&gt;src&lt;/a&gt;,
 &lt;a href="http://bit.ly/1ontws2"&gt;html&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="analytics"></category><category term="visualisation"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/ol&gt;</summary><category term="analytics"></category><category term="visualisation"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><published>2014-06-24T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 all attendees for taking time off to attend PyCon Singapore 2014 which was held at
 &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June.&lt;/p&gt;
@@ -246,7 +272,7 @@ organizing committee for PyCon SG 2015. If you are interested in joining the
 PyCon 2015 committee, you may let us know on the feedback form above.&lt;/p&gt;
 &lt;p&gt;Sincerely,
 Victor Neo&lt;/p&gt;
-&lt;p&gt;Chairman, PyCon Singapore 2014&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2014</title><link href="/2014-pyconsg-call-for-talks.html" rel="alternate"></link><updated>2014-02-17T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-02-17:2014-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;On behalf of the organizing committee of PyCon SG 2014,
+&lt;p&gt;Chairman, PyCon Singapore 2014&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2014</title><link href="/2014-pyconsg-call-for-talks.html" rel="alternate"></link><published>2014-02-17T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-02-17:2014-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;On behalf of the organizing committee of PyCon SG 2014,
 we are pleased to invite members of the community to submit talks
 and/or tutorials for the 2014 PyCon Singapore Conference, to be held at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from June 18 to 20, 2014.&lt;/p&gt;
 &lt;p&gt;Our highlight this year is the announcement of 2 keynote speakers:&lt;/p&gt;
@@ -259,13 +285,13 @@ and/or tutorials for the 2014 PyCon Singapore Conference, to be held at the &lt;
 &lt;p&gt;The submission deadline for both is April 30, 2014&lt;/p&gt;
 &lt;p&gt;For enquiries, please direct them to conference(at)pycon.sg&lt;/p&gt;
 &lt;p&gt;We look forward to receiving your submissions and to a great
-conference this year!&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Feb 2014 meetup</title><link href="/2014-feb-meetup.html" rel="alternate"></link><updated>2014-01-27T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2014-01-27:2014-feb-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on February 19th, 7:30-9pm at the
+conference this year!&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Feb 2014 meetup</title><link href="/2014-feb-meetup.html" rel="alternate"></link><published>2014-01-27T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-01-27:2014-feb-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on February 19th, 7:30-9pm at the
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We'll have &lt;a href="http://startifact.com/"&gt;Martijn Faassen&lt;/a&gt; presenting on
 &lt;a href="https://github.com/morepath/morepath"&gt;MorePath&lt;/a&gt; micro web framework.&lt;/p&gt;
 &lt;p&gt;"Morepath is an Python WSGI microframework. It uses routing, but the routing
 is to models. Morepath is model-driven and flexible, which makes it
-expressive." (&lt;a href="http://morepath.readthedocs.org/en/latest/"&gt;docs&lt;/a&gt;)&lt;/p&gt;</summary><category term="webdev"></category></entry><entry><title>Dec 2013 meetup</title><link href="/2013-dec-meetup.html" rel="alternate"></link><updated>2013-11-29T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:,2013-11-29:2013-dec-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on December 18th, 7-9pm at the new
+expressive." (&lt;a href="http://morepath.readthedocs.org/en/latest/"&gt;docs&lt;/a&gt;)&lt;/p&gt;</summary><category term="webdev"></category></entry><entry><title>Dec 2013 meetup</title><link href="/2013-dec-meetup.html" rel="alternate"></link><published>2013-11-29T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2013-11-29:2013-dec-meetup.html</id><summary type="html">&lt;p&gt;Next user meeting will be held on December 18th, 7-9pm at the new
 &lt;a href="http://hackerspace.sg"&gt;hackerspace.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;On the menu:&lt;/p&gt;
 &lt;ol&gt;

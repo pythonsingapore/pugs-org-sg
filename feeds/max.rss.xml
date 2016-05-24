@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python User Group Singapore</title><link>/</link><description></description><atom:link href="/feeds/max.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 26 Apr 2016 00:00:00 +0800</lastBuildDate><item><title>Early bird registration for PyConSG 2016 is open</title><link>/2016-pyconsg-earlybird.html</link><description>&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
+<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Tue, 26 Apr 2016 00:00:00 +0800</lastBuildDate><item><title>Early bird registration for PyConSG 2016 is open</title><link>/2016-pyconsg-earlybird.html</link><description>&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
 the Python User Group Singapore: by the community, for the community.&lt;/p&gt;
 &lt;p&gt;Early bird registration is open &lt;a href="https://pycon.sg/accounts/signup/"&gt;now&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;This year our keynote speakers are Dr. Yves J. Hilpisch, Audrey Roy Greenfeld
@@ -11,4 +11,4 @@ Carousell and The Artling (Silver).&lt;/p&gt;
 Development and Data Analytics. Check out our speakers' list at
 &lt;a href="https://pycon.sg/schedule/list/"&gt;https://pycon.sg/schedule/list/&lt;/a&gt;. The schedule will be published soon.&lt;/p&gt;
 &lt;p&gt;There's something for everyone; beginners, intermediate and advanced users of
-Python.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Max</dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 +0800</pubDate><guid>tag:,2016-04-26:2016-pyconsg-earlybird.html</guid><category>pyconsg</category></item></channel></rss>
+Python.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Max</dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2016-04-26:2016-pyconsg-earlybird.html</guid><category>pyconsg</category></item></channel></rss>
