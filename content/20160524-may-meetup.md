@@ -23,16 +23,22 @@ Big thanks to [Carousell](https://carousell.com) for the venue, pizzas and drink
 
 ## Talks
 
-1. Writing a Serverless Python Microservice with AWS Lambda by David Chua
+1. Writing a Serverless Python Microservice with AWS Lambda by [David Chua](http://dchua.com).
 
     *Synopsis:* Want to run a Serverless Microservice? What is Serverless? In this short
     little introduction I'll demonstrate how to get a quick python microservice
     out from scratch into the cloud and never have to worry about infrastructure
-    scaling ever again. 
+    scaling ever again.
 
     *Bio*: David is a former Rubyist with strong inclination towards the
     infrastructure/backend side whom has joined the Dark Side about 2 months ago.
     He is looking forward to learning and contributing to the amazing PUGS
     community. In a former life, he run a digital consultancy but now works for <https://99.co>.
+
+    ([blog post][1], [passlib repo][2], [telegram bot repo][3])
+
+[1]: http://dchua.com/2016/03/22/writing-a-serverless-python-microservice-with-aws-lambda-and-aws-api-gateway/
+[2]: https://github.com/davidchua/passlib_lambda
+[3]: https://github.com/davidchua/seng_bot
 
 2. Update on [PyConSG](https://pycon.sg) which is happening next month!
