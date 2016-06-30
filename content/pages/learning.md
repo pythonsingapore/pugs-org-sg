@@ -50,17 +50,12 @@ also many other useful resources.
 
 ## For teachers and educators
 
-* [Python in Education](https://www.python.org/community/sigs/current/edu-sig/):
-  special interest group
-* [Learn to code with me](http://learntocodewith.me/getting-started/): if unsure
-  where to start
-* [Python Tutor](http://pythontutor.com/): online visualization of code execution
-  with one click "share session" option to allow immediate instructor-student interaction.
-* [Invent with Python](http://inventwithpython.com/): teaching through
-  programming games
-* [Python Books](http://pythonbooks.revolunet.com/): collection of free books
-  and guides on specific topics
+* [PythonEDU SIG](https://www.python.org/community/sigs/current/edu-sig/): mailing list for python in education special interest group
+* [PythonEDU WG](https://mail.python.org/pipermail/pythonedu-wg/): mailing list for python education working group
+* [Learn to code with me](http://learntocodewith.me/getting-started/): if unsure where to start
+* [Python Tutor](http://pythontutor.com/): online visualization of code execution with one click "share session" option to allow immediate instructor-student interaction.
+* [Invent with Python](http://inventwithpython.com/): teaching through programming games
+* [Python Books](http://pythonbooks.revolunet.com/): collection of free books and guides on specific topics
 * [Raspberry Pi](http://www.raspberrypi.org/): tons of educational materials
 * [Reeborg's World](http://reeborg.ca/index_en.html): robo-turtles
-* [Teaching with the IPython Notebook](http://nbviewer.ipython.org/gist/jiffyclub/5165431):
-  nothing's wrong with IDLE except that evolution happens ...
+* [Teaching with the IPython Notebook](http://nbviewer.ipython.org/gist/jiffyclub/5165431): nothing's wrong with IDLE except that evolution happens...
