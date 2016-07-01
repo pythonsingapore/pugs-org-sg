@@ -53,6 +53,7 @@ LINKS = (
     ('PUGS mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
     ('PUGS on Facebook', 'https://www.facebook.com/groups/pythonsg/'),
     ('PUGS on Meetup', 'http://www.meetup.com/Singapore-Python-User-Group/'),
+    ('PUGS on GitHub', 'https://github.com/pythonsingapore'),
     ('PyData group', 'https://www.facebook.com/groups/pydatasg/'),
     ('PyLadies SG', 'http://pyladies.sg/'),
 )
