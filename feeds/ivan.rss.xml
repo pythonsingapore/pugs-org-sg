@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Tue, 24 May 2016 00:00:00 +0800</lastBuildDate><item><title>May 2016 meetups</title><link>/2016-may-meetup.html</link><description>&lt;p&gt;PyData meetup happened on May 10. The topic was "Using Luigi and Scikit-Learn to
+<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Thu, 07 Jul 2016 00:00:00 +0800</lastBuildDate><item><title>Thank You for Attending PyCon SG 2016</title><link>/2016-pyconsg-thank-you.html</link><description>&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The organizing committee would like to thank everyone for coming to PyCon
+Singapore 2016. This year we had over 250 participants! This conference is only
+possible because of your interest! Here are some
+&lt;a href="https://www.flickr.com/photos/mbrochh/sets/72157670466796255"&gt;photos&lt;/a&gt; of the
+conference. And if you’ve missed a talk in a parallel session, you may want to
+look for it in &lt;a href="https://engineers.sg/conference/pyconsg2016"&gt;video recordings&lt;/a&gt;,
+courtesy of &lt;a href="https://engineers.sg/"&gt;enginners.sg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A big thank you to all the speakers and tutorial instructors. We are very happy
+to see a growing number of women presenting their work.&lt;/p&gt;
+&lt;p&gt;Special thanks to our keynote speakers Daniel and Audrey Roy Greenfeld and Yves
+J. Hilpisch for coming all the way to Singapore, and sharing your knowledge and
+experience.&lt;/p&gt;
+&lt;p&gt;This year we were lucky again to have &lt;a href="https://www.flickr.com/photos/mbrochh/27734611480/in/album-72157670466796255/"&gt;student volunteers and Mr.
+Gi&lt;/a&gt;
+from &lt;a href="http://www.dhs.sg/"&gt;Dunman High School&lt;/a&gt;. Your help is invaluable for
+ensuring a smooth conference.&lt;/p&gt;
+&lt;p&gt;We would also like to thank &lt;a href="http://www.comp.nus.edu.sg"&gt;NUS School of Computing&lt;/a&gt;
+for providing the venue and wifi access to all participants.&lt;/p&gt;
+&lt;p&gt;Finally, we would like to thank all our sponsors; &lt;em&gt;platinum&lt;/em&gt;:
+&lt;a href="http://corporate.garena.com"&gt;Garena&lt;/a&gt;, &lt;a href="http://pivotal.io"&gt;Pivotal&lt;/a&gt; and
+&lt;a href="https://www.quantopian.com"&gt;Quantopian&lt;/a&gt;; &lt;em&gt;gold&lt;/em&gt;:
+&lt;a href="https://www.airbnb.com"&gt;Airbnb&lt;/a&gt; and &lt;a href="https://bitmazk.com"&gt;Bitmazk&lt;/a&gt;; and
+&lt;em&gt;silver&lt;/em&gt;: &lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt;, &lt;a href="https://theartling.com"&gt;The
+Artling&lt;/a&gt;,
+&lt;a href="https://jublia.com"&gt;Jublia&lt;/a&gt; and &lt;a href="http://www.acronis.com/en-sg/"&gt;Acronis&lt;/a&gt;.
+They are all hiring. If you’d like to contact them, let us know, and we can put
+you in touch with relevant people.&lt;/p&gt;
+&lt;p&gt;We are looking for feedback from our attendees so that we can take the
+conference to the next level in the coming years.
+A short &lt;a href="https://docs.google.com/forms/d/1WdsXPBMncDe4aFyvhIYrzb8OekOdPAbd0Oy1N_J6go4/edit?uiv=1"&gt;feedback form&lt;/a&gt;
+is available online which will not take you more than five minutes to complete.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Thu, 07 Jul 2016 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2016-07-07:2016-pyconsg-thank-you.html</guid><category>pyconsg</category></item><item><title>May 2016 meetups</title><link>/2016-may-meetup.html</link><description>&lt;p&gt;PyData meetup happened on May 10. The topic was "Using Luigi and Scikit-Learn to
 create a Machine Learning Pipeline which trains a model and predict through a Rest API" by Atreya Biswas
 (&lt;a href="http://www.meetup.com/PyData-SG/events/227687789/"&gt;meetup page&lt;/a&gt;,
 &lt;a href="https://engineers.sg/video/a-machine-learning-data-pipeline-pydata-sg--723"&gt;video&lt;/a&gt;).&lt;/p&gt;

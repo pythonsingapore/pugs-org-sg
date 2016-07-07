@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/conference.atom.xml" rel="self"></link><id>/</id><updated>2016-04-26T00:00:00+08:00</updated><entry><title>Early bird registration for PyConSG 2016 is open</title><link href="/2016-pyconsg-earlybird.html" rel="alternate"></link><published>2016-04-26T00:00:00+08:00</published><author><name>Max</name></author><id>tag:,2016-04-26:2016-pyconsg-earlybird.html</id><summary type="html">&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/conference.atom.xml" rel="self"></link><id>/</id><updated>2016-07-07T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2016</title><link href="/2016-pyconsg-thank-you.html" rel="alternate"></link><published>2016-07-07T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-07-07:2016-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The organizing committee would like to thank everyone for coming to PyCon
+Singapore 2016. This year we had over 250 participants! This conference is only
+possible because of your interest! Here are some
+&lt;a href="https://www.flickr.com/photos/mbrochh/sets/72157670466796255"&gt;photos&lt;/a&gt; of the
+conference. And if you’ve missed a talk in a parallel session, you may want to
+look for it in &lt;a href="https://engineers.sg/conference/pyconsg2016"&gt;video recordings&lt;/a&gt;,
+courtesy of &lt;a href="https://engineers.sg/"&gt;enginners.sg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A big thank you to all the speakers and tutorial instructors. We are very happy
+to see a growing number of women presenting their work.&lt;/p&gt;
+&lt;p&gt;Special thanks to our keynote speakers Daniel and Audrey Roy Greenfeld and Yves
+J. Hilpisch for coming all the way to Singapore, and sharing your knowledge and
+experience.&lt;/p&gt;
+&lt;p&gt;This year we were lucky again to have &lt;a href="https://www.flickr.com/photos/mbrochh/27734611480/in/album-72157670466796255/"&gt;student volunteers and Mr.
+Gi&lt;/a&gt;
+from &lt;a href="http://www.dhs.sg/"&gt;Dunman High School&lt;/a&gt;. Your help is invaluable for
+ensuring a smooth conference.&lt;/p&gt;
+&lt;p&gt;We would also like to thank &lt;a href="http://www.comp.nus.edu.sg"&gt;NUS School of Computing&lt;/a&gt;
+for providing the venue and wifi access to all participants.&lt;/p&gt;
+&lt;p&gt;Finally, we would like to thank all our sponsors; &lt;em&gt;platinum&lt;/em&gt;:
+&lt;a href="http://corporate.garena.com"&gt;Garena&lt;/a&gt;, &lt;a href="http://pivotal.io"&gt;Pivotal&lt;/a&gt; and
+&lt;a href="https://www.quantopian.com"&gt;Quantopian&lt;/a&gt;; &lt;em&gt;gold&lt;/em&gt;:
+&lt;a href="https://www.airbnb.com"&gt;Airbnb&lt;/a&gt; and &lt;a href="https://bitmazk.com"&gt;Bitmazk&lt;/a&gt;; and
+&lt;em&gt;silver&lt;/em&gt;: &lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt;, &lt;a href="https://theartling.com"&gt;The
+Artling&lt;/a&gt;,
+&lt;a href="https://jublia.com"&gt;Jublia&lt;/a&gt; and &lt;a href="http://www.acronis.com/en-sg/"&gt;Acronis&lt;/a&gt;.
+They are all hiring. If you’d like to contact them, let us know, and we can put
+you in touch with relevant people.&lt;/p&gt;
+&lt;p&gt;We are looking for feedback from our attendees so that we can take the
+conference to the next level in the coming years.
+A short &lt;a href="https://docs.google.com/forms/d/1WdsXPBMncDe4aFyvhIYrzb8OekOdPAbd0Oy1N_J6go4/edit?uiv=1"&gt;feedback form&lt;/a&gt;
+is available online which will not take you more than five minutes to complete.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Early bird registration for PyConSG 2016 is open</title><link href="/2016-pyconsg-earlybird.html" rel="alternate"></link><published>2016-04-26T00:00:00+08:00</published><author><name>Max</name></author><id>tag:,2016-04-26:2016-pyconsg-earlybird.html</id><summary type="html">&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
 the Python User Group Singapore: by the community, for the community.&lt;/p&gt;
 &lt;p&gt;Early bird registration is open &lt;a href="https://pycon.sg/accounts/signup/"&gt;now&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;This year our keynote speakers are Dr. Yves J. Hilpisch, Audrey Roy Greenfeld
