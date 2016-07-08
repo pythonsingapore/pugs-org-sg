@@ -15,6 +15,7 @@ also many other useful resources.
 * [Code Combat](http://codecombat.com/): turtles are a bit passé...
 * [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html):
   interactive version of a popular [book](http://www.greenteapress.com/thinkpython/) by the same name
+* [CS 61A](http://cs61a.org): The Structure and Interpretation of Computer Programs (in Python)
 * [Programming for Everybody](https://www.coursera.org/learn/python): Coursera course
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036): Udacity course
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8): MIT/EdX course
@@ -27,6 +28,7 @@ also many other useful resources.
 * [A Byte of Python](http://www.swaroopch.com/notes/python/) and
   [Python for you and me](http://pymbook.readthedocs.org/en/latest/): more free
   books
+* [python3.codes](http://python3.codes): Cool blog with fun code examples
 
 ## For developers new to Python
 
@@ -38,6 +40,7 @@ also many other useful resources.
 * [awesome-python](https://github.com/vinta/awesome-python): curated list of Python libraries and projects
 * [Python Cookbook, 3d ed](http://chimera.labs.oreilly.com/books/1230000000393/index.html): free online version (intermediate -- advanced level)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html): collectively created book (intermediate -- advanced level)
+* [Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/)
 
 
 ## For teachers and educators
