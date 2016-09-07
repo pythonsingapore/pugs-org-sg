@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-07-07T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2016</title><link href="/2016-pyconsg-thank-you.html" rel="alternate"></link><published>2016-07-07T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-07-07:2016-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-09-07T00:00:00+08:00</updated><entry><title>July 2016 meetup</title><link href="/2016-jul-meetup.html" rel="alternate"></link><published>2016-09-07T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-09-07:2016-jul-meetup.html</id><summary type="html">&lt;p&gt;[postfactum]&lt;/p&gt;
+&lt;h1&gt;Talk&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Hear no evil, see no evil, patch no evil: Or, how to monkey-patch safely&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;By &lt;a href="http://www.dscpl.com.au"&gt;Graham Dumpleton&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Python is a dynamic programming language and has a strong tradition of adhering
+to a programming style called duck-typing. This means that it is possible to
+easily modify an application's code while it is running. One might wish to do
+this for various reasons, including enhancing the functionality of code,
+correcting errant behaviour, or adding instrumentation or debugging code.&lt;/p&gt;
+&lt;p&gt;Making such code modifications can be tricky though and not done correctly can
+potentially interfere with the operation of the original code, through
+destroying introspection abilities, not honouring the duck-typing mantra or due
+to being applied at the wrong time.&lt;/p&gt;
+&lt;p&gt;If you do need to do monkey patching though, the 'wrapt' library is your friend,
+with its transparent object proxy wrappers and post import hook mechanism, it
+allows you to safely monkey patch code to modify its behaviour.&lt;/p&gt;
+&lt;p&gt;Come learn about the 'wrapt' library and the joys, but also the dangers, of
+monkey patching.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Speaker&lt;/em&gt;: Graham is the author of mod_wsgi, a popular module for hosting
+Python web applications with the Apache HTTPD web server. He has a keen
+interest in Docker and Platform as a Service (PaaS) technologies, and is a
+Fellow of the Python Software Foundation and Member of the Apache Software
+Foundation. He is currently a developer advocate for OpenShift at Red Hat.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/232538900/"&gt;meetup page&lt;/a&gt;,
+&lt;a href="https://engineers.sg/video/hear-no-evil-see-no-evil-patch-no-evil-singapore-python-user-group--911"&gt;video&lt;/a&gt; (thanks &lt;a href="https://engineers.sg"&gt;engineers.sg&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Thanks again to &lt;a href="https://www.paypal.com/sg"&gt;PayPal&lt;/a&gt; for hosting.&lt;/p&gt;</summary><category term="dev-practice"></category></entry><entry><title>Thank You for Attending PyCon SG 2016</title><link href="/2016-pyconsg-thank-you.html" rel="alternate"></link><published>2016-07-07T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-07-07:2016-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The organizing committee would like to thank everyone for coming to PyCon
 Singapore 2016. This year we had over 250 participants! This conference is only
 possible because of your interest! Here are some
