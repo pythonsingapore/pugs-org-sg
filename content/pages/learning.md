@@ -9,25 +9,26 @@ also many other useful resources.
 
 ## Starting from scratch
 
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/): learn by doing
 * [Learn Python](http://www.learnpython.org/): in-browser interactive tutorial
 * [An Hour of Python](https://hourofpython.com/): somewhat inspired by [HOC](http://studio.code.org/)
-* [Code Combat](http://codecombat.com/): turtles are a bit passé...
 * [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html):
   interactive version of a popular [book](http://www.greenteapress.com/thinkpython/) by the same name
 * [CS 61A](http://cs61a.org): The Structure and Interpretation of Computer Programs (in Python)
 * [Programming for Everybody](https://www.coursera.org/learn/python): Coursera course
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036): Udacity course
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8): MIT/EdX course
-* [Python programming fundamentals](http://www.thinkful.com/learn/python-programming-fundamentals/): nice short tutorial
+* [Code Combat](http://codecombat.com/): turtles are a bit passé
 * [CheckIO](http://www.checkio.org/): gamified exercises
-* [newcoder](http://newcoder.io/): more advanced tutorials
 * [exercism](http://exercism.io/): realistic exercies and code review by peers
 * [Python for Fun](http://openbookproject.net/py4fun/): non-trivial programs and
     exercises for intermediate programmers
+* [newcoder](http://newcoder.io/): more advanced tutorials
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [A Byte of Python](http://www.swaroopch.com/notes/python/) and
   [Python for you and me](http://pymbook.readthedocs.org/en/latest/): more free
   books
+* [Python programming fundamentals](http://www.thinkful.com/learn/python-programming-fundamentals/): nice short tutorial
 * [python3.codes](http://python3.codes): Cool blog with fun code examples
 
 ## For developers new to Python
@@ -52,6 +53,7 @@ also many other useful resources.
 * [Invent with Python](http://inventwithpython.com/): teaching through programming games
 * [Python Books](http://pythonbooks.revolunet.com/): collection of free books and guides on specific topics
 * [Raspberry Pi](http://www.raspberrypi.org/): tons of educational materials
+* [skulpt](http://www.skulpt.org): in-browser implementation of Python
 * [Reeborg's World](http://reeborg.ca/index_en.html): robo-turtles
 * [Teaching with the IPython Notebook](http://nbviewer.ipython.org/gist/jiffyclub/5165431): nothing's wrong with IDLE except that evolution happens...
 * [Software Carpentry](http://software-carpentry.org/): Teaching basic software engineering skills to scientists

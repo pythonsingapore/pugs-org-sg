@@ -8,7 +8,7 @@ the Registry of Societies, Ministry of Home Affairs, Republic of Singapore; and
 gazette on 10 June 2009 vide Notification Number 1733.
 
 To date, PUGS had organized 3 PyCon-APAC (2010 -- 2012) and
-3 PyCon SG (2013 -- 2015) conferences.
+4 PyCon SG (2013 -- 2016) conferences.
 
 ## Contact
 
