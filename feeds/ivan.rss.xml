@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Wed, 07 Sep 2016 00:00:00 +0800</lastBuildDate><item><title>July 2016 meetup</title><link>/2016-jul-meetup.html</link><description>&lt;p&gt;[postfactum]&lt;/p&gt;
+<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0800</lastBuildDate><item><title>Notification of PUGS AGM 2016</title><link>/2016-oct-agm-announce.html</link><description>&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;p&gt;We will be holding our Annual General Meeting on Tuesday, October 25 from 7 to
+9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
+068811,
+&lt;a href="https://encrypted.google.com/maps/place/Red+Hat/@1.275445,103.8469478,18z/data=!4m5!3m4!1s0x0:0x166080ad6b7de256!8m2!3d1.2757561!4d103.8472804?hl=en"&gt;map&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation of Financial Accounts&lt;/li&gt;
+&lt;li&gt;PyCon-APAC 2017 in Kuala Lumpur&lt;/li&gt;
+&lt;li&gt;Activities for 2017&lt;/li&gt;
+&lt;li&gt;Open discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please join us if you are interested in shaping local Python comminities. &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Sun, 09 Oct 2016 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2016-10-09:2016-oct-agm-announce.html</guid></item><item><title>July 2016 meetup</title><link>/2016-jul-meetup.html</link><description>&lt;p&gt;[postfactum]&lt;/p&gt;
 &lt;h1&gt;Talk&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Hear no evil, see no evil, patch no evil: Or, how to monkey-patch safely&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;By &lt;a href="http://www.dscpl.com.au"&gt;Graham Dumpleton&lt;/a&gt;&lt;/p&gt;
