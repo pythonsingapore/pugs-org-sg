@@ -21,5 +21,5 @@ Agenda:
 * Activities for 2017
 * Open discussion
 
-Please join us if you are interested in shaping local Python comminities. 
+Please join us if you are interested in shaping local Python communities. 
 
