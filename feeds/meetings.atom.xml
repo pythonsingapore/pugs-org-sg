@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2016-10-09T00:00:00+08:00</updated><entry><title>Notification of PUGS AGM 2016</title><link href="/2016-oct-agm-announce.html" rel="alternate"></link><published>2016-10-09T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-10-09:2016-oct-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2017-02-13T00:00:00+08:00</updated><entry><title>February 2017 meetup</title><link href="/2017-feb-meetup.html" rel="alternate"></link><published>2017-02-13T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-02-13:2017-feb-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for February 22, from 7 to 9pm at the new
+&lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt; office (&lt;a href="https://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=240+Tanjong+Pagar+Road+%2312-00%2C+088540%2C+sg"&gt;Carousell@Keppel Towers
+2&lt;/a&gt;,
+240 Tanjong Pagar Road #12-00, 088540).&lt;/p&gt;
+&lt;p&gt;RSVP on the &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/237386331/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;Talk&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Lua for Python developers&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this introduction to Lua I'll demonstrate the essentials of Lua
+and compare them with Python. I'll also introduce you to how Nmap Scripting
+Engine uses Lua, and will walk you around some of the important libraries it
+ships with.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Speaker&lt;/em&gt;: Gyanendra Mishra is a Computer Science senior at BITS Pilani, India.
+Currently he is in Singapore as a research intern at the Singapore University of
+Technology and Design working for the betterment of the security of Cyber
+Physical Systems. He loves to work on random projects in Python. In 2015 he
+participated in the Google Summer of Code Project under Nmap Security Scanner
+where he  got introduced to Lua.&lt;/p&gt;</summary><category term="dev-practice"></category></entry><entry><title>Notification of PUGS AGM 2016</title><link href="/2016-oct-agm-announce.html" rel="alternate"></link><published>2016-10-09T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-10-09:2016-oct-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting on Tuesday, October 25 from 7 to
 9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
 068811,
