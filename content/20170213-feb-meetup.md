@@ -15,6 +15,8 @@ RSVP on the [meetup page](https://www.meetup.com/Singapore-Python-User-Group/eve
 
 # Talk
 
+([slides](https://goo.gl/O4yd0W), [video](https://engineers.sg/v/1416))
+
 **Lua for Python developers**.
 
 *Abstract*: In this introduction to Lua I'll demonstrate the essentials of Lua
