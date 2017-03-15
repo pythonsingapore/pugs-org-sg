@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2017-02-13T00:00:00+08:00</updated><entry><title>February 2017 meetup</title><link href="/2017-feb-meetup.html" rel="alternate"></link><published>2017-02-13T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-02-13:2017-feb-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for February 22, from 7 to 9pm at the new
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2017-03-15T00:00:00+08:00</updated><entry><title>March 2017 meetup</title><link href="/2017-mar-meetup.html" rel="alternate"></link><published>2017-03-15T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-03-15:2017-mar-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for March 29, from 7 to 9pm at the new
+&lt;a href="https://pivotal.io/"&gt;Pivotal&lt;/a&gt; office (140 Robinson Rd, Singapore 068907, #16-00,
+&lt;a href="https://www.google.com/maps/place/140+Robinson+Rd,+Singapore+068907/@1.2783023,103.8473368,18z/data=!4m5!3m4!1s0x31da19125ce3bdd5:0x129471cdbaefa494!8m2!3d1.2783342!4d103.8482807"&gt;map&lt;/a&gt;).
+(Note: Please have an ID with you for building security check).&lt;/p&gt;
+&lt;p&gt;RSVP at the &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/238107286/"&gt;meetup page&lt;/a&gt; (and please unRSVP if you can't make it).&lt;/p&gt;
+&lt;h1&gt;Talk&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Exploring Singapore's Open Data APIs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Open data is data that is available to anyone, without fee, copyright,
+or restrictions on usage, and Singapore is one of many governments that have
+started providing open data feeds. This talk will explore the use of open data
+from a developers point of view, and show the possibilities and limitations when
+dealing with Singapore's Open Data APIs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bio:&lt;/em&gt; Haoyi is a software engineer, previously working at Dropbox, currently
+working on a developer tools startup in Singapore. He's interested in
+programming languages, developer productivity, web development, and automation.&lt;/p&gt;</summary><category term="analytics"></category></entry><entry><title>February 2017 meetup</title><link href="/2017-feb-meetup.html" rel="alternate"></link><published>2017-02-13T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-02-13:2017-feb-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for February 22, from 7 to 9pm at the new
 &lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt; office (&lt;a href="https://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;q=240+Tanjong+Pagar+Road+%2312-00%2C+088540%2C+sg"&gt;Carousell@Keppel Towers
 2&lt;/a&gt;,
 240 Tanjong Pagar Road #12-00, 088540).&lt;/p&gt;
