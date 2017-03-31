@@ -15,6 +15,8 @@ RSVP at the [meetup page](https://www.meetup.com/Singapore-Python-User-Group/eve
 
 # Talk
 
+([video](https://engineers.sg/v/1617), [code](https://github.com/lihaoyi/opendata))
+
 **Exploring Singapore's Open Data APIs**
 
 *Abstract:* Open data is data that is available to anyone, without fee, copyright,
