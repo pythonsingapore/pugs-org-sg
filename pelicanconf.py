@@ -50,6 +50,7 @@ MENUITEMS = (
 
 LINKS = (
     ('PyConSG', 'http://pycon.sg/'),
+    ('PUGS on Slack', 'https://pugs-org-sg-slackin.now.sh/'),
     ('PUGS mailing list', 'https://groups.google.com/forum/#!forum/pythonsg'),
     ('PUGS on Facebook', 'https://www.facebook.com/groups/pythonsg/'),
     ('PUGS on Meetup', 'http://www.meetup.com/Singapore-Python-User-Group/'),
