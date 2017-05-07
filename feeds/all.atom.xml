@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-03-15T00:00:00+08:00</updated><entry><title>March 2017 meetup</title><link href="/2017-mar-meetup.html" rel="alternate"></link><published>2017-03-15T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-03-15:2017-mar-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for March 29, from 7 to 9pm at the new
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-05-06T00:00:00+08:00</updated><entry><title>May 2017 meetup</title><link href="/2017-may-meetup.html" rel="alternate"></link><published>2017-05-06T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-05-06:2017-may-meetup.html</id><summary type="html">&lt;h2&gt;It's Slack time&lt;/h2&gt;
+&lt;p&gt;We now have a slack channel open to everybody. You can join at 
+&lt;a href="https://pugs-org-sg-slackin.now.sh/"&gt;https://pugs-org-sg-slackin.now.sh/&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;May meetup&lt;/h2&gt;
+&lt;p&gt;The next PUGS meetup is planned for May 31, from 7 to 9pm at 
+&lt;a href="https://www.zendesk.com/"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive Haw Par Technocentre, #07-01
+(&lt;a href="https://goo.gl/maps/NNHUz"&gt;map&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;RSVP at the &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/239748794/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7pm: Meet &amp;amp; Greet. While everyone arrives, we have the chance to chat and
+mingle, Zendesk is kindly sponsoring snacks and soft-drinks.&lt;/p&gt;
+&lt;p&gt;7:30pm: Talk #1: &lt;strong&gt;Pyfrost: microservice for feature gating&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Pyfrost is a microservice that aims to solve all your feature gating
+needs. The philosophy behind pyfrost is to think of entitlement of features you
+develop as a logical conclusion of various considerations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bio&lt;/em&gt;:Yatish Bathini has been working as a software engineer on the live chat
+product offered by Zendesk (formerly known as Zopim) since 2015. He is an
+integral part of the team working on developing key product features for
+enterprise markets.&lt;/p&gt;
+&lt;p&gt;8pm: Talk #2: &lt;strong&gt;Your talk could be here ;) &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Any Python related topic will do, talk length should be around 15-20 minutes.
+Please reach out to Martin Brochhaus if you are interested.&lt;/p&gt;</summary><category term="dev-practice"></category></entry><entry><title>March 2017 meetup</title><link href="/2017-mar-meetup.html" rel="alternate"></link><published>2017-03-15T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-03-15:2017-mar-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for March 29, from 7 to 9pm at the new
 &lt;a href="https://pivotal.io/"&gt;Pivotal&lt;/a&gt; office (140 Robinson Rd, Singapore 068907, #16-00,
 &lt;a href="https://www.google.com/maps/place/140+Robinson+Rd,+Singapore+068907/@1.2783023,103.8473368,18z/data=!4m5!3m4!1s0x31da19125ce3bdd5:0x129471cdbaefa494!8m2!3d1.2783342!4d103.8482807"&gt;map&lt;/a&gt;).
 (Note: Please have an ID with you for building security check).&lt;/p&gt;
