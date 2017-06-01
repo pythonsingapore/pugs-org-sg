@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/ivan.atom.xml" rel="self"></link><id>/</id><updated>2017-05-06T00:00:00+08:00</updated><entry><title>May 2017 meetup</title><link href="/2017-may-meetup.html" rel="alternate"></link><published>2017-05-06T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-05-06:2017-may-meetup.html</id><summary type="html">&lt;h2&gt;It's Slack time&lt;/h2&gt;
-&lt;p&gt;We now have a slack channel open to everybody. You can join at 
+&lt;p&gt;We now have a slack channel open to everybody. You can join at
 &lt;a href="https://pugs-org-sg-slackin.now.sh/"&gt;https://pugs-org-sg-slackin.now.sh/&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;May meetup&lt;/h2&gt;
-&lt;p&gt;The next PUGS meetup is planned for May 31, from 7 to 9pm at 
+&lt;p&gt;The next PUGS meetup is planned for May 31, from 7 to 9pm at
 &lt;a href="https://www.zendesk.com/"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive Haw Par Technocentre, #07-01
 (&lt;a href="https://goo.gl/maps/NNHUz"&gt;map&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;RSVP at the &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/239748794/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="goo.gl/ZEGcY2"&gt;Pyfrost talk slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://goo.gl/1Qys5Z"&gt;Photos from the event&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7pm: Meet &amp;amp; Greet. While everyone arrives, we have the chance to chat and
 mingle, Zendesk is kindly sponsoring snacks and soft-drinks.&lt;/p&gt;
@@ -18,9 +23,18 @@ develop as a logical conclusion of various considerations.&lt;/p&gt;
 product offered by Zendesk (formerly known as Zopim) since 2015. He is an
 integral part of the team working on developing key product features for
 enterprise markets.&lt;/p&gt;
-&lt;p&gt;8pm: Talk #2: &lt;strong&gt;Your talk could be here ;) &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Any Python related topic will do, talk length should be around 15-20 minutes.
-Please reach out to Martin Brochhaus if you are interested.&lt;/p&gt;</summary><category term="dev-practice"></category></entry><entry><title>March 2017 meetup</title><link href="/2017-mar-meetup.html" rel="alternate"></link><published>2017-03-15T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-03-15:2017-mar-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for March 29, from 7 to 9pm at the new
+&lt;p&gt;8pm: Talk #2: &lt;strong&gt;Introduction to Algorithmic Trading With Quantopian&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this short sharing session, Anthony will walk you through the
+&lt;a href="https://www.quantopian.com"&gt;Quantopian&lt;/a&gt; platform and explain the data, tools,
+lectures and various aids provided to get you from a novice to professional algo
+developer. You will learn how to utilise the back tester to test your algo
+strategy and when you are happy with it, go live and trade with real money.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bio&lt;/em&gt;: Anthony has been teaching investment and portfolio management related
+modules at educational institutions since 2010. He holds an MBA and an MFE from
+Otago University (NZ) and NUS (Singapore) respectively. With a strong passion
+for finance, data science, and programming, Anthony has also designed
+curriculums for his own beginner level algorithmic trading workshops in addition
+to Quantopian events.&lt;/p&gt;</summary><category term="dev-practice"></category></entry><entry><title>March 2017 meetup</title><link href="/2017-mar-meetup.html" rel="alternate"></link><published>2017-03-15T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-03-15:2017-mar-meetup.html</id><summary type="html">&lt;p&gt;The next PUGS meetup is planned for March 29, from 7 to 9pm at the new
 &lt;a href="https://pivotal.io/"&gt;Pivotal&lt;/a&gt; office (140 Robinson Rd, Singapore 068907, #16-00,
 &lt;a href="https://www.google.com/maps/place/140+Robinson+Rd,+Singapore+068907/@1.2783023,103.8473368,18z/data=!4m5!3m4!1s0x31da19125ce3bdd5:0x129471cdbaefa494!8m2!3d1.2783342!4d103.8482807"&gt;map&lt;/a&gt;).
 (Note: Please have an ID with you for building security check).&lt;/p&gt;
