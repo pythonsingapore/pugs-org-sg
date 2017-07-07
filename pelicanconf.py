@@ -7,7 +7,7 @@ SITENAME = u'Python User Group Singapore'
 SITEURL = ''
 
 # default text in the footer
-COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2016, Python User Group Singapore'
+COPYRIGHT = u'Copyright &copy; 2009 &ndash; 2017, Python User Group Singapore'
 
 DEFAULT_LANG = u'en'
 TIMEZONE = 'Asia/Singapore'
