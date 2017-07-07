@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Sat, 06 May 2017 00:00:00 +0800</lastBuildDate><item><title>May 2017 meetup</title><link>/2017-may-meetup.html</link><description>&lt;h2&gt;It's Slack time&lt;/h2&gt;
+<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0800</lastBuildDate><item><title>July 2017 meetup</title><link>/2017-jul-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; July 6, 7 to 9pm&lt;br/&gt;
+&lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com/"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive Haw Par Technocentre, #07-01
+(&lt;a href="https://goo.gl/maps/NNHUz"&gt;map&lt;/a&gt;)&lt;br/&gt;
+&lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/239748794/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;7pm: Meet &amp;amp; Greet&lt;/strong&gt;
+While everyone arrives, we have the chance to chat and mingle, Zendesk is kindly
+sponsoring snacks and soft-drinks. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm: Talk #1: Deep Learning with Python in Finance by Ben Ball&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Python is becoming the de facto standard for many machine learning
+applications. We have been using Python with deep learning and other ML
+techniques, with a focus in prediction and exploitation in transactional
+markets. I am presenting one of our implementations (A dueling double DQN - a
+class of Reinforcement Learning algorithm) in Python using TensorFlow, along
+with information and background around the class of deep learning algorithm, and
+the application to financial markets we have employed. Attendees will learn how
+to implement a DQN using Tensorflow, and how to design a system for deep
+learning for solving a wide range of problems. The code will be available on
+github for attendees.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bio&lt;/em&gt;: Ben is a believer in making a career out of what you love. He is inspired
+by the joining of excellent technology and research and likes building software
+that is easy to use, but does amazing things. His work has spanned 15 years,
+with a dual focus in AI Software Engineering and Algorithmic Trading. He is
+currently working as the CTO of &lt;a href="http://prediction-machines.com"&gt;http://prediction-machines.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8pm: Talk #2: Introduction to MicroPython - Mighty Python Running on Tiny
+Embedded Boards by Ovidiu Hossu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Coming soon! Hardware-hackers listen up! Ovidiu will give an
+introduction to MicroPython and bring a few of his boards to run some real-world
+demos. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Big thanks to &lt;a href="https://www.zendesk.com/"&gt;Zendesk&lt;/a&gt; for hosting us once again 
+and &lt;a href="https://engineers.sg"&gt;Engineers.SG&lt;/a&gt; for recording the event!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://prediction-machines.com/2017/07/07/deeprl-with-python-tensorflow/"&gt;Ben's talk and github repos&lt;/a&gt;
+    (&lt;a href="https://engineers.sg/v/1875"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.slideshare.net/OvidiuHOSSU1/micropython-introduction-pusg-july-2017"&gt;Ovidiu's talk&lt;/a&gt;
+    (&lt;a href="https://engineers.sg/v/1874"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="July meetup attendees" src="/img/2017-jul-meetup.jpg" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Tue, 06 Jun 2017 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2017-06-06:2017-jul-meetup.html</guid><category>machine learning</category><category>hardware</category></item><item><title>May 2017 meetup</title><link>/2017-may-meetup.html</link><description>&lt;h2&gt;It's Slack time&lt;/h2&gt;
 &lt;p&gt;We now have a slack channel open to everybody. You can join at
 &lt;a href="https://pugs-org-sg-slackin.now.sh/"&gt;https://pugs-org-sg-slackin.now.sh/&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;May meetup&lt;/h2&gt;
