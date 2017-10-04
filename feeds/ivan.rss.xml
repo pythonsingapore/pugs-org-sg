@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0800</lastBuildDate><item><title>August 2017 meetup</title><link>/2017-aug-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; August 29, 7 to 9pm&lt;br/&gt;
+<rss version="2.0"><channel><title>Python User Group Singapore</title><link>/</link><description></description><lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0800</lastBuildDate><item><title>September 2017 meetup</title><link>/2017-sep-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; September 26, 7 to 9pm&lt;br/&gt;
+&lt;em&gt;Venue:&lt;/em&gt; Carousell, Keppel Tower 2, Tanjong Pagar Road&lt;br/&gt;
+&lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/240954690/"&gt;meetup page&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;7pm: Meet &amp;amp; Greet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm: Talk #1: Using Kivy to Write an iOS and Android App by Chao-Jen Chen&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt;
+Kivy is an open source Python framework that allows developers to write apps for
+and run the same code on Linux, Windows, Mac OS X, iOS, and Android. I will walk
+through an end-to-end process, from coding an app using Kivy library to
+deploying the same app to iOS and Android devices using Kivy toolchains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bio&lt;/em&gt;:
+Chao-Jen Chen is a university instructor teaching Calculus, Probability, and
+Linear Algebra. He used to work in the finance industry as fixed income
+quantitative analyst and FX manager, managing and hedging USD3bn FX exposure to
+more than 20 currencies. His personal research interest is Singapore’s monetary
+policy tool, i.e., the SGD NEER (Singapore Dollar Nominal Effective Exchange
+Rate). In April 2017, he released an app in Google Play and Apple App Store that
+implemented his SGD NEER model. He also wrote a chapter on numerical computing
+in finance for a book (F# Deep Dives, published by Manning Publications Co. in
+December, 2014).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8pm: Talk #2: Welcome to async/await by Dima Tisnek&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: 
+&lt;a href="https://github.com/dimaqq"&gt;Dima&lt;/a&gt; will present the paradigm of async/await across a few languages (Python3.6
+and ES2017) with some live coding.&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://docs.google.com/presentation/d/1i6UvGNN11q9IaFIa1qV_xl52cjNuH-qUcl0MPX0_vao/edit?usp=sharing"&gt;slides&lt;/a&gt;)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Thanks to &lt;a href="https://carousell.com"&gt;Carousell&lt;/a&gt; for the food and venue&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Wed, 04 Oct 2017 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2017-10-04:2017-sep-meetup.html</guid><category>GUI</category><category>dev-practice</category></item><item><title>August 2017 meetup</title><link>/2017-aug-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; August 29, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; Singapore Power, Keppel Tower 2 #08-00, Tanjong Pagar Road&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/240986696/"&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
