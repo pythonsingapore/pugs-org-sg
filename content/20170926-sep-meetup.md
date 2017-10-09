@@ -33,6 +33,9 @@ implemented his SGD NEER model. He also wrote a chapter on numerical computing
 in finance for a book (F# Deep Dives, published by Manning Publications Co. in
 December, 2014).
 
+Update 2017-10-09: [code example](https://github.com/Chao-Jen/Kivy_example_for_PUGS_Sep_2017)
+
+
 **8pm: Talk #2: Welcome to async/await by Dima Tisnek**
 
 *Abstract*: 
