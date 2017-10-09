@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-10-04T00:00:00+08:00</updated><entry><title>September 2017 meetup</title><link href="/2017-sep-meetup.html" rel="alternate"></link><published>2017-10-04T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-10-04:2017-sep-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; September 26, 7 to 9pm&lt;br/&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-10-09T00:00:00+08:00</updated><entry><title>Notification of PUGS AGM 2017</title><link href="/2017-AGM-notice.html" rel="alternate"></link><published>2017-10-09T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-10-09:2017-AGM-notice.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;p&gt;We will be holding our Annual General Meeting on Tuesday, October 31 from 7 to
+9pm.&lt;br/&gt;
+Venue is still not confirmed.&lt;/p&gt;
+&lt;p&gt;This is an election year. We will select and vote on who will be on
+the Executive committee.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quick history of PUGS and activities during 2017&lt;/li&gt;
+&lt;li&gt;Presentation of Financial Accounts&lt;/li&gt;
+&lt;li&gt;Election of the new Executive committee&lt;/li&gt;
+&lt;li&gt;PyCon-APAC 2018 in Singapore&lt;/li&gt;
+&lt;li&gt;Open discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please join us if you are interested in shaping local Python users community.&lt;/p&gt;</summary></entry><entry><title>September 2017 meetup</title><link href="/2017-sep-meetup.html" rel="alternate"></link><published>2017-10-04T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2017-10-04:2017-sep-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; September 26, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; Carousell, Keppel Tower 2, Tanjong Pagar Road&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/240954690/"&gt;meetup page&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
@@ -20,6 +34,7 @@ Rate). In April 2017, he released an app in Google Play and Apple App Store that
 implemented his SGD NEER model. He also wrote a chapter on numerical computing
 in finance for a book (F# Deep Dives, published by Manning Publications Co. in
 December, 2014).&lt;/p&gt;
+&lt;p&gt;Update 2017-10-09: &lt;a href="https://github.com/Chao-Jen/Kivy_example_for_PUGS_Sep_2017"&gt;code example&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8pm: Talk #2: Welcome to async/await by Dima Tisnek&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: 
 &lt;a href="https://github.com/dimaqq"&gt;Dima&lt;/a&gt; will present the paradigm of async/await across a few languages (Python3.6
