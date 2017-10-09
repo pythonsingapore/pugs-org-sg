@@ -12,10 +12,11 @@ We will be holding our Annual General Meeting on Tuesday, October 31 from 7 to
 9pm.<br/>
 Venue is still not confirmed.
 
-This is an election year. We will select and vote on who will be on
-the Executive committee.
+This is an election year. We will select and vote among those present at the AGM
+on who will be on the new Executive committee, as well as ordinary committee
+members.
 
-Agenda:
+**Agenda:**
 
 - Quick history of PUGS and activities during 2017
 - Presentation of Financial Accounts
