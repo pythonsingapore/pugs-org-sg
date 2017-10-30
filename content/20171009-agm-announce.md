@@ -9,7 +9,7 @@ Pin: true
 Dear PUGS members,
 
 We will be holding our Annual General Meeting on Tuesday, October 31 from 7 to
-9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
+9pm at Red Hat Singapore office (8 Shenton Way, 11-01 AXA Tower, Singapore
 068811, [map](https://goo.gl/maps/HADBLmgHsVt)) 
 
 
