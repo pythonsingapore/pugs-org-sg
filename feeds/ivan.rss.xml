@@ -10,8 +10,8 @@ page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The talk will be a basic crash course to Natural Language Processing (NLP). We
 will try to build a simple application in 30 minutes using NLTK and friends
 (Scikit-Learn, SpaCy, Gensim and maybe, just maybe PyTorch)
-[&lt;a href="https://goo.gl/cg7iza"&gt;slides&lt;/a&gt;].&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://21.co/alvations/"&gt;Liling&lt;/a&gt; is a data geek that works mostly with text
+[&lt;a href="https://goo.gl/cg7iza"&gt;slides&lt;/a&gt;, &lt;a href="https://www.kaggle.com/alvations/basic-nlp-with-nltk/"&gt;code&lt;/a&gt;].&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://21.co/alvations/"&gt;Liling&lt;/a&gt; is a data geek who works mostly with text
 processing and machine translation. He contributes to NLTK and seeks help from
 StackOverflow whenever he works with Pandas dataframe. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8:00pm: Introduction to AWS Lambda with Python by Maximilian Jackson&lt;/strong&gt;&lt;/p&gt;
@@ -21,8 +21,8 @@ Singapore for years. He has recently had the need to figure out how to deploy
 Python functions to AWS Lambda and would like to share his findings with the
 community.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan</dc:creator><pubDate>Thu, 26 Oct 2017 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2017-10-26:2017-oct-meetup.html</guid><category>machine learning</category><category>cloud</category></item><item><title>Notification of PUGS AGM 2017</title><link>/2017-AGM-notice.html</link><description>&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting on Tuesday, October 31 from 7 to
-9pm.&lt;br/&gt;
-Venue is still not confirmed.&lt;/p&gt;
+9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
+068811, &lt;a href="https://goo.gl/maps/HADBLmgHsVt"&gt;map&lt;/a&gt;) &lt;/p&gt;
 &lt;p&gt;This is an election year. We will select and vote among those present at the AGM
 on who will be on the new Executive committee, as well as ordinary committee
 members.&lt;/p&gt;
