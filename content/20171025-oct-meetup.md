@@ -21,9 +21,9 @@ page](https://www.meetup.com/Singapore-Python-User-Group/events/243967771/)
 The talk will be a basic crash course to Natural Language Processing (NLP). We
 will try to build a simple application in 30 minutes using NLTK and friends
 (Scikit-Learn, SpaCy, Gensim and maybe, just maybe PyTorch)
-[[slides](https://goo.gl/cg7iza)].
+[[slides](https://goo.gl/cg7iza), [code](https://www.kaggle.com/alvations/basic-nlp-with-nltk/)].
 
-[Liling](https://21.co/alvations/) is a data geek that works mostly with text
+[Liling](https://21.co/alvations/) is a data geek who works mostly with text
 processing and machine translation. He contributes to NLTK and seeks help from
 StackOverflow whenever he works with Pandas dataframe. 
 
