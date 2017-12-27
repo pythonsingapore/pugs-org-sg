@@ -3,7 +3,6 @@ Slug: 2017-AGM-notice
 Author: Ivan
 Date: 2017-10-09
 Category: meetings
-Pin: true
 
 
 Dear PUGS members,
