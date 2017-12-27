@@ -3,6 +3,28 @@ Slug: org
 
 ## Current Officers
 
+term of office: 31 October 2017 to October 2019
+
+### Executive committee:
+
+- Michael Li Qing'An (President)
+- Martin Brochhaus (Vice-President)
+- Maximilian Jackson (Treasurer)
+- Lucas Tan (Secretary)
+
+### Ordinary committee members:
+
+- Aung Phone Phyo
+- Björn Andersson
+- Dima Tisnek
+- Joshua Gareth Ringer
+- Tamim Shahriar
+- Teh Ming Han
+- Zac Kwan Wei Hao
+
+
+## Past Officers 
+
 term of office: 31 October 2015 to October 2017
 
 ### Executive committee:
@@ -11,7 +33,6 @@ term of office: 31 October 2015 to October 2017
 - Li Ming Tsai (Vice-President)
 - Michael Li  (Treasurer)
 - Laurence Putra Franslay (Secretary)
-
 
 ### Ordinary committee members:
 
@@ -24,8 +45,7 @@ term of office: 31 October 2015 to October 2017
 - Martin Andrews
 - Gi Soong Chee
 
-
-## Past Officers 
+********
 
 term of office: 31 October 2013 to October 2015
 
