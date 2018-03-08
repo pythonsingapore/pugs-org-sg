@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/conference.atom.xml" rel="self"></link><id>/</id><updated>2016-07-07T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2016</title><link href="/2016-pyconsg-thank-you.html" rel="alternate"></link><published>2016-07-07T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-07-07:2016-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - conference</title><link href="/" rel="alternate"></link><link href="/feeds/conference.atom.xml" rel="self"></link><id>/</id><updated>2016-07-07T00:00:00+08:00</updated><entry><title>Thank You for Attending PyCon SG 2016</title><link href="/2016-pyconsg-thank-you.html" rel="alternate"></link><published>2016-07-07T00:00:00+08:00</published><updated>2016-07-07T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:None,2016-07-07:/2016-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The organizing committee would like to thank everyone for coming to PyCon
+Singapore 2016. This year we had over 250 participants! This conference is only
+possible because of your interest! Here are some
+&lt;a href="https://www.flickr.com/photos/mbrochh/sets/72157670466796255"&gt;photos&lt;/a&gt; of the
+conference. And if you’ve missed a talk in a parallel session, you may …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/27912517782/in/album-72157670466796255/"&gt;&lt;img alt="PyConSG 2016 attendees" src="/img/2016-pyconsg-crowd.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The organizing committee would like to thank everyone for coming to PyCon
 Singapore 2016. This year we had over 250 participants! This conference is only
 possible because of your interest! Here are some
@@ -30,7 +35,12 @@ you in touch with relevant people.&lt;/p&gt;
 &lt;p&gt;We are looking for feedback from our attendees so that we can take the
 conference to the next level in the coming years.
 A short &lt;a href="https://docs.google.com/forms/d/1WdsXPBMncDe4aFyvhIYrzb8OekOdPAbd0Oy1N_J6go4/edit?uiv=1"&gt;feedback form&lt;/a&gt;
-is available online which will not take you more than five minutes to complete.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Early bird registration for PyConSG 2016 is open</title><link href="/2016-pyconsg-earlybird.html" rel="alternate"></link><published>2016-04-26T00:00:00+08:00</published><author><name>Max</name></author><id>tag:,2016-04-26:2016-pyconsg-earlybird.html</id><summary type="html">&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
+is available online which will not take you more than five minutes to complete.&lt;/p&gt;</content><category term="pyconsg"></category></entry><entry><title>Early bird registration for PyConSG 2016 is open</title><link href="/2016-pyconsg-earlybird.html" rel="alternate"></link><published>2016-04-26T00:00:00+08:00</published><updated>2016-04-26T00:00:00+08:00</updated><author><name>Max</name></author><id>tag:None,2016-04-26:/2016-pyconsg-earlybird.html</id><summary type="html">&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
+the Python User Group Singapore: by the community, for the community.&lt;/p&gt;
+&lt;p&gt;Early bird registration is open &lt;a href="https://pycon.sg/accounts/signup/"&gt;now&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;This year our keynote speakers are Dr. Yves J. Hilpisch, Audrey Roy Greenfeld
+and Daniel Roy Greenfeld.&lt;/p&gt;
+&lt;p&gt;The NUS School of Computing is …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Join us for our 4th annual &lt;a href="https://pycon.sg"&gt;Python conference&lt;/a&gt;, organized by
 the Python User Group Singapore: by the community, for the community.&lt;/p&gt;
 &lt;p&gt;Early bird registration is open &lt;a href="https://pycon.sg/accounts/signup/"&gt;now&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;This year our keynote speakers are Dr. Yves J. Hilpisch, Audrey Roy Greenfeld
@@ -42,7 +52,14 @@ Carousell and The Artling (Silver).&lt;/p&gt;
 Development and Data Analytics. Check out our speakers' list at
 &lt;a href="https://pycon.sg/schedule/list/"&gt;https://pycon.sg/schedule/list/&lt;/a&gt;. The schedule will be published soon.&lt;/p&gt;
 &lt;p&gt;There's something for everyone; beginners, intermediate and advanced users of
-Python.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2016</title><link href="/2016-pyconsg-call-for-talks.html" rel="alternate"></link><published>2016-01-29T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2016-01-29:2016-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;&lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2016&lt;/a&gt; is happening again! Mark your calendars
+Python.&lt;/p&gt;</content><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2016</title><link href="/2016-pyconsg-call-for-talks.html" rel="alternate"></link><published>2016-01-29T00:00:00+08:00</published><updated>2016-01-29T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:None,2016-01-29:/2016-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;&lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2016&lt;/a&gt; is happening again! Mark your calendars
+for June 23 to 25.&lt;/p&gt;
+&lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniel and Audrey Greenfeld (&lt;a href="https://www.twoscoopspress.com"&gt;Two Scoops of Django&lt;/a&gt;, &lt;a href="https://www.djangopackages.com/"&gt;Django Packages&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dr. Yves J. Hilpisch (&lt;a href="http://tpq.io/"&gt;The Python Quants&lt;/a&gt;, &lt;a href="http://python-for-finance.com/"&gt;Python for Finance (O'Reilly 2014)&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also have some …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2016&lt;/a&gt; is happening again! Mark your calendars
 for June 23 to 25.&lt;/p&gt;
 &lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
 &lt;ul&gt;
@@ -60,7 +77,12 @@ can submit your idea earlier.&lt;/p&gt;
 &lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
 &lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
 mention that for the first time we will grant a 25% rebate on the conference
-ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><published>2015-06-22T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-06-22:2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+ticket for speakers.&lt;/p&gt;</content><category term="pyconsg"></category></entry><entry><title>Thank You for Attending PyCon SG 2015</title><link href="/2015-pyconsg-thank-you.html" rel="alternate"></link><published>2015-06-22T00:00:00+08:00</published><updated>2015-06-22T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:None,2015-06-22:/2015-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
+everyone for their support for PyCon Singapore 2015 which was held
+at &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 17th June to 19th June.&lt;/p&gt;
+&lt;p&gt;This marks the 6th conference to be organized by the Python User Group
+Community in Singapore …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/18786975678/"&gt;&lt;img alt="PyConSG 2015 attendees" src="/img/2015-pyconsg-crowd.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 everyone for their support for PyCon Singapore 2015 which was held
 at &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 17th June to 19th June.&lt;/p&gt;
@@ -101,7 +123,13 @@ conference a reality. We will soon be opening a call for volunteers for
 PyCon SG 2016; if you are interested in helping out with the conference (no
 technical chops required), look out for our next meeting!&lt;/p&gt;
 &lt;p&gt;Sincerely, Victor Neo&lt;/p&gt;
-&lt;p&gt;Chairman, PyCon Singapore 2015&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2015</title><link href="/2015-pyconsg-call-for-talks.html" rel="alternate"></link><published>2015-02-26T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2015-02-26:2015-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
+&lt;p&gt;Chairman, PyCon Singapore 2015&lt;/p&gt;</content><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2015</title><link href="/2015-pyconsg-call-for-talks.html" rel="alternate"></link><published>2015-02-26T00:00:00+08:00</published><updated>2015-02-26T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:None,2015-02-26:/2015-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
+of the global Python community to submit talk proposals and tutorial proposals
+for our conference happening at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt;
+from 17-19 June 2015.&lt;/p&gt;
+&lt;p&gt;Once again we've got the support of great keynote speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Andrew Godwin (Django core …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;The organizing committee for &lt;a href="https://pycon.sg/"&gt;PyCon Singapore 2015&lt;/a&gt; would like to invite members
 of the global Python community to submit talk proposals and tutorial proposals
 for our conference happening at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt;
 from 17-19 June 2015.&lt;/p&gt;
@@ -123,7 +151,12 @@ can submit your idea earlier.&lt;/p&gt;
 &lt;p&gt;If you'd like to get in touch via email, ping us at conference(at)pycon.sg&lt;/p&gt;
 &lt;p&gt;Don't wait! We're looking forward to receiving your submissions! We should also
 mention that for the first time we will grant a 25% rebate on the conference
-ticket for speakers.&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><published>2014-06-24T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-06-24:2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+ticket for speakers.&lt;/p&gt;</content><category term="pyconsg"></category></entry><entry><title>Thank You for Attending PyCon SG 2014</title><link href="/2014-pyconsg-thank-you.html" rel="alternate"></link><published>2014-06-24T00:00:00+08:00</published><updated>2014-06-24T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:None,2014-06-24:/2014-pyconsg-thank-you.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
+all attendees for taking time off to attend PyCon Singapore 2014 which was held at
+&lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June.&lt;/p&gt;
+&lt;p&gt;We organized this conference for the Python developer and student community in
+Singapore …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mbrochh/14465517992/"&gt;&lt;img alt="PyConSG 2014 attendees" src="/img/2014-pyconsg-crowd.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;On behalf of all the PyCon organizing committee members, I would like to thank
 all attendees for taking time off to attend PyCon Singapore 2014 which was held at
 &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from 18th June to 20th June.&lt;/p&gt;
@@ -155,7 +188,10 @@ organizing committee for PyCon SG 2015. If you are interested in joining the
 PyCon 2015 committee, you may let us know on the feedback form above.&lt;/p&gt;
 &lt;p&gt;Sincerely,
 Victor Neo&lt;/p&gt;
-&lt;p&gt;Chairman, PyCon Singapore 2014&lt;/p&gt;</summary><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2014</title><link href="/2014-pyconsg-call-for-talks.html" rel="alternate"></link><published>2014-02-17T00:00:00+08:00</published><author><name>Ivan</name></author><id>tag:,2014-02-17:2014-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;On behalf of the organizing committee of PyCon SG 2014,
+&lt;p&gt;Chairman, PyCon Singapore 2014&lt;/p&gt;</content><category term="pyconsg"></category></entry><entry><title>Call for proposals for PyConSG 2014</title><link href="/2014-pyconsg-call-for-talks.html" rel="alternate"></link><published>2014-02-17T00:00:00+08:00</published><updated>2014-02-17T00:00:00+08:00</updated><author><name>Ivan</name></author><id>tag:None,2014-02-17:/2014-pyconsg-call-for-talks.html</id><summary type="html">&lt;p&gt;On behalf of the organizing committee of PyCon SG 2014,
+we are pleased to invite members of the community to submit talks
+and/or tutorials for the 2014 PyCon Singapore Conference, to be held at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from June 18 to 20, 2014.&lt;/p&gt;
+&lt;p&gt;Our highlight this year is the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;On behalf of the organizing committee of PyCon SG 2014,
 we are pleased to invite members of the community to submit talks
 and/or tutorials for the 2014 PyCon Singapore Conference, to be held at the &lt;a href="http://www.sp.edu.sg/"&gt;Singapore Polytechnic&lt;/a&gt; from June 18 to 20, 2014.&lt;/p&gt;
 &lt;p&gt;Our highlight this year is the announcement of 2 keynote speakers:&lt;/p&gt;
@@ -168,4 +204,4 @@ and/or tutorials for the 2014 PyCon Singapore Conference, to be held at the &lt;
 &lt;p&gt;The submission deadline for both is April 30, 2014&lt;/p&gt;
 &lt;p&gt;For enquiries, please direct them to conference(at)pycon.sg&lt;/p&gt;
 &lt;p&gt;We look forward to receiving your submissions and to a great
-conference this year!&lt;/p&gt;</summary><category term="pyconsg"></category></entry></feed>
+conference this year!&lt;/p&gt;</content><category term="pyconsg"></category></entry></feed>

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/michael.atom.xml" rel="self"></link><id>/</id><updated>2015-10-18T00:00:00+08:00</updated><entry><title>Notification of PUGS AGM 2015</title><link href="/2015-oct-agm-announce.html" rel="alternate"></link><published>2015-10-18T00:00:00+08:00</published><author><name>Michael</name></author><id>tag:,2015-10-18:2015-oct-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Michael</title><link href="/" rel="alternate"></link><link href="/feeds/michael.atom.xml" rel="self"></link><id>/</id><updated>2015-10-18T00:00:00+08:00</updated><entry><title>Notification of PUGS AGM 2015</title><link href="/2015-oct-agm-announce.html" rel="alternate"></link><published>2015-10-18T00:00:00+08:00</published><updated>2015-10-18T00:00:00+08:00</updated><author><name>Michael</name></author><id>tag:None,2015-10-18:/2015-oct-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting on the 28th October 2015.
 You are cordially invited to take part in our elections or to volunteer for a
 spot on the committee!&lt;/p&gt;
-&lt;p&gt;Date/time: 28th October 2015 19:00&lt;br /&gt;
+&lt;p&gt;Date/time: 28th October 2015 19:00&lt;br&gt;
+Venue: Paypal Office 5 Temasek Blvd, Suntec Tower …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;p&gt;We will be holding our Annual General Meeting on the 28th October 2015.
+You are cordially invited to take part in our elections or to volunteer for a
+spot on the committee!&lt;/p&gt;
+&lt;p&gt;Date/time: 28th October 2015 19:00&lt;br&gt;
 Venue: Paypal Office 5 Temasek Blvd, Suntec Tower Five, Level 7, Singapore 038985&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;ul&gt;
@@ -25,6 +30,6 @@ Venue: Paypal Office 5 Temasek Blvd, Suntec Tower Five, Level 7, Singapore 03898
 position; You may do so by proxy, with written approval.&lt;/p&gt;
 &lt;p&gt;You are welcome to contact us for more information on any of the positions or
 for general enquiries.  We look forward to your participation!&lt;/p&gt;
-&lt;p&gt;Best Regards,&lt;br /&gt;
-Michael Li&lt;br /&gt;
-Secretary, Python User Group (Singapore)&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Best Regards,&lt;br&gt;
+Michael Li&lt;br&gt;
+Secretary, Python User Group (Singapore)&lt;/p&gt;</content></entry></feed>

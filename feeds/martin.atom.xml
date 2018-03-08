@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Martin</title><link href="/" rel="alternate"></link><link href="/feeds/martin.atom.xml" rel="self"></link><id>/</id><updated>2018-02-28T00:00:00+08:00</updated><entry><title>February 2018 meetup</title><link href="/2018-feb-meetup.html" rel="alternate"></link><published>2018-02-28T00:00:00+08:00</published><updated>2018-02-28T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-02-28:/2018-feb-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 28, 7 to 9pm&lt;br/&gt;
+&lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
+(&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
+&lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/247613608/"&gt;meetup
+page&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;7pm: Meet &amp;amp; Greet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm: How being a sore loser at board games helped an amateur coder write
+his first 1,000 line project by Yi Sheng Siow&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Asymmetric board games, where players …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 28, 7 to 9pm&lt;br/&gt;
+&lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
+(&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
+&lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/247613608/"&gt;meetup
+page&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;7pm: Meet &amp;amp; Greet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm: How being a sore loser at board games helped an amateur coder write
+his first 1,000 line project by Yi Sheng Siow&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Asymmetric board games, where players play different roles and game actions, are
+getting more popular, but it's not easy to balance such games. Amateur
+programmer and sore loser Yi Sheng shared how he scripted the rules and game
+flow of board game Not Alone
+(https://boardgamegeek.com/boardgame/194879/not-alone) in Python and made Python
+objects play against each other thousands of times to validate his suspicions
+that the game is unfair for one side. He then expanded his program to attempt to
+find and test winning strategies in the game.&lt;/p&gt;
+&lt;p&gt;Siow Yi Sheng had a life of wealth management and financial audit before
+focusing his efforts on his love of programming. He is currently doing projects
+in web development, software engineering, data science, web scraping to build
+his portfolio and enter the industry.&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://speakerdeck.com/foreverfighter/not-alone-board-game-simulations"&gt;slides&lt;/a&gt;)
+(&lt;a href="https://github.com/foreverfighter/not_alone_simulation"&gt;code&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8:00pm: Comparing building command line tools with argparse, docopt and click
+by Saurabh Hirani&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Saurabh went through sample use cases of building a common command line tool
+with argparse, docopt and click (in that order of complexity) and call out
+situations in which each library works best.&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://go-talks.appspot.com/github.com/saurabh-hirani/talks/argparse-docopt-click/slides/argparse-docopt-click.slide#1"&gt;slides&lt;/a&gt;)
+(&lt;a href="https://github.com/saurabh-hirani/talks/tree/master/argparse-docopt-click"&gt;code&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8:30pm: Switching between terminal logs and json logs by Saurabh Hirani&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In a lightning talk, Saurabh presented how to leverage the Python logging
+library - jsonlogger and structlog to switch between terminal and json logs -
+optimizing for user readability and output parseability.&lt;/p&gt;
+&lt;p&gt;Saurabh is currently working at Autodesk Singapore as a Senior DevOps engineer
+and loves to automate infrastructure and build tools.&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://go-talks.appspot.com/github.com/saurabh-hirani/talks/terminal-and-json-logging/slides/terminal-and-json-logging.slide#1"&gt;slides&lt;/a&gt;)
+(&lt;a href="https://github.com/saurabh-hirani/talks/tree/master/terminal-and-json-logging"&gt;code&lt;/a&gt;)&lt;/p&gt;</content><category term="dev-practice"></category></entry></feed>

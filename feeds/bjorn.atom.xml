@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore</title><link href="/" rel="alternate"></link><link href="/feeds/bjorn.atom.xml" rel="self"></link><id>/</id><updated>2015-03-09T00:00:00+08:00</updated><entry><title>Mar 2015 meetup</title><link href="/2015-march-meetup.html" rel="alternate"></link><published>2015-03-09T00:00:00+08:00</published><author><name>Björn</name></author><id>tag:,2015-03-09:2015-march-meetup.html</id><summary type="html">&lt;p&gt;Another month, another meetup!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Björn</title><link href="/" rel="alternate"></link><link href="/feeds/bjorn.atom.xml" rel="self"></link><id>/</id><updated>2015-03-09T00:00:00+08:00</updated><entry><title>Mar 2015 meetup</title><link href="/2015-march-meetup.html" rel="alternate"></link><published>2015-03-09T00:00:00+08:00</published><updated>2015-03-09T00:00:00+08:00</updated><author><name>Björn</name></author><id>tag:None,2015-03-09:/2015-march-meetup.html</id><summary type="html">&lt;p&gt;Another month, another meetup!
+This time it'll be on the 26th of March at the &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;' office.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; 87B Amoy Street #03/04, Singapore 069906, Singapore&lt;/p&gt;
+&lt;p&gt;If you want to attend then please &lt;a href="http://meetu.ps/2H2kv1"&gt;sign up on our meetup
+page&lt;/a&gt;, as there is limited space please only mark yourself as
+attending …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Another month, another meetup!
 This time it'll be on the 26th of March at the &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;' office.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; 87B Amoy Street #03/04, Singapore 069906, Singapore&lt;/p&gt;
 &lt;p&gt;If you want to attend then please &lt;a href="http://meetu.ps/2H2kv1"&gt;sign up on our meetup
@@ -79,4 +84,4 @@ Victor &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&a
 &lt;hr&gt;
 
 &lt;p&gt;A big thanks to our venue sponsor&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.thoughtworks.com"&gt;&lt;img alt="ThoughtWorks" src="/img/tw-logo.png" /&gt;&lt;/a&gt;.&lt;/p&gt;</summary><category term="webdev"></category><category term="dev-practice"></category><category term="motm"></category></entry></feed>
+&lt;p&gt;&lt;a href="http://www.thoughtworks.com"&gt;&lt;img alt="ThoughtWorks" src="/img/tw-logo.png"&gt;&lt;/a&gt;.&lt;/p&gt;</content><category term="webdev"></category><category term="dev-practice"></category><category term="motm"></category></entry></feed>
