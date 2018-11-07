@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Python User Group Singapore - Martin</title><link>/</link><description></description><lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0800</lastBuildDate><item><title>March 2018 Meetup - Open House Event at Shopee</title><link>/2018-mar-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 27, 7 to 9pm&lt;br/&gt;
+<rss version="2.0"><channel><title>Python User Group Singapore - Martin</title><link>/</link><description></description><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0800</lastBuildDate><item><title>October 2018 Meetup</title><link>/2018-oct-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
+&lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
+(&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
+&lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/255353319/"&gt;meetup
+page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We couldn't find a good day in the last week of October, so our October 2018 Meetup actually took place on November 1st ;)&lt;/p&gt;
+&lt;h2&gt;Talk 1: "Performance Improvements with Cython" by Kaivalya Rawal&lt;/h2&gt;
+&lt;p&gt;Programming languages …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 01 Nov 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-11-01:/2018-oct-meetup.html</guid><category>dev-practice</category></item><item><title>March 2018 Meetup - Open House Event at Shopee</title><link>/2018-mar-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 27, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.shopee.sg"&gt;Shopee&lt;/a&gt;, 2 Science Park Drive #03-01 Tower A, Ascent Singapore
 (&lt;a href="https://goo.gl/maps/4osTNQZWE5u"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/248522225/"&gt;meetup
