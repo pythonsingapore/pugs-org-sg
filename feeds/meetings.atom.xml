@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - meetings</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2018-11-01T00:00:00+08:00</updated><entry><title>October 2018 Meetup</title><link href="/2018-oct-meetup.html" rel="alternate"></link><published>2018-11-01T00:00:00+08:00</published><updated>2018-11-01T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-11-01:/2018-oct-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - meetings</title><link href="/" rel="alternate"></link><link href="/feeds/meetings.atom.xml" rel="self"></link><id>/</id><updated>2019-01-29T00:00:00+08:00</updated><entry><title>Notification of PUGS AGM 2018</title><link href="/2018-feb-agm-announce.html" rel="alternate"></link><published>2019-01-29T00:00:00+08:00</published><updated>2019-01-29T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-29:/2018-feb-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;p&gt;We will be holding our Annual General Meeting (for the year 2018) on Tuesday, February 17 from 7 to
+9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
+068811,
+&lt;a href="https://encrypted.google.com/maps/place/Red+Hat/@1.275445,103.8469478,18z/data=!4m5!3m4!1s0x0:0x166080ad6b7de256!8m2!3d1.2757561!4d103.8472804?hl=en"&gt;map&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation of Financial Accounts&lt;/li&gt;
+&lt;li&gt;PyCon-SG 2019&lt;/li&gt;
+&lt;li&gt;Activities for 2019&lt;/li&gt;
+&lt;li&gt;Open discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;p&gt;We will be holding our Annual General Meeting (for the year 2018) on Tuesday, February 17 from 7 to
+9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
+068811,
+&lt;a href="https://encrypted.google.com/maps/place/Red+Hat/@1.275445,103.8469478,18z/data=!4m5!3m4!1s0x0:0x166080ad6b7de256!8m2!3d1.2757561!4d103.8472804?hl=en"&gt;map&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation of Financial Accounts&lt;/li&gt;
+&lt;li&gt;PyCon-SG 2019&lt;/li&gt;
+&lt;li&gt;Activities for 2019&lt;/li&gt;
+&lt;li&gt;Open discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please join us if you are interested in shaping local Python communities. &lt;/p&gt;
+&lt;p&gt;You may RSVP here: https://www.meetup.com/Singapore-Python-User-Group/events/258485342/&lt;/p&gt;</content><category term="agm"></category></entry><entry><title>October 2018 Meetup</title><link href="/2018-oct-meetup.html" rel="alternate"></link><published>2018-11-01T00:00:00+08:00</published><updated>2018-11-01T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-11-01:/2018-oct-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/255353319/"&gt;meetup
