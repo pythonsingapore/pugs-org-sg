@@ -7,7 +7,7 @@ Tags: agm
 
 Dear PUGS members,
 
-We will be holding our Annual General Meeting (for the year 2018) on Tuesday, February 17 from 7 to
+We will be holding our Annual General Meeting (for the year 2018) on Tuesday, February 19 from 7 to
 9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
 068811,
 [map](https://encrypted.google.com/maps/place/Red+Hat/@1.275445,103.8469478,18z/data=!4m5!3m4!1s0x0:0x166080ad6b7de256!8m2!3d1.2757561!4d103.8472804?hl=en))
