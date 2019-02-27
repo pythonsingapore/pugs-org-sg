@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Martin</title><link href="/" rel="alternate"></link><link href="/feeds/martin.atom.xml" rel="self"></link><id>/</id><updated>2019-01-31T00:00:00+08:00</updated><entry><title>January 2019 Meetup</title><link href="/2019-jan-meetup.html" rel="alternate"></link><published>2019-01-31T00:00:00+08:00</published><updated>2019-01-31T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-31:/2019-jan-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; January 31, 7 to 9pm&lt;br/&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Martin</title><link href="/" rel="alternate"></link><link href="/feeds/martin.atom.xml" rel="self"></link><id>/</id><updated>2019-02-19T00:00:00+08:00</updated><entry><title>Python User Group Singapore 2018 AGM</title><link href="/2018-agm.html" rel="alternate"></link><published>2019-02-19T00:00:00+08:00</published><updated>2019-02-19T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-02-19:/2018-agm.html</id><summary type="html">&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
+the committee members were too swamped with work or out of country, so we
+couldn't squeeze in a suitable date before the Christmas break.&lt;/p&gt;
+&lt;p&gt;Similar to previous years, around 35 people attended the AGM. Michael Lee, who …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
+the committee members were too swamped with work or out of country, so we
+couldn't squeeze in a suitable date before the Christmas break.&lt;/p&gt;
+&lt;p&gt;Similar to previous years, around 35 people attended the AGM. Michael Lee, who
+currently is the chairman of the society, presented what the Python User Group 
+has achieved in 2018 and what we are planning to do in 2019.&lt;/p&gt;
+&lt;p&gt;In short:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We have held PyCon APAC 2018, our biggest PyCon in Singapore to date&lt;/li&gt;
+&lt;li&gt;Alongside PyCon APAC, we also held an EDU Summit and a Young Coder's Workshop&lt;/li&gt;
+&lt;li&gt;We have started conducting paid workshops in 2018&lt;/li&gt;
+&lt;li&gt;We have held 8 Python User Group Meetups in 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In 2019 we will continue in the same manner:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;21 volunteers have signed up to be on the committee of PyCon Singapore 2019&lt;/li&gt;
+&lt;li&gt;PyCon Singapore 2019 will likely be held in October 2019&lt;/li&gt;
+&lt;li&gt;EDU Summit and Young Coder's Workshop will happen again, probably around June/July&lt;/li&gt;
+&lt;li&gt;We are looking to sign up more trainers so we can conduct more workshops&lt;/li&gt;
+&lt;li&gt;We will continue to host one meetup every month&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can download the slides of Michael's presentation here: &lt;a href="https://www.dropbox.com/s/4p56shb0nifyc2z/2018-PUGS-AGM.pptx?dl=0"&gt;2018-PUGS-AGM.ppt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you would like to become a member of the Python User Group Society, you
+may sign up here: http://tinyurl.com/pugsmembership - The membership is free
+and comes with no strings attached. You will get an email from us once a year
+when we need to gather for the AGM and whenever we organise big events, like
+the EDU Summit, the Young Coder's Workshop or PyCon Singapore.&lt;/p&gt;</content></entry><entry><title>January 2019 Meetup</title><link href="/2019-jan-meetup.html" rel="alternate"></link><published>2019-01-31T00:00:00+08:00</published><updated>2019-01-31T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-31:/2019-jan-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; January 31, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/257739669/"&gt;meetup
