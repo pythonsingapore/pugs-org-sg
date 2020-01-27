@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Martin</title><link href="/" rel="alternate"></link><link href="/feeds/martin.atom.xml" rel="self"></link><id>/</id><updated>2019-04-30T00:00:00+08:00</updated><entry><title>April 2019 Meetup - Tech@Shopee</title><link href="/2019-apr-meetup.html" rel="alternate"></link><published>2019-04-30T00:00:00+08:00</published><updated>2019-04-30T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-04-30:/2019-apr-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; April 30, 7 to 9pm&lt;br/&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python User Group Singapore - Martin</title><link href="/" rel="alternate"></link><link href="/feeds/martin.atom.xml" rel="self"></link><id>/</id><updated>2019-12-05T00:00:00+08:00</updated><entry><title>Python User Group Singapore 2019 AGM</title><link href="/2019-agm.html" rel="alternate"></link><published>2019-12-05T00:00:00+08:00</published><updated>2019-12-05T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-12-05:/2019-agm.html</id><summary type="html">&lt;p&gt;The 2019 AGM was held at the RedHat APAC office on December 5th 2019.&lt;/p&gt;
+&lt;p&gt;You can &lt;a href="https://docs.google.com/document/d/1gVHtDQG6NQ-Hqtdw5sI1cJ6inpCh5-zUeFeTt0FwZRI/edit?usp=sharing"&gt;find the AGM meeting notes here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As usual, the acting President of the Python User Group Society, Michael Lee,
+gave an overview of our finances and events that we have facilitated during the
+year …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The 2019 AGM was held at the RedHat APAC office on December 5th 2019.&lt;/p&gt;
+&lt;p&gt;You can &lt;a href="https://docs.google.com/document/d/1gVHtDQG6NQ-Hqtdw5sI1cJ6inpCh5-zUeFeTt0FwZRI/edit?usp=sharing"&gt;find the AGM meeting notes here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As usual, the acting President of the Python User Group Society, Michael Lee,
+gave an overview of our finances and events that we have facilitated during the
+year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We have held PyCon Singapore 2019 at Republic Polytechnic at Woodlands&lt;/li&gt;
+&lt;li&gt;Alongside PyCon, we also held an EDU Summit and a Young Coder's Workshop&lt;/li&gt;
+&lt;li&gt;We have continued conducting paid workshops in 2019&lt;/li&gt;
+&lt;li&gt;We have held 10 Python User Group Meetups in 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We proceeded with electing a new executive committee, the new roles are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;President&lt;/strong&gt;: Martin Brochhaus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vice President&lt;/strong&gt;: Max Ong&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Treasurer&lt;/strong&gt;: Michael Lee&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secretary&lt;/strong&gt;: Yoong Shin Chow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python Community Fund Custodian&lt;/strong&gt;: Dr. Liew Beng Keat&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Honorary Auditors&lt;/strong&gt;: Ka Ho, Maximilian Jackson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Outlook for 2020&lt;/h2&gt;
+&lt;p&gt;As the team that is running PyCon every year will not have the time to commit
+to organizing a PyCon in 2020, there will be no PyCon Singapore in 2020, unless
+a new team volunteers to take on the task. The existing team is happy to assist
+a new team with a wealth of email templates, contacts, timelines and access to
+the website, bank accounts and ticket sales systems.&lt;/p&gt;
+&lt;p&gt;Instead of running a PyCon, the Year 2020 Executive Committee would like to
+work on a large number of tasks that have been on the TODO-lists for years, but
+never got executed because PyCon usually takes up all the time that our
+volunteers can afford, after full time jobs, family life and other personal
+projects.&lt;/p&gt;
+&lt;p&gt;In 2020 we would like to focus on strengthening the society as an organisation
+itself:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;consolidate the pugs.org.sg and pycon.sg domains under the same registrar&lt;/li&gt;
+&lt;li&gt;create a Google Suite account for pugs.org.sg&lt;/li&gt;
+&lt;li&gt;use shared Google drives for different aspects of the society to make collaboration easier, especially when onboarding new committee members&lt;/li&gt;
+&lt;li&gt;make sure that all important documents are properly hosted on Google Drive and can be accessed by the relevant members&lt;/li&gt;
+&lt;li&gt;create individual email addresses for each executive committee role (ie treasurer@pugs.org.sg)&lt;/li&gt;
+&lt;li&gt;create a LinkedIn organization for PUGS, add the acting committee members to that organisation&lt;/li&gt;
+&lt;li&gt;create web forms for community members to submit proposals for talks for the monthly meetups&lt;/li&gt;
+&lt;li&gt;create web forms for community members to become official members of the society&lt;/li&gt;
+&lt;li&gt;find a replacement for meetup.com tot avoid their new pricing scheme&lt;/li&gt;
+&lt;li&gt;find a better forum for discussions, Facebook is too proprietary, not indexed, too much flooded with spam, too hard to moderate&lt;/li&gt;
+&lt;li&gt;grow the use of the Slack channel as an active community resource&lt;/li&gt;
+&lt;li&gt;prepare a huge set of documentation, email templates, timelines, contact information, vendor lists etc. to allow
+  any team to run a PyCon in Singapore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The most important project shall be to &lt;strong&gt;explore ways to offer a paid membership
+for the Python User Group Singapore&lt;/strong&gt;. A small annual fee of \$20 could potentially
+allow us to host future PyCons at vastly better venues and generally make the
+community more financially independant from corporate sponsors.&lt;/p&gt;
+&lt;p&gt;As part of this project, we seek to find good incentives to make a paid
+membership worth it for our members.&lt;/p&gt;</content><category term="meetings"></category></entry><entry><title>April 2019 Meetup - Tech@Shopee</title><link href="/2019-apr-meetup.html" rel="alternate"></link><published>2019-04-30T00:00:00+08:00</published><updated>2019-04-30T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-04-30:/2019-apr-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; April 30, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.shopee.com"&gt;Shopee&lt;/a&gt;, 2 Science Park Drive #03-01, Tower A, Ascent Building
 (&lt;a href="https://goo.gl/maps/cMin5WnAqE1Bve2L9"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/260439972/"&gt;meetup
@@ -20,7 +77,7 @@ soft drinks and a great spacious auditorium at their office.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Presentation on Image Search by Cao Mingxuan&lt;/li&gt;
 &lt;li&gt;The End of the Pandas Era - Gear Up Analytics Using PySpark by Harisingh Khedar&lt;/li&gt;
-&lt;/ul&gt;</content></entry><entry><title>March 2019 Meetup</title><link href="/2019-mar-meetup.html" rel="alternate"></link><published>2019-03-26T00:00:00+08:00</published><updated>2019-03-26T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-03-26:/2019-mar-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 26, 7 to 9pm&lt;br/&gt;
+&lt;/ul&gt;</content><category term="meetings"></category></entry><entry><title>March 2019 Meetup</title><link href="/2019-mar-meetup.html" rel="alternate"></link><published>2019-03-26T00:00:00+08:00</published><updated>2019-03-26T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-03-26:/2019-mar-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 26, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/259524377/"&gt;meetup
@@ -41,7 +98,7 @@ unusual but awesome food choices. Of course, our speakers were great, too:&lt;/p
 &lt;li&gt;&lt;a href="https://drive.google.com/open?id=1w5oeARt8rnN60IPdFdQJQMSfUZ7biTk_"&gt;Entangled in Dependencies - Pipenv &amp;amp; Poetry by Alex Khaerov&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The second talk was a hands-on demonstration about simple IoT applications using
-Raspberry Pi by Ang Swee Chye. This demonstration did not use any slides.&lt;/p&gt;</content></entry><entry><title>Free Python Courses at FOSSASIA</title><link href="/python-fossasia.html" rel="alternate"></link><published>2019-03-08T00:00:00+08:00</published><updated>2019-03-08T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-03-08:/python-fossasia.html</id><summary type="html">&lt;p&gt;BuildingBloCS (comprising students from various A-level, O-level and IP
+Raspberry Pi by Ang Swee Chye. This demonstration did not use any slides.&lt;/p&gt;</content><category term="meetings"></category></entry><entry><title>Free Python Courses at FOSSASIA</title><link href="/python-fossasia.html" rel="alternate"></link><published>2019-03-08T00:00:00+08:00</published><updated>2019-03-08T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-03-08:/python-fossasia.html</id><summary type="html">&lt;p&gt;BuildingBloCS (comprising students from various A-level, O-level and IP
 Computing schools), in conjunction with FOSSASIA and Lifelong Learning Institute
 Skills Future SG will be organising a series of free 2-hour introductory code
 labs at the 10th anniversary of FOSSASIA Open Tech Summit 2019.fossasia.org on
@@ -86,7 +143,7 @@ student/staff ID upon registration. Key highlights include: &lt;/p&gt;
 &lt;p&gt;You can also join the event as a volunteer. Sign up here:
 &lt;a href="https://2019.fossasia.org/volunteers/"&gt;https://2019.fossasia.org/volunteers/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please feel free to email &lt;a href="mailto:buildingblocs@computing.sg"&gt;buildingblocs@computing.sg&lt;/a&gt; if you
-have any queries.&lt;/p&gt;</content></entry><entry><title>February 2019 Meetup</title><link href="/2019-feb-meetup.html" rel="alternate"></link><published>2019-02-27T00:00:00+08:00</published><updated>2019-02-27T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-02-27:/2019-feb-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 27, 7 to 9pm&lt;br/&gt;
+have any queries.&lt;/p&gt;</content><category term="courses"></category></entry><entry><title>February 2019 Meetup</title><link href="/2019-feb-meetup.html" rel="alternate"></link><published>2019-02-27T00:00:00+08:00</published><updated>2019-02-27T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-02-27:/2019-feb-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 27, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.dbs.com"&gt;DBS&lt;/a&gt;, MBFC Tower, 12 Marina Blvd 
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/257739669/"&gt;meetup
@@ -105,7 +162,7 @@ to date. The videos can be found here:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://engineers.sg/video/a-human-readable-scheduling-tool-based-on-python-antlr-singapore-python-user-group--3226"&gt;A Human-readable Scheduling Tool based on Python + ANTLR&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://engineers.sg/video/a-gentle-introduction-to-deep-learning-singapore-python-user-group--3225"&gt;A Gentle Introduction to Deep Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content></entry><entry><title>Python User Group Singapore 2018 AGM</title><link href="/2018-agm.html" rel="alternate"></link><published>2019-02-19T00:00:00+08:00</published><updated>2019-02-19T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-02-19:/2018-agm.html</id><summary type="html">&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
+&lt;/ul&gt;</content><category term="meetings"></category></entry><entry><title>Python User Group Singapore 2018 AGM</title><link href="/2018-agm.html" rel="alternate"></link><published>2019-02-19T00:00:00+08:00</published><updated>2019-02-19T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-02-19:/2018-agm.html</id><summary type="html">&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
 the committee members were too swamped with work or out of country, so we
 couldn't squeeze in a suitable date before the Christmas break.&lt;/p&gt;
 &lt;p&gt;Similar to previous years, around 35 people attended the AGM. Michael Lee, who …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
@@ -134,7 +191,7 @@ has achieved in 2018 and what we are planning to do in 2019.&lt;/p&gt;
 may sign up here: http://tinyurl.com/pugsmembership - The membership is free
 and comes with no strings attached. You will get an email from us once a year
 when we need to gather for the AGM and whenever we organise big events, like
-the EDU Summit, the Young Coder's Workshop or PyCon Singapore.&lt;/p&gt;</content></entry><entry><title>January 2019 Meetup</title><link href="/2019-jan-meetup.html" rel="alternate"></link><published>2019-01-31T00:00:00+08:00</published><updated>2019-01-31T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-31:/2019-jan-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; January 31, 7 to 9pm&lt;br/&gt;
+the EDU Summit, the Young Coder's Workshop or PyCon Singapore.&lt;/p&gt;</content><category term="meetings"></category></entry><entry><title>January 2019 Meetup</title><link href="/2019-jan-meetup.html" rel="alternate"></link><published>2019-01-31T00:00:00+08:00</published><updated>2019-01-31T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-31:/2019-jan-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; January 31, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/257739669/"&gt;meetup
@@ -157,7 +214,7 @@ to hosting the Python User Group meetups every other month.&lt;/p&gt;
 &lt;p&gt;Power BI, a business analytics tool by Microsoft announced support for Python in August 2018. This talk will demonstrate how Python users can leverage this opportunity to bring together their data science visualizations into business dashboards, allowing for even better business decisions. (Note: Jeff is not sponsored by nor work for Microsoft in any capacity)&lt;/p&gt;
 &lt;p&gt;Jeff Lim is the Analytics Lead of Paula’s Choice Singapore. He uses Data Science and Business Intelligence tools to gain insights from various data generated by the business. Currently, he is also the course instructor for various Python and Analytics courses in Port Education.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://engineers.sg/video/python-and-power-bi-singapore-python-user-group--3200"&gt;Video&lt;/a&gt;
-&lt;a href="https://docs.google.com/presentation/d/108TFwhO_Z1fViuR_2DedvZUAmVsKxsED9Il-8cIh-es/"&gt;Slides&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><category term="dev-practice"></category></entry><entry><title>Notification of PUGS AGM 2018</title><link href="/2018-feb-agm-announce.html" rel="alternate"></link><published>2019-01-29T00:00:00+08:00</published><updated>2019-01-29T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-29:/2018-feb-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;a href="https://docs.google.com/presentation/d/108TFwhO_Z1fViuR_2DedvZUAmVsKxsED9Il-8cIh-es/"&gt;Slides&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><category term="meetings"></category><category term="dev-practice"></category></entry><entry><title>Notification of PUGS AGM 2018</title><link href="/2018-feb-agm-announce.html" rel="alternate"></link><published>2019-01-29T00:00:00+08:00</published><updated>2019-01-29T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2019-01-29:/2018-feb-agm-announce.html</id><summary type="html">&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting (for the year 2018) on Tuesday, February 19 from 7 to
 9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
 068811,
@@ -182,7 +239,7 @@ to hosting the Python User Group meetups every other month.&lt;/p&gt;
 &lt;li&gt;Open discussion&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please join us if you are interested in shaping local Python communities. &lt;/p&gt;
-&lt;p&gt;You may RSVP here: https://www.meetup.com/Singapore-Python-User-Group/events/258485342/&lt;/p&gt;</content><category term="agm"></category></entry><entry><title>October 2018 Meetup</title><link href="/2018-oct-meetup.html" rel="alternate"></link><published>2018-11-01T00:00:00+08:00</published><updated>2018-11-01T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-11-01:/2018-oct-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
+&lt;p&gt;You may RSVP here: https://www.meetup.com/Singapore-Python-User-Group/events/258485342/&lt;/p&gt;</content><category term="meetings"></category><category term="agm"></category></entry><entry><title>October 2018 Meetup</title><link href="/2018-oct-meetup.html" rel="alternate"></link><published>2018-11-01T00:00:00+08:00</published><updated>2018-11-01T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-11-01:/2018-oct-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/255353319/"&gt;meetup
@@ -204,7 +261,7 @@ page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Python can do a lot of things. Yi Sheng introduces 30 different things we can use the beautiful language for. From creating presentations to writing blogs to creating chatbots to doing deep learning, relearn the magic of Python with this talk. Demos and actual code for the demos will be shown and briefly explained. Resources for the demos will be shared after the talk.&lt;/p&gt;
 &lt;p&gt;Yi Sheng SIOW has experience working in numbers, web development and data analytics. He is trained in Accountancy and enjoys writing nice code.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/JSXgS2AToj8"&gt;Video recording&lt;/a&gt;
-&lt;a href="https://github.com/siowyisheng/30-things-in-python"&gt;Github repo&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><category term="dev-practice"></category></entry><entry><title>March 2018 Meetup - Open House Event at Shopee</title><link href="/2018-mar-meetup.html" rel="alternate"></link><published>2018-03-15T00:00:00+08:00</published><updated>2018-03-15T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-03-15:/2018-mar-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 27, 7 to 9pm&lt;br/&gt;
+&lt;a href="https://github.com/siowyisheng/30-things-in-python"&gt;Github repo&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><category term="meetings"></category><category term="dev-practice"></category></entry><entry><title>March 2018 Meetup - Open House Event at Shopee</title><link href="/2018-mar-meetup.html" rel="alternate"></link><published>2018-03-15T00:00:00+08:00</published><updated>2018-03-15T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-03-15:/2018-mar-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 27, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.shopee.sg"&gt;Shopee&lt;/a&gt;, 2 Science Park Drive #03-01 Tower A, Ascent Singapore
 (&lt;a href="https://goo.gl/maps/4osTNQZWE5u"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/248522225/"&gt;meetup
@@ -243,7 +300,7 @@ Python, here are some of the topics that could be covered:&lt;/p&gt;
 &lt;li&gt;Virtualenv&lt;/li&gt;
 &lt;li&gt;Jupyter&lt;/li&gt;
 &lt;li&gt;Pandas&lt;/li&gt;
-&lt;/ul&gt;</content><category term="dev-practice"></category></entry><entry><title>February 2018 meetup</title><link href="/2018-feb-meetup.html" rel="alternate"></link><published>2018-02-28T00:00:00+08:00</published><updated>2018-02-28T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-02-28:/2018-feb-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 28, 7 to 9pm&lt;br/&gt;
+&lt;/ul&gt;</content><category term="meetings"></category><category term="dev-practice"></category></entry><entry><title>February 2018 meetup</title><link href="/2018-feb-meetup.html" rel="alternate"></link><published>2018-02-28T00:00:00+08:00</published><updated>2018-02-28T00:00:00+08:00</updated><author><name>Martin</name></author><id>tag:None,2018-02-28:/2018-feb-meetup.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 28, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/247613608/"&gt;meetup
@@ -289,4 +346,4 @@ optimizing for user readability and output parseability.&lt;/p&gt;
 &lt;p&gt;Saurabh is currently working at Autodesk Singapore as a Senior DevOps engineer
 and loves to automate infrastructure and build tools.&lt;/p&gt;
 &lt;p&gt;(&lt;a href="https://go-talks.appspot.com/github.com/saurabh-hirani/talks/terminal-and-json-logging/slides/terminal-and-json-logging.slide#1"&gt;slides&lt;/a&gt;)
-(&lt;a href="https://github.com/saurabh-hirani/talks/tree/master/terminal-and-json-logging"&gt;code&lt;/a&gt;)&lt;/p&gt;</content><category term="dev-practice"></category></entry></feed>
+(&lt;a href="https://github.com/saurabh-hirani/talks/tree/master/terminal-and-json-logging"&gt;code&lt;/a&gt;)&lt;/p&gt;</content><category term="meetings"></category><category term="dev-practice"></category></entry></feed>

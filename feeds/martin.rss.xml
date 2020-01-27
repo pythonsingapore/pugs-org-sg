@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Python User Group Singapore - Martin</title><link>/</link><description></description><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0800</lastBuildDate><item><title>April 2019 Meetup - Tech@Shopee</title><link>/2019-apr-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; April 30, 7 to 9pm&lt;br/&gt;
+<rss version="2.0"><channel><title>Python User Group Singapore - Martin</title><link>/</link><description></description><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0800</lastBuildDate><item><title>Python User Group Singapore 2019 AGM</title><link>/2019-agm.html</link><description>&lt;p&gt;The 2019 AGM was held at the RedHat APAC office on December 5th 2019.&lt;/p&gt;
+&lt;p&gt;You can &lt;a href="https://docs.google.com/document/d/1gVHtDQG6NQ-Hqtdw5sI1cJ6inpCh5-zUeFeTt0FwZRI/edit?usp=sharing"&gt;find the AGM meeting notes here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As usual, the acting President of the Python User Group Society, Michael Lee,
+gave an overview of our finances and events that we have facilitated during the
+year …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 05 Dec 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-12-05:/2019-agm.html</guid><category>meetings</category></item><item><title>April 2019 Meetup - Tech@Shopee</title><link>/2019-apr-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; April 30, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.shopee.com"&gt;Shopee&lt;/a&gt;, 2 Science Park Drive #03-01, Tower A, Ascent Building
 (&lt;a href="https://goo.gl/maps/cMin5WnAqE1Bve2L9"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/260439972/"&gt;meetup
 page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For the second year in a row, Shopee invited the Python User Group to an open 
-house event where some of Shopee's engineers would share about their work at …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 30 Apr 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-04-30:/2019-apr-meetup.html</guid></item><item><title>March 2019 Meetup</title><link>/2019-mar-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 26, 7 to 9pm&lt;br/&gt;
+house event where some of Shopee's engineers would share about their work at …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 30 Apr 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-04-30:/2019-apr-meetup.html</guid><category>meetings</category></item><item><title>March 2019 Meetup</title><link>/2019-mar-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 26, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/259524377/"&gt;meetup
@@ -15,11 +19,11 @@ unusual but awesome food choices. Of course, our speakers were great, too:&lt;/p
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://drive.google.com/open?id=1w5oeARt8rnN60IPdFdQJQMSfUZ7biTk_"&gt;Entangled in Dependencies - Pipenv &amp;amp; Poetry by Alex Khaerov&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 26 Mar 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-03-26:/2019-mar-meetup.html</guid></item><item><title>Free Python Courses at FOSSASIA</title><link>/python-fossasia.html</link><description>&lt;p&gt;BuildingBloCS (comprising students from various A-level, O-level and IP
+&lt;p&gt;The …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 26 Mar 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-03-26:/2019-mar-meetup.html</guid><category>meetings</category></item><item><title>Free Python Courses at FOSSASIA</title><link>/python-fossasia.html</link><description>&lt;p&gt;BuildingBloCS (comprising students from various A-level, O-level and IP
 Computing schools), in conjunction with FOSSASIA and Lifelong Learning Institute
 Skills Future SG will be organising a series of free 2-hour introductory code
 labs at the 10th anniversary of FOSSASIA Open Tech Summit 2019.fossasia.org on
-Friday 15 March and …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Fri, 08 Mar 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-03-08:/python-fossasia.html</guid></item><item><title>February 2019 Meetup</title><link>/2019-feb-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 27, 7 to 9pm&lt;br/&gt;
+Friday 15 March and …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Fri, 08 Mar 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-03-08:/python-fossasia.html</guid><category>courses</category></item><item><title>February 2019 Meetup</title><link>/2019-feb-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 27, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.dbs.com"&gt;DBS&lt;/a&gt;, MBFC Tower, 12 Marina Blvd 
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/257739669/"&gt;meetup
@@ -28,17 +32,17 @@ page&lt;/a&gt;&lt;/p&gt;
 to date. The videos can be found here:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://engineers.sg/video/a-human-readable-scheduling-tool-based-on-python-antlr-singapore-python-user-group--3226"&gt;A Human-readable Scheduling Tool based on Python + ANTLR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://engineers.sg/video/a-gentle-introduction-to-deep-learning-singapore-python-user-group--3225"&gt;A Gentle Introduction to …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Wed, 27 Feb 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-02-27:/2019-feb-meetup.html</guid></item><item><title>Python User Group Singapore 2018 AGM</title><link>/2018-agm.html</link><description>&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
+&lt;li&gt;&lt;a href="https://engineers.sg/video/a-gentle-introduction-to-deep-learning-singapore-python-user-group--3225"&gt;A Gentle Introduction to …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Wed, 27 Feb 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-02-27:/2019-feb-meetup.html</guid><category>meetings</category></item><item><title>Python User Group Singapore 2018 AGM</title><link>/2018-agm.html</link><description>&lt;p&gt;This AGM should have been held in November 2018, but unfortunately, some of
 the committee members were too swamped with work or out of country, so we
 couldn't squeeze in a suitable date before the Christmas break.&lt;/p&gt;
-&lt;p&gt;Similar to previous years, around 35 people attended the AGM. Michael Lee, who …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 19 Feb 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-02-19:/2018-agm.html</guid></item><item><title>January 2019 Meetup</title><link>/2019-jan-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; January 31, 7 to 9pm&lt;br/&gt;
+&lt;p&gt;Similar to previous years, around 35 people attended the AGM. Michael Lee, who …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 19 Feb 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-02-19:/2018-agm.html</guid><category>meetings</category></item><item><title>January 2019 Meetup</title><link>/2019-jan-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; January 31, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/257739669/"&gt;meetup
 page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2019 is off to a good start. For the second year in a row, Zendesk has committed
 to hosting the Python User Group meetups every other month.&lt;/p&gt;
-&lt;h2&gt;Talk 1: "Using Docker and Kubernetes to …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 31 Jan 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-01-31:/2019-jan-meetup.html</guid><category>dev-practice</category></item><item><title>Notification of PUGS AGM 2018</title><link>/2018-feb-agm-announce.html</link><description>&lt;p&gt;Dear PUGS members,&lt;/p&gt;
+&lt;h2&gt;Talk 1: "Using Docker and Kubernetes to …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 31 Jan 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-01-31:/2019-jan-meetup.html</guid><category>meetings</category><category>dev-practice</category></item><item><title>Notification of PUGS AGM 2018</title><link>/2018-feb-agm-announce.html</link><description>&lt;p&gt;Dear PUGS members,&lt;/p&gt;
 &lt;p&gt;We will be holding our Annual General Meeting (for the year 2018) on Tuesday, February 19 from 7 to
 9pm at Red Hat Singapore office (8 Shenton Way, 10-01 AXA Tower, Singapore
 068811,
@@ -50,14 +54,14 @@ to hosting the Python User Group meetups every other month.&lt;/p&gt;
 &lt;li&gt;Activities for 2019&lt;/li&gt;
 &lt;li&gt;Open discussion&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-01-29:/2018-feb-agm-announce.html</guid><category>agm</category></item><item><title>October 2018 Meetup</title><link>/2018-oct-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
+&lt;p&gt;Please …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-01-29:/2018-feb-agm-announce.html</guid><category>meetings</category><category>agm</category></item><item><title>October 2018 Meetup</title><link>/2018-oct-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; November 1, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/255353319/"&gt;meetup
 page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We couldn't find a good day in the last week of October, so our October 2018 Meetup actually took place on November 1st ;)&lt;/p&gt;
 &lt;h2&gt;Talk 1: "Performance Improvements with Cython" by Kaivalya Rawal&lt;/h2&gt;
-&lt;p&gt;Programming languages …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 01 Nov 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-11-01:/2018-oct-meetup.html</guid><category>dev-practice</category></item><item><title>March 2018 Meetup - Open House Event at Shopee</title><link>/2018-mar-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 27, 7 to 9pm&lt;br/&gt;
+&lt;p&gt;Programming languages …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 01 Nov 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-11-01:/2018-oct-meetup.html</guid><category>meetings</category><category>dev-practice</category></item><item><title>March 2018 Meetup - Open House Event at Shopee</title><link>/2018-mar-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; March 27, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.shopee.sg"&gt;Shopee&lt;/a&gt;, 2 Science Park Drive #03-01 Tower A, Ascent Singapore
 (&lt;a href="https://goo.gl/maps/4osTNQZWE5u"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/248522225/"&gt;meetup
@@ -65,7 +69,7 @@ page&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;p&gt;This month, Shopee Singapore would like to invite the local Python community to
 an open house event at the Shopee Cafeteria.&lt;/p&gt;
-&lt;p&gt;We will feature a panel discussion with …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 15 Mar 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-03-15:/2018-mar-meetup.html</guid><category>dev-practice</category></item><item><title>February 2018 meetup</title><link>/2018-feb-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 28, 7 to 9pm&lt;br/&gt;
+&lt;p&gt;We will feature a panel discussion with …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Thu, 15 Mar 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-03-15:/2018-mar-meetup.html</guid><category>meetings</category><category>dev-practice</category></item><item><title>February 2018 meetup</title><link>/2018-feb-meetup.html</link><description>&lt;p&gt;&lt;em&gt;Date:&lt;/em&gt; February 28, 7 to 9pm&lt;br/&gt;
 &lt;em&gt;Venue:&lt;/em&gt; &lt;a href="https://www.zendesk.com"&gt;Zendesk&lt;/a&gt;, 401 Commonwealth Drive, #07-01
 (&lt;a href="https://goo.gl/maps/oxHhdVPPrNG2"&gt;map&lt;/a&gt;).&lt;br/&gt;
 &lt;em&gt;Signup:&lt;/em&gt; &lt;a href="https://www.meetup.com/Singapore-Python-User-Group/events/247613608/"&gt;meetup
@@ -74,4 +78,4 @@ page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7pm: Meet &amp;amp; Greet&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7:30pm: How being a sore loser at board games helped an amateur coder write
 his first 1,000 line project by Yi Sheng Siow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Asymmetric board games, where players …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Wed, 28 Feb 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-02-28:/2018-feb-meetup.html</guid><category>dev-practice</category></item></channel></rss>
+&lt;p&gt;Asymmetric board games, where players …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin</dc:creator><pubDate>Wed, 28 Feb 2018 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2018-02-28:/2018-feb-meetup.html</guid><category>meetings</category><category>dev-practice</category></item></channel></rss>
