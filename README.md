@@ -1,6 +1,12 @@
 # Python Users Group Singapore
 
-This is source repository for [pugs.org.sg](http://pugs.org.sg). We use [pelican](http://docs.getpelican.com/) to build the site which is hosted on [GitHub pages](http://pages.github.com/).
+This is source repository for [pugs.org.sg](http://pugs.org.sg). We use [pelican](http://docs.getpelican.com/) to build the site. 
+
+The site is hosted on Netlify, a deployment will be triggered simply by pushing a commit into the master branch.
+
+The build command is `make publish`.
+
+The devserver command is `make devserver`
 
 ## How to contribute
 
