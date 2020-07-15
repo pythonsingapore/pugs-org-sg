@@ -1,57 +1,66 @@
 <html>
-    <head>
-        <title>Stripe</title>
-        <meta name="slug" content="stripe" />
-    </head>
-    <body>
-        <p>This is just a test. Don't use this button unless you want to donate money to us, we will not refund you :)</p>
-        <!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
 
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_Gr0OIvQdQkRJYs"
-  role="link"
->
-  Checkout
-</button>
+<head>
+  <title>Stripe</title>
+  <meta name="slug" content="stripe" />
+</head>
 
-<div id="error-message"></div>
+<body>
+  <p>This is just a test. Don't use this button unless you want to donate money to us, we will not refund you :)</p>
+  <!-- Load Stripe.js on your website. -->
+  <script src="https://js.stripe.com/v3"></script>
 
-<script>
-(function() {
-  var stripe = Stripe('pk_live_DW65n0NQutV1lb3jqiN19bsC00dUxb4qWC');
+  <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+  <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+    id="checkout-button-sku_Gr0OIvQdQkRJYs" role="link">
+    Checkout
+  </button>
 
-  var checkoutButton = document.getElementById('checkout-button-sku_Gr0OIvQdQkRJYs');
-  checkoutButton.addEventListener('click', function () {
-    // When the customer clicks on the button, redirect
-    // them to Checkout.
-    stripe.redirectToCheckout({
-      items: [{sku: 'sku_Gr0OIvQdQkRJYs', quantity: 1}],
+  <div id="error-message"></div>
 
-      // Do not rely on the redirect to the successUrl for fulfilling
-      // purchases, customers may not always reach the success_url after
-      // a successful payment.
-      // Instead use one of the strategies described in
-      // https://stripe.com/docs/payments/checkout/fulfillment
-      successUrl: 'https://pugs.org.sg/success',
-      cancelUrl: 'https://pugs.org.sg/canceled',
-    })
-    .then(function (result) {
-      if (result.error) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer.
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    });
-  });
-})();
-</script>
+  <script>
+    (function () {
+      var stripe = Stripe('pk_live_DW65n0NQutV1lb3jqiN19bsC00dUxb4qWC');
 
-<p>
-<a href="https://python-sg.memberful.com/checkout?plan=45955">Buy Sample Plan for $25/month.</a>
-</p>
-    </body>
+      var checkoutButton = document.getElementById('checkout-button-sku_Gr0OIvQdQkRJYs');
+      checkoutButton.addEventListener('click', function () {
+        // When the customer clicks on the button, redirect
+        // them to Checkout.
+        stripe.redirectToCheckout({
+            items: [{
+              sku: 'sku_Gr0OIvQdQkRJYs',
+              quantity: 1
+            }],
+
+            // Do not rely on the redirect to the successUrl for fulfilling
+            // purchases, customers may not always reach the success_url after
+            // a successful payment.
+            // Instead use one of the strategies described in
+            // https://stripe.com/docs/payments/checkout/fulfillment
+            successUrl: 'https://pugs.org.sg/success',
+            cancelUrl: 'https://pugs.org.sg/canceled',
+          })
+          .then(function (result) {
+            if (result.error) {
+              // If `redirectToCheckout` fails due to a browser or network
+              // error, display the localized error message to your customer.
+              var displayError = document.getElementById('error-message');
+              displayError.textContent = result.error.message;
+            }
+          });
+      });
+    })();
+  </script>
+
+  <p>
+    <a href="https://python-sg.memberful.com/checkout?plan=45955">Buy Sample Plan for $25/month.</a>
+  </p>
+
+  <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+    src="https://app.mailjet.com/widget/iframe/53pd/Ek6" width="100%"></iframe>
+  <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+
+
+</body>
+
 </html>
